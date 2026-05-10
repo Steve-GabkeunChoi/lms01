@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "title": "강의 일정 안내 1",
+    "type": "강의공지",
+    "writerId": 4,
+    "targetCourseId": 15,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-15"
+  },
+  {
+    "id": 2,
+    "title": "학습 자료 업데이트 2",
+    "type": "시험공지",
+    "writerId": 9,
+    "targetCourseId": 2,
+    "important": true,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-24"
+  },
+  {
+    "id": 3,
+    "title": "강의 일정 안내 3",
+    "type": "강의공지",
+    "writerId": 11,
+    "targetCourseId": 6,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-03"
+  },
+  {
+    "id": 4,
+    "title": "평가 일정 공지 4",
+    "type": "강의공지",
+    "writerId": 9,
+    "targetCourseId": 26,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-10"
+  },
+  {
+    "id": 5,
+    "title": "시스템 점검 안내 5",
+    "type": "전체공지",
+    "writerId": 3,
+    "targetCourseId": 17,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": 6,
+    "title": "평가 일정 공지 6",
+    "type": "강의공지",
+    "writerId": 2,
+    "targetCourseId": 1,
+    "important": true,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-16"
+  },
+  {
+    "id": 7,
+    "title": "시스템 점검 안내 7",
+    "type": "전체공지",
+    "writerId": 7,
+    "targetCourseId": 20,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-09"
+  },
+  {
+    "id": 8,
+    "title": "시스템 점검 안내 8",
+    "type": "시험공지",
+    "writerId": 4,
+    "targetCourseId": 8,
+    "important": true,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-15"
+  },
+  {
+    "id": 9,
+    "title": "과제 제출 안내 9",
+    "type": "강의공지",
+    "writerId": 8,
+    "targetCourseId": 30,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-12"
+  },
+  {
+    "id": 10,
+    "title": "과제 제출 안내 10",
+    "type": "시스템공지",
+    "writerId": 11,
+    "targetCourseId": 25,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-25"
+  },
+  {
+    "id": 11,
+    "title": "학습 자료 업데이트 11",
+    "type": "전체공지",
+    "writerId": 4,
+    "targetCourseId": 9,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-22"
+  },
+  {
+    "id": 12,
+    "title": "시스템 점검 안내 12",
+    "type": "시스템공지",
+    "writerId": 4,
+    "targetCourseId": 20,
+    "important": true,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-18"
+  },
+  {
+    "id": 13,
+    "title": "시스템 점검 안내 13",
+    "type": "시험공지",
+    "writerId": 4,
+    "targetCourseId": 19,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-01"
+  },
+  {
+    "id": 14,
+    "title": "강의 일정 안내 14",
+    "type": "시험공지",
+    "writerId": 7,
+    "targetCourseId": 25,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-24"
+  },
+  {
+    "id": 15,
+    "title": "시스템 점검 안내 15",
+    "type": "과제공지",
+    "writerId": 8,
+    "targetCourseId": 7,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-23"
+  },
+  {
+    "id": 16,
+    "title": "과제 제출 안내 16",
+    "type": "과제공지",
+    "writerId": 4,
+    "targetCourseId": 23,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-12"
+  },
+  {
+    "id": 17,
+    "title": "학습 자료 업데이트 17",
+    "type": "시험공지",
+    "writerId": 10,
+    "targetCourseId": 11,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-13"
+  },
+  {
+    "id": 18,
+    "title": "강의 일정 안내 18",
+    "type": "전체공지",
+    "writerId": 10,
+    "targetCourseId": 28,
+    "important": true,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-19"
+  },
+  {
+    "id": 19,
+    "title": "학습 자료 업데이트 19",
+    "type": "시험공지",
+    "writerId": 11,
+    "targetCourseId": 24,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-11"
+  },
+  {
+    "id": 20,
+    "title": "평가 일정 공지 20",
+    "type": "강의공지",
+    "writerId": 7,
+    "targetCourseId": 25,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-18"
+  },
+  {
+    "id": 21,
+    "title": "학습 자료 업데이트 21",
+    "type": "강의공지",
+    "writerId": 8,
+    "targetCourseId": 1,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-25"
+  },
+  {
+    "id": 22,
+    "title": "과제 제출 안내 22",
+    "type": "과제공지",
+    "writerId": 8,
+    "targetCourseId": 24,
+    "important": true,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-23"
+  },
+  {
+    "id": 23,
+    "title": "시스템 점검 안내 23",
+    "type": "과제공지",
+    "writerId": 11,
+    "targetCourseId": 22,
+    "important": true,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-21"
+  },
+  {
+    "id": 24,
+    "title": "평가 일정 공지 24",
+    "type": "시스템공지",
+    "writerId": 11,
+    "targetCourseId": 27,
+    "important": true,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-10"
+  },
+  {
+    "id": 25,
+    "title": "학습 자료 업데이트 25",
+    "type": "시험공지",
+    "writerId": 10,
+    "targetCourseId": 5,
+    "important": false,
+    "content": "공지사항 상세 내용입니다. 학습 일정과 제출 기한을 확인하세요.",
+    "createdAt": "2026-05-07"
+  }
+]

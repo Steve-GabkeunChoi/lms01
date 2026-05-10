@@ -1,0 +1,8770 @@
+[
+  {
+    "id": 1,
+    "courseId": 1,
+    "studentId": 20,
+    "lessonId": 1,
+    "status": "late",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 2,
+    "courseId": 1,
+    "studentId": 20,
+    "lessonId": 2,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 3,
+    "courseId": 1,
+    "studentId": 20,
+    "lessonId": 3,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 4,
+    "courseId": 1,
+    "studentId": 20,
+    "lessonId": 4,
+    "status": "late",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 5,
+    "courseId": 1,
+    "studentId": 68,
+    "lessonId": 1,
+    "status": "late",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 6,
+    "courseId": 1,
+    "studentId": 68,
+    "lessonId": 2,
+    "status": "late",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 7,
+    "courseId": 1,
+    "studentId": 68,
+    "lessonId": 3,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 8,
+    "courseId": 1,
+    "studentId": 68,
+    "lessonId": 4,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 9,
+    "courseId": 1,
+    "studentId": 40,
+    "lessonId": 1,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 10,
+    "courseId": 1,
+    "studentId": 40,
+    "lessonId": 2,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 11,
+    "courseId": 1,
+    "studentId": 40,
+    "lessonId": 3,
+    "status": "excused",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 12,
+    "courseId": 1,
+    "studentId": 40,
+    "lessonId": 4,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 13,
+    "courseId": 1,
+    "studentId": 12,
+    "lessonId": 1,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 14,
+    "courseId": 1,
+    "studentId": 12,
+    "lessonId": 2,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 15,
+    "courseId": 1,
+    "studentId": 12,
+    "lessonId": 3,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 16,
+    "courseId": 1,
+    "studentId": 12,
+    "lessonId": 4,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 17,
+    "courseId": 1,
+    "studentId": 57,
+    "lessonId": 1,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 18,
+    "courseId": 1,
+    "studentId": 57,
+    "lessonId": 2,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 19,
+    "courseId": 1,
+    "studentId": 57,
+    "lessonId": 3,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 20,
+    "courseId": 1,
+    "studentId": 57,
+    "lessonId": 4,
+    "status": "late",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 21,
+    "courseId": 1,
+    "studentId": 71,
+    "lessonId": 1,
+    "status": "excused",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 22,
+    "courseId": 1,
+    "studentId": 71,
+    "lessonId": 2,
+    "status": "absent",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 23,
+    "courseId": 1,
+    "studentId": 71,
+    "lessonId": 3,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 24,
+    "courseId": 1,
+    "studentId": 71,
+    "lessonId": 4,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 25,
+    "courseId": 2,
+    "studentId": 65,
+    "lessonId": 7,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 26,
+    "courseId": 2,
+    "studentId": 65,
+    "lessonId": 8,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 27,
+    "courseId": 2,
+    "studentId": 65,
+    "lessonId": 9,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 28,
+    "courseId": 2,
+    "studentId": 65,
+    "lessonId": 10,
+    "status": "excused",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 29,
+    "courseId": 2,
+    "studentId": 40,
+    "lessonId": 7,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 30,
+    "courseId": 2,
+    "studentId": 40,
+    "lessonId": 8,
+    "status": "excused",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 31,
+    "courseId": 2,
+    "studentId": 40,
+    "lessonId": 9,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 32,
+    "courseId": 2,
+    "studentId": 40,
+    "lessonId": 10,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 33,
+    "courseId": 2,
+    "studentId": 38,
+    "lessonId": 7,
+    "status": "excused",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 34,
+    "courseId": 2,
+    "studentId": 38,
+    "lessonId": 8,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 35,
+    "courseId": 2,
+    "studentId": 38,
+    "lessonId": 9,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 36,
+    "courseId": 2,
+    "studentId": 38,
+    "lessonId": 10,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 37,
+    "courseId": 2,
+    "studentId": 19,
+    "lessonId": 7,
+    "status": "excused",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 38,
+    "courseId": 2,
+    "studentId": 19,
+    "lessonId": 8,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 39,
+    "courseId": 2,
+    "studentId": 19,
+    "lessonId": 9,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 40,
+    "courseId": 2,
+    "studentId": 19,
+    "lessonId": 10,
+    "status": "excused",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 41,
+    "courseId": 2,
+    "studentId": 37,
+    "lessonId": 7,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 42,
+    "courseId": 2,
+    "studentId": 37,
+    "lessonId": 8,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 43,
+    "courseId": 2,
+    "studentId": 37,
+    "lessonId": 9,
+    "status": "excused",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 44,
+    "courseId": 2,
+    "studentId": 37,
+    "lessonId": 10,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 45,
+    "courseId": 2,
+    "studentId": 70,
+    "lessonId": 7,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 46,
+    "courseId": 2,
+    "studentId": 70,
+    "lessonId": 8,
+    "status": "late",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 47,
+    "courseId": 2,
+    "studentId": 70,
+    "lessonId": 9,
+    "status": "late",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 48,
+    "courseId": 2,
+    "studentId": 70,
+    "lessonId": 10,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 49,
+    "courseId": 2,
+    "studentId": 16,
+    "lessonId": 7,
+    "status": "absent",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 50,
+    "courseId": 2,
+    "studentId": 16,
+    "lessonId": 8,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 51,
+    "courseId": 2,
+    "studentId": 16,
+    "lessonId": 9,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 52,
+    "courseId": 2,
+    "studentId": 16,
+    "lessonId": 10,
+    "status": "late",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 53,
+    "courseId": 2,
+    "studentId": 54,
+    "lessonId": 7,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 54,
+    "courseId": 2,
+    "studentId": 54,
+    "lessonId": 8,
+    "status": "late",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 55,
+    "courseId": 2,
+    "studentId": 54,
+    "lessonId": 9,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 56,
+    "courseId": 2,
+    "studentId": 54,
+    "lessonId": 10,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 57,
+    "courseId": 2,
+    "studentId": 27,
+    "lessonId": 7,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 58,
+    "courseId": 2,
+    "studentId": 27,
+    "lessonId": 8,
+    "status": "late",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 59,
+    "courseId": 2,
+    "studentId": 27,
+    "lessonId": 9,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 60,
+    "courseId": 2,
+    "studentId": 27,
+    "lessonId": 10,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 61,
+    "courseId": 2,
+    "studentId": 39,
+    "lessonId": 7,
+    "status": "absent",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 62,
+    "courseId": 2,
+    "studentId": 39,
+    "lessonId": 8,
+    "status": "late",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 63,
+    "courseId": 2,
+    "studentId": 39,
+    "lessonId": 9,
+    "status": "absent",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 64,
+    "courseId": 2,
+    "studentId": 39,
+    "lessonId": 10,
+    "status": "late",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 65,
+    "courseId": 2,
+    "studentId": 63,
+    "lessonId": 7,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 66,
+    "courseId": 2,
+    "studentId": 63,
+    "lessonId": 8,
+    "status": "absent",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 67,
+    "courseId": 2,
+    "studentId": 63,
+    "lessonId": 9,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 68,
+    "courseId": 2,
+    "studentId": 63,
+    "lessonId": 10,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 69,
+    "courseId": 3,
+    "studentId": 17,
+    "lessonId": 13,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 70,
+    "courseId": 3,
+    "studentId": 17,
+    "lessonId": 14,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 71,
+    "courseId": 3,
+    "studentId": 17,
+    "lessonId": 15,
+    "status": "late",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 72,
+    "courseId": 3,
+    "studentId": 17,
+    "lessonId": 16,
+    "status": "late",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 73,
+    "courseId": 3,
+    "studentId": 35,
+    "lessonId": 13,
+    "status": "excused",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 74,
+    "courseId": 3,
+    "studentId": 35,
+    "lessonId": 14,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 75,
+    "courseId": 3,
+    "studentId": 35,
+    "lessonId": 15,
+    "status": "excused",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 76,
+    "courseId": 3,
+    "studentId": 35,
+    "lessonId": 16,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 77,
+    "courseId": 3,
+    "studentId": 13,
+    "lessonId": 13,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 78,
+    "courseId": 3,
+    "studentId": 13,
+    "lessonId": 14,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 79,
+    "courseId": 3,
+    "studentId": 13,
+    "lessonId": 15,
+    "status": "excused",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 80,
+    "courseId": 3,
+    "studentId": 13,
+    "lessonId": 16,
+    "status": "late",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 81,
+    "courseId": 3,
+    "studentId": 33,
+    "lessonId": 13,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 82,
+    "courseId": 3,
+    "studentId": 33,
+    "lessonId": 14,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 83,
+    "courseId": 3,
+    "studentId": 33,
+    "lessonId": 15,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 84,
+    "courseId": 3,
+    "studentId": 33,
+    "lessonId": 16,
+    "status": "excused",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 85,
+    "courseId": 3,
+    "studentId": 47,
+    "lessonId": 13,
+    "status": "absent",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 86,
+    "courseId": 3,
+    "studentId": 47,
+    "lessonId": 14,
+    "status": "late",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 87,
+    "courseId": 3,
+    "studentId": 47,
+    "lessonId": 15,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 88,
+    "courseId": 3,
+    "studentId": 47,
+    "lessonId": 16,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 89,
+    "courseId": 3,
+    "studentId": 41,
+    "lessonId": 13,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 90,
+    "courseId": 3,
+    "studentId": 41,
+    "lessonId": 14,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 91,
+    "courseId": 3,
+    "studentId": 41,
+    "lessonId": 15,
+    "status": "excused",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 92,
+    "courseId": 3,
+    "studentId": 41,
+    "lessonId": 16,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 93,
+    "courseId": 3,
+    "studentId": 40,
+    "lessonId": 13,
+    "status": "late",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 94,
+    "courseId": 3,
+    "studentId": 40,
+    "lessonId": 14,
+    "status": "late",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 95,
+    "courseId": 3,
+    "studentId": 40,
+    "lessonId": 15,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 96,
+    "courseId": 3,
+    "studentId": 40,
+    "lessonId": 16,
+    "status": "late",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 97,
+    "courseId": 3,
+    "studentId": 67,
+    "lessonId": 13,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 98,
+    "courseId": 3,
+    "studentId": 67,
+    "lessonId": 14,
+    "status": "excused",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 99,
+    "courseId": 3,
+    "studentId": 67,
+    "lessonId": 15,
+    "status": "absent",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 100,
+    "courseId": 3,
+    "studentId": 67,
+    "lessonId": 16,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 101,
+    "courseId": 3,
+    "studentId": 36,
+    "lessonId": 13,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 102,
+    "courseId": 3,
+    "studentId": 36,
+    "lessonId": 14,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 103,
+    "courseId": 3,
+    "studentId": 36,
+    "lessonId": 15,
+    "status": "late",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 104,
+    "courseId": 3,
+    "studentId": 36,
+    "lessonId": 16,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 105,
+    "courseId": 3,
+    "studentId": 66,
+    "lessonId": 13,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 106,
+    "courseId": 3,
+    "studentId": 66,
+    "lessonId": 14,
+    "status": "excused",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 107,
+    "courseId": 3,
+    "studentId": 66,
+    "lessonId": 15,
+    "status": "excused",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 108,
+    "courseId": 3,
+    "studentId": 66,
+    "lessonId": 16,
+    "status": "absent",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 109,
+    "courseId": 3,
+    "studentId": 45,
+    "lessonId": 13,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 110,
+    "courseId": 3,
+    "studentId": 45,
+    "lessonId": 14,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 111,
+    "courseId": 3,
+    "studentId": 45,
+    "lessonId": 15,
+    "status": "late",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 112,
+    "courseId": 3,
+    "studentId": 45,
+    "lessonId": 16,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 113,
+    "courseId": 3,
+    "studentId": 16,
+    "lessonId": 13,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 114,
+    "courseId": 3,
+    "studentId": 16,
+    "lessonId": 14,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 115,
+    "courseId": 3,
+    "studentId": 16,
+    "lessonId": 15,
+    "status": "late",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 116,
+    "courseId": 3,
+    "studentId": 16,
+    "lessonId": 16,
+    "status": "absent",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 117,
+    "courseId": 4,
+    "studentId": 16,
+    "lessonId": 19,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 118,
+    "courseId": 4,
+    "studentId": 16,
+    "lessonId": 20,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 119,
+    "courseId": 4,
+    "studentId": 16,
+    "lessonId": 21,
+    "status": "absent",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 120,
+    "courseId": 4,
+    "studentId": 16,
+    "lessonId": 22,
+    "status": "absent",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 121,
+    "courseId": 4,
+    "studentId": 28,
+    "lessonId": 19,
+    "status": "late",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 122,
+    "courseId": 4,
+    "studentId": 28,
+    "lessonId": 20,
+    "status": "absent",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 123,
+    "courseId": 4,
+    "studentId": 28,
+    "lessonId": 21,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 124,
+    "courseId": 4,
+    "studentId": 28,
+    "lessonId": 22,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 125,
+    "courseId": 4,
+    "studentId": 19,
+    "lessonId": 19,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 126,
+    "courseId": 4,
+    "studentId": 19,
+    "lessonId": 20,
+    "status": "late",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 127,
+    "courseId": 4,
+    "studentId": 19,
+    "lessonId": 21,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 128,
+    "courseId": 4,
+    "studentId": 19,
+    "lessonId": 22,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 129,
+    "courseId": 4,
+    "studentId": 41,
+    "lessonId": 19,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 130,
+    "courseId": 4,
+    "studentId": 41,
+    "lessonId": 20,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 131,
+    "courseId": 4,
+    "studentId": 41,
+    "lessonId": 21,
+    "status": "late",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 132,
+    "courseId": 4,
+    "studentId": 41,
+    "lessonId": 22,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 133,
+    "courseId": 4,
+    "studentId": 12,
+    "lessonId": 19,
+    "status": "late",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 134,
+    "courseId": 4,
+    "studentId": 12,
+    "lessonId": 20,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 135,
+    "courseId": 4,
+    "studentId": 12,
+    "lessonId": 21,
+    "status": "excused",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 136,
+    "courseId": 4,
+    "studentId": 12,
+    "lessonId": 22,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 137,
+    "courseId": 4,
+    "studentId": 33,
+    "lessonId": 19,
+    "status": "excused",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 138,
+    "courseId": 4,
+    "studentId": 33,
+    "lessonId": 20,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 139,
+    "courseId": 4,
+    "studentId": 33,
+    "lessonId": 21,
+    "status": "late",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 140,
+    "courseId": 4,
+    "studentId": 33,
+    "lessonId": 22,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 141,
+    "courseId": 4,
+    "studentId": 47,
+    "lessonId": 19,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 142,
+    "courseId": 4,
+    "studentId": 47,
+    "lessonId": 20,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 143,
+    "courseId": 4,
+    "studentId": 47,
+    "lessonId": 21,
+    "status": "late",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 144,
+    "courseId": 4,
+    "studentId": 47,
+    "lessonId": 22,
+    "status": "absent",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 145,
+    "courseId": 4,
+    "studentId": 38,
+    "lessonId": 19,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 146,
+    "courseId": 4,
+    "studentId": 38,
+    "lessonId": 20,
+    "status": "absent",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 147,
+    "courseId": 4,
+    "studentId": 38,
+    "lessonId": 21,
+    "status": "late",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 148,
+    "courseId": 4,
+    "studentId": 38,
+    "lessonId": 22,
+    "status": "late",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 149,
+    "courseId": 4,
+    "studentId": 45,
+    "lessonId": 19,
+    "status": "absent",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 150,
+    "courseId": 4,
+    "studentId": 45,
+    "lessonId": 20,
+    "status": "absent",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 151,
+    "courseId": 4,
+    "studentId": 45,
+    "lessonId": 21,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 152,
+    "courseId": 4,
+    "studentId": 45,
+    "lessonId": 22,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 153,
+    "courseId": 5,
+    "studentId": 40,
+    "lessonId": 25,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 154,
+    "courseId": 5,
+    "studentId": 40,
+    "lessonId": 26,
+    "status": "late",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 155,
+    "courseId": 5,
+    "studentId": 40,
+    "lessonId": 27,
+    "status": "excused",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 156,
+    "courseId": 5,
+    "studentId": 40,
+    "lessonId": 28,
+    "status": "excused",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 157,
+    "courseId": 5,
+    "studentId": 54,
+    "lessonId": 25,
+    "status": "late",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 158,
+    "courseId": 5,
+    "studentId": 54,
+    "lessonId": 26,
+    "status": "absent",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 159,
+    "courseId": 5,
+    "studentId": 54,
+    "lessonId": 27,
+    "status": "excused",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 160,
+    "courseId": 5,
+    "studentId": 54,
+    "lessonId": 28,
+    "status": "excused",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 161,
+    "courseId": 5,
+    "studentId": 64,
+    "lessonId": 25,
+    "status": "absent",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 162,
+    "courseId": 5,
+    "studentId": 64,
+    "lessonId": 26,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 163,
+    "courseId": 5,
+    "studentId": 64,
+    "lessonId": 27,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 164,
+    "courseId": 5,
+    "studentId": 64,
+    "lessonId": 28,
+    "status": "late",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 165,
+    "courseId": 5,
+    "studentId": 39,
+    "lessonId": 25,
+    "status": "excused",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 166,
+    "courseId": 5,
+    "studentId": 39,
+    "lessonId": 26,
+    "status": "late",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 167,
+    "courseId": 5,
+    "studentId": 39,
+    "lessonId": 27,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 168,
+    "courseId": 5,
+    "studentId": 39,
+    "lessonId": 28,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 169,
+    "courseId": 5,
+    "studentId": 43,
+    "lessonId": 25,
+    "status": "absent",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 170,
+    "courseId": 5,
+    "studentId": 43,
+    "lessonId": 26,
+    "status": "late",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 171,
+    "courseId": 5,
+    "studentId": 43,
+    "lessonId": 27,
+    "status": "excused",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 172,
+    "courseId": 5,
+    "studentId": 43,
+    "lessonId": 28,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 173,
+    "courseId": 5,
+    "studentId": 46,
+    "lessonId": 25,
+    "status": "late",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 174,
+    "courseId": 5,
+    "studentId": 46,
+    "lessonId": 26,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 175,
+    "courseId": 5,
+    "studentId": 46,
+    "lessonId": 27,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 176,
+    "courseId": 5,
+    "studentId": 46,
+    "lessonId": 28,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 177,
+    "courseId": 5,
+    "studentId": 37,
+    "lessonId": 25,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 178,
+    "courseId": 5,
+    "studentId": 37,
+    "lessonId": 26,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 179,
+    "courseId": 5,
+    "studentId": 37,
+    "lessonId": 27,
+    "status": "absent",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 180,
+    "courseId": 5,
+    "studentId": 37,
+    "lessonId": 28,
+    "status": "excused",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 181,
+    "courseId": 5,
+    "studentId": 44,
+    "lessonId": 25,
+    "status": "late",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 182,
+    "courseId": 5,
+    "studentId": 44,
+    "lessonId": 26,
+    "status": "late",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 183,
+    "courseId": 5,
+    "studentId": 44,
+    "lessonId": 27,
+    "status": "absent",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 184,
+    "courseId": 5,
+    "studentId": 44,
+    "lessonId": 28,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 185,
+    "courseId": 5,
+    "studentId": 31,
+    "lessonId": 25,
+    "status": "excused",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 186,
+    "courseId": 5,
+    "studentId": 31,
+    "lessonId": 26,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 187,
+    "courseId": 5,
+    "studentId": 31,
+    "lessonId": 27,
+    "status": "late",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 188,
+    "courseId": 5,
+    "studentId": 31,
+    "lessonId": 28,
+    "status": "excused",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 189,
+    "courseId": 5,
+    "studentId": 56,
+    "lessonId": 25,
+    "status": "late",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 190,
+    "courseId": 5,
+    "studentId": 56,
+    "lessonId": 26,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 191,
+    "courseId": 5,
+    "studentId": 56,
+    "lessonId": 27,
+    "status": "absent",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 192,
+    "courseId": 5,
+    "studentId": 56,
+    "lessonId": 28,
+    "status": "excused",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 193,
+    "courseId": 5,
+    "studentId": 25,
+    "lessonId": 25,
+    "status": "excused",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 194,
+    "courseId": 5,
+    "studentId": 25,
+    "lessonId": 26,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 195,
+    "courseId": 5,
+    "studentId": 25,
+    "lessonId": 27,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 196,
+    "courseId": 5,
+    "studentId": 25,
+    "lessonId": 28,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 197,
+    "courseId": 5,
+    "studentId": 26,
+    "lessonId": 25,
+    "status": "absent",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 198,
+    "courseId": 5,
+    "studentId": 26,
+    "lessonId": 26,
+    "status": "excused",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 199,
+    "courseId": 5,
+    "studentId": 26,
+    "lessonId": 27,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 200,
+    "courseId": 5,
+    "studentId": 26,
+    "lessonId": 28,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 201,
+    "courseId": 5,
+    "studentId": 33,
+    "lessonId": 25,
+    "status": "absent",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 202,
+    "courseId": 5,
+    "studentId": 33,
+    "lessonId": 26,
+    "status": "excused",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 203,
+    "courseId": 5,
+    "studentId": 33,
+    "lessonId": 27,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 204,
+    "courseId": 5,
+    "studentId": 33,
+    "lessonId": 28,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 205,
+    "courseId": 5,
+    "studentId": 52,
+    "lessonId": 25,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 206,
+    "courseId": 5,
+    "studentId": 52,
+    "lessonId": 26,
+    "status": "excused",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 207,
+    "courseId": 5,
+    "studentId": 52,
+    "lessonId": 27,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 208,
+    "courseId": 5,
+    "studentId": 52,
+    "lessonId": 28,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 209,
+    "courseId": 5,
+    "studentId": 20,
+    "lessonId": 25,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 210,
+    "courseId": 5,
+    "studentId": 20,
+    "lessonId": 26,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 211,
+    "courseId": 5,
+    "studentId": 20,
+    "lessonId": 27,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 212,
+    "courseId": 5,
+    "studentId": 20,
+    "lessonId": 28,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 213,
+    "courseId": 5,
+    "studentId": 61,
+    "lessonId": 25,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 214,
+    "courseId": 5,
+    "studentId": 61,
+    "lessonId": 26,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 215,
+    "courseId": 5,
+    "studentId": 61,
+    "lessonId": 27,
+    "status": "absent",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 216,
+    "courseId": 5,
+    "studentId": 61,
+    "lessonId": 28,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 217,
+    "courseId": 6,
+    "studentId": 53,
+    "lessonId": 31,
+    "status": "late",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 218,
+    "courseId": 6,
+    "studentId": 53,
+    "lessonId": 32,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 219,
+    "courseId": 6,
+    "studentId": 53,
+    "lessonId": 33,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 220,
+    "courseId": 6,
+    "studentId": 53,
+    "lessonId": 34,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 221,
+    "courseId": 6,
+    "studentId": 24,
+    "lessonId": 31,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 222,
+    "courseId": 6,
+    "studentId": 24,
+    "lessonId": 32,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 223,
+    "courseId": 6,
+    "studentId": 24,
+    "lessonId": 33,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 224,
+    "courseId": 6,
+    "studentId": 24,
+    "lessonId": 34,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 225,
+    "courseId": 6,
+    "studentId": 71,
+    "lessonId": 31,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 226,
+    "courseId": 6,
+    "studentId": 71,
+    "lessonId": 32,
+    "status": "late",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 227,
+    "courseId": 6,
+    "studentId": 71,
+    "lessonId": 33,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 228,
+    "courseId": 6,
+    "studentId": 71,
+    "lessonId": 34,
+    "status": "absent",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 229,
+    "courseId": 6,
+    "studentId": 12,
+    "lessonId": 31,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 230,
+    "courseId": 6,
+    "studentId": 12,
+    "lessonId": 32,
+    "status": "late",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 231,
+    "courseId": 6,
+    "studentId": 12,
+    "lessonId": 33,
+    "status": "excused",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 232,
+    "courseId": 6,
+    "studentId": 12,
+    "lessonId": 34,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 233,
+    "courseId": 6,
+    "studentId": 17,
+    "lessonId": 31,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 234,
+    "courseId": 6,
+    "studentId": 17,
+    "lessonId": 32,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 235,
+    "courseId": 6,
+    "studentId": 17,
+    "lessonId": 33,
+    "status": "absent",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 236,
+    "courseId": 6,
+    "studentId": 17,
+    "lessonId": 34,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 237,
+    "courseId": 6,
+    "studentId": 28,
+    "lessonId": 31,
+    "status": "late",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 238,
+    "courseId": 6,
+    "studentId": 28,
+    "lessonId": 32,
+    "status": "absent",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 239,
+    "courseId": 6,
+    "studentId": 28,
+    "lessonId": 33,
+    "status": "excused",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 240,
+    "courseId": 6,
+    "studentId": 28,
+    "lessonId": 34,
+    "status": "absent",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 241,
+    "courseId": 6,
+    "studentId": 21,
+    "lessonId": 31,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 242,
+    "courseId": 6,
+    "studentId": 21,
+    "lessonId": 32,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 243,
+    "courseId": 6,
+    "studentId": 21,
+    "lessonId": 33,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 244,
+    "courseId": 6,
+    "studentId": 21,
+    "lessonId": 34,
+    "status": "excused",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 245,
+    "courseId": 6,
+    "studentId": 49,
+    "lessonId": 31,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 246,
+    "courseId": 6,
+    "studentId": 49,
+    "lessonId": 32,
+    "status": "absent",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 247,
+    "courseId": 6,
+    "studentId": 49,
+    "lessonId": 33,
+    "status": "absent",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 248,
+    "courseId": 6,
+    "studentId": 49,
+    "lessonId": 34,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 249,
+    "courseId": 7,
+    "studentId": 64,
+    "lessonId": 37,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 250,
+    "courseId": 7,
+    "studentId": 64,
+    "lessonId": 38,
+    "status": "excused",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 251,
+    "courseId": 7,
+    "studentId": 64,
+    "lessonId": 39,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 252,
+    "courseId": 7,
+    "studentId": 64,
+    "lessonId": 40,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 253,
+    "courseId": 7,
+    "studentId": 49,
+    "lessonId": 37,
+    "status": "excused",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 254,
+    "courseId": 7,
+    "studentId": 49,
+    "lessonId": 38,
+    "status": "absent",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 255,
+    "courseId": 7,
+    "studentId": 49,
+    "lessonId": 39,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 256,
+    "courseId": 7,
+    "studentId": 49,
+    "lessonId": 40,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 257,
+    "courseId": 7,
+    "studentId": 63,
+    "lessonId": 37,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 258,
+    "courseId": 7,
+    "studentId": 63,
+    "lessonId": 38,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 259,
+    "courseId": 7,
+    "studentId": 63,
+    "lessonId": 39,
+    "status": "late",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 260,
+    "courseId": 7,
+    "studentId": 63,
+    "lessonId": 40,
+    "status": "excused",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 261,
+    "courseId": 7,
+    "studentId": 57,
+    "lessonId": 37,
+    "status": "late",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 262,
+    "courseId": 7,
+    "studentId": 57,
+    "lessonId": 38,
+    "status": "absent",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 263,
+    "courseId": 7,
+    "studentId": 57,
+    "lessonId": 39,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 264,
+    "courseId": 7,
+    "studentId": 57,
+    "lessonId": 40,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 265,
+    "courseId": 7,
+    "studentId": 70,
+    "lessonId": 37,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 266,
+    "courseId": 7,
+    "studentId": 70,
+    "lessonId": 38,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 267,
+    "courseId": 7,
+    "studentId": 70,
+    "lessonId": 39,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 268,
+    "courseId": 7,
+    "studentId": 70,
+    "lessonId": 40,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 269,
+    "courseId": 8,
+    "studentId": 52,
+    "lessonId": 43,
+    "status": "late",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 270,
+    "courseId": 8,
+    "studentId": 52,
+    "lessonId": 44,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 271,
+    "courseId": 8,
+    "studentId": 52,
+    "lessonId": 45,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 272,
+    "courseId": 8,
+    "studentId": 52,
+    "lessonId": 46,
+    "status": "excused",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 273,
+    "courseId": 8,
+    "studentId": 28,
+    "lessonId": 43,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 274,
+    "courseId": 8,
+    "studentId": 28,
+    "lessonId": 44,
+    "status": "absent",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 275,
+    "courseId": 8,
+    "studentId": 28,
+    "lessonId": 45,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 276,
+    "courseId": 8,
+    "studentId": 28,
+    "lessonId": 46,
+    "status": "excused",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 277,
+    "courseId": 9,
+    "studentId": 58,
+    "lessonId": 49,
+    "status": "absent",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 278,
+    "courseId": 9,
+    "studentId": 58,
+    "lessonId": 50,
+    "status": "late",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 279,
+    "courseId": 9,
+    "studentId": 58,
+    "lessonId": 51,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 280,
+    "courseId": 9,
+    "studentId": 58,
+    "lessonId": 52,
+    "status": "excused",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 281,
+    "courseId": 9,
+    "studentId": 25,
+    "lessonId": 49,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 282,
+    "courseId": 9,
+    "studentId": 25,
+    "lessonId": 50,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 283,
+    "courseId": 9,
+    "studentId": 25,
+    "lessonId": 51,
+    "status": "excused",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 284,
+    "courseId": 9,
+    "studentId": 25,
+    "lessonId": 52,
+    "status": "excused",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 285,
+    "courseId": 9,
+    "studentId": 26,
+    "lessonId": 49,
+    "status": "absent",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 286,
+    "courseId": 9,
+    "studentId": 26,
+    "lessonId": 50,
+    "status": "excused",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 287,
+    "courseId": 9,
+    "studentId": 26,
+    "lessonId": 51,
+    "status": "absent",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 288,
+    "courseId": 9,
+    "studentId": 26,
+    "lessonId": 52,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 289,
+    "courseId": 9,
+    "studentId": 43,
+    "lessonId": 49,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 290,
+    "courseId": 9,
+    "studentId": 43,
+    "lessonId": 50,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 291,
+    "courseId": 9,
+    "studentId": 43,
+    "lessonId": 51,
+    "status": "absent",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 292,
+    "courseId": 9,
+    "studentId": 43,
+    "lessonId": 52,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 293,
+    "courseId": 9,
+    "studentId": 16,
+    "lessonId": 49,
+    "status": "excused",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 294,
+    "courseId": 9,
+    "studentId": 16,
+    "lessonId": 50,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 295,
+    "courseId": 9,
+    "studentId": 16,
+    "lessonId": 51,
+    "status": "excused",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 296,
+    "courseId": 9,
+    "studentId": 16,
+    "lessonId": 52,
+    "status": "excused",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 297,
+    "courseId": 9,
+    "studentId": 42,
+    "lessonId": 49,
+    "status": "late",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 298,
+    "courseId": 9,
+    "studentId": 42,
+    "lessonId": 50,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 299,
+    "courseId": 9,
+    "studentId": 42,
+    "lessonId": 51,
+    "status": "late",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 300,
+    "courseId": 9,
+    "studentId": 42,
+    "lessonId": 52,
+    "status": "excused",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 301,
+    "courseId": 9,
+    "studentId": 30,
+    "lessonId": 49,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 302,
+    "courseId": 9,
+    "studentId": 30,
+    "lessonId": 50,
+    "status": "excused",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 303,
+    "courseId": 9,
+    "studentId": 30,
+    "lessonId": 51,
+    "status": "absent",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 304,
+    "courseId": 9,
+    "studentId": 30,
+    "lessonId": 52,
+    "status": "excused",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 305,
+    "courseId": 9,
+    "studentId": 14,
+    "lessonId": 49,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 306,
+    "courseId": 9,
+    "studentId": 14,
+    "lessonId": 50,
+    "status": "absent",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 307,
+    "courseId": 9,
+    "studentId": 14,
+    "lessonId": 51,
+    "status": "late",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 308,
+    "courseId": 9,
+    "studentId": 14,
+    "lessonId": 52,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 309,
+    "courseId": 10,
+    "studentId": 47,
+    "lessonId": 55,
+    "status": "late",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 310,
+    "courseId": 10,
+    "studentId": 47,
+    "lessonId": 56,
+    "status": "excused",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 311,
+    "courseId": 10,
+    "studentId": 47,
+    "lessonId": 57,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 312,
+    "courseId": 10,
+    "studentId": 47,
+    "lessonId": 58,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 313,
+    "courseId": 10,
+    "studentId": 24,
+    "lessonId": 55,
+    "status": "absent",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 314,
+    "courseId": 10,
+    "studentId": 24,
+    "lessonId": 56,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 315,
+    "courseId": 10,
+    "studentId": 24,
+    "lessonId": 57,
+    "status": "excused",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 316,
+    "courseId": 10,
+    "studentId": 24,
+    "lessonId": 58,
+    "status": "late",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 317,
+    "courseId": 10,
+    "studentId": 13,
+    "lessonId": 55,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 318,
+    "courseId": 10,
+    "studentId": 13,
+    "lessonId": 56,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 319,
+    "courseId": 10,
+    "studentId": 13,
+    "lessonId": 57,
+    "status": "late",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 320,
+    "courseId": 10,
+    "studentId": 13,
+    "lessonId": 58,
+    "status": "excused",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 321,
+    "courseId": 11,
+    "studentId": 26,
+    "lessonId": 61,
+    "status": "excused",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 322,
+    "courseId": 11,
+    "studentId": 26,
+    "lessonId": 62,
+    "status": "late",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 323,
+    "courseId": 11,
+    "studentId": 26,
+    "lessonId": 63,
+    "status": "absent",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 324,
+    "courseId": 11,
+    "studentId": 26,
+    "lessonId": 64,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 325,
+    "courseId": 11,
+    "studentId": 43,
+    "lessonId": 61,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 326,
+    "courseId": 11,
+    "studentId": 43,
+    "lessonId": 62,
+    "status": "late",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 327,
+    "courseId": 11,
+    "studentId": 43,
+    "lessonId": 63,
+    "status": "absent",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 328,
+    "courseId": 11,
+    "studentId": 43,
+    "lessonId": 64,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 329,
+    "courseId": 11,
+    "studentId": 69,
+    "lessonId": 61,
+    "status": "excused",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 330,
+    "courseId": 11,
+    "studentId": 69,
+    "lessonId": 62,
+    "status": "excused",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 331,
+    "courseId": 11,
+    "studentId": 69,
+    "lessonId": 63,
+    "status": "excused",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 332,
+    "courseId": 11,
+    "studentId": 69,
+    "lessonId": 64,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 333,
+    "courseId": 11,
+    "studentId": 68,
+    "lessonId": 61,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 334,
+    "courseId": 11,
+    "studentId": 68,
+    "lessonId": 62,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 335,
+    "courseId": 11,
+    "studentId": 68,
+    "lessonId": 63,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 336,
+    "courseId": 11,
+    "studentId": 68,
+    "lessonId": 64,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 337,
+    "courseId": 11,
+    "studentId": 70,
+    "lessonId": 61,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 338,
+    "courseId": 11,
+    "studentId": 70,
+    "lessonId": 62,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 339,
+    "courseId": 11,
+    "studentId": 70,
+    "lessonId": 63,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 340,
+    "courseId": 11,
+    "studentId": 70,
+    "lessonId": 64,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 341,
+    "courseId": 11,
+    "studentId": 37,
+    "lessonId": 61,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 342,
+    "courseId": 11,
+    "studentId": 37,
+    "lessonId": 62,
+    "status": "late",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 343,
+    "courseId": 11,
+    "studentId": 37,
+    "lessonId": 63,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 344,
+    "courseId": 11,
+    "studentId": 37,
+    "lessonId": 64,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 345,
+    "courseId": 11,
+    "studentId": 22,
+    "lessonId": 61,
+    "status": "excused",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 346,
+    "courseId": 11,
+    "studentId": 22,
+    "lessonId": 62,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 347,
+    "courseId": 11,
+    "studentId": 22,
+    "lessonId": 63,
+    "status": "excused",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 348,
+    "courseId": 11,
+    "studentId": 22,
+    "lessonId": 64,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 349,
+    "courseId": 11,
+    "studentId": 12,
+    "lessonId": 61,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 350,
+    "courseId": 11,
+    "studentId": 12,
+    "lessonId": 62,
+    "status": "excused",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 351,
+    "courseId": 11,
+    "studentId": 12,
+    "lessonId": 63,
+    "status": "late",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 352,
+    "courseId": 11,
+    "studentId": 12,
+    "lessonId": 64,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 353,
+    "courseId": 11,
+    "studentId": 67,
+    "lessonId": 61,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 354,
+    "courseId": 11,
+    "studentId": 67,
+    "lessonId": 62,
+    "status": "excused",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 355,
+    "courseId": 11,
+    "studentId": 67,
+    "lessonId": 63,
+    "status": "excused",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 356,
+    "courseId": 11,
+    "studentId": 67,
+    "lessonId": 64,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 357,
+    "courseId": 11,
+    "studentId": 40,
+    "lessonId": 61,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 358,
+    "courseId": 11,
+    "studentId": 40,
+    "lessonId": 62,
+    "status": "excused",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 359,
+    "courseId": 11,
+    "studentId": 40,
+    "lessonId": 63,
+    "status": "excused",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 360,
+    "courseId": 11,
+    "studentId": 40,
+    "lessonId": 64,
+    "status": "absent",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 361,
+    "courseId": 11,
+    "studentId": 66,
+    "lessonId": 61,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 362,
+    "courseId": 11,
+    "studentId": 66,
+    "lessonId": 62,
+    "status": "late",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 363,
+    "courseId": 11,
+    "studentId": 66,
+    "lessonId": 63,
+    "status": "excused",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 364,
+    "courseId": 11,
+    "studentId": 66,
+    "lessonId": 64,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 365,
+    "courseId": 11,
+    "studentId": 38,
+    "lessonId": 61,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 366,
+    "courseId": 11,
+    "studentId": 38,
+    "lessonId": 62,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 367,
+    "courseId": 11,
+    "studentId": 38,
+    "lessonId": 63,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 368,
+    "courseId": 11,
+    "studentId": 38,
+    "lessonId": 64,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 369,
+    "courseId": 11,
+    "studentId": 34,
+    "lessonId": 61,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 370,
+    "courseId": 11,
+    "studentId": 34,
+    "lessonId": 62,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 371,
+    "courseId": 11,
+    "studentId": 34,
+    "lessonId": 63,
+    "status": "excused",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 372,
+    "courseId": 11,
+    "studentId": 34,
+    "lessonId": 64,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 373,
+    "courseId": 11,
+    "studentId": 36,
+    "lessonId": 61,
+    "status": "excused",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 374,
+    "courseId": 11,
+    "studentId": 36,
+    "lessonId": 62,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 375,
+    "courseId": 11,
+    "studentId": 36,
+    "lessonId": 63,
+    "status": "late",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 376,
+    "courseId": 11,
+    "studentId": 36,
+    "lessonId": 64,
+    "status": "excused",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 377,
+    "courseId": 12,
+    "studentId": 24,
+    "lessonId": 67,
+    "status": "late",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 378,
+    "courseId": 12,
+    "studentId": 24,
+    "lessonId": 68,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 379,
+    "courseId": 12,
+    "studentId": 24,
+    "lessonId": 69,
+    "status": "excused",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 380,
+    "courseId": 12,
+    "studentId": 24,
+    "lessonId": 70,
+    "status": "absent",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 381,
+    "courseId": 12,
+    "studentId": 61,
+    "lessonId": 67,
+    "status": "absent",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 382,
+    "courseId": 12,
+    "studentId": 61,
+    "lessonId": 68,
+    "status": "absent",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 383,
+    "courseId": 12,
+    "studentId": 61,
+    "lessonId": 69,
+    "status": "late",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 384,
+    "courseId": 12,
+    "studentId": 61,
+    "lessonId": 70,
+    "status": "late",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 385,
+    "courseId": 12,
+    "studentId": 35,
+    "lessonId": 67,
+    "status": "excused",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 386,
+    "courseId": 12,
+    "studentId": 35,
+    "lessonId": 68,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 387,
+    "courseId": 12,
+    "studentId": 35,
+    "lessonId": 69,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 388,
+    "courseId": 12,
+    "studentId": 35,
+    "lessonId": 70,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 389,
+    "courseId": 12,
+    "studentId": 39,
+    "lessonId": 67,
+    "status": "excused",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 390,
+    "courseId": 12,
+    "studentId": 39,
+    "lessonId": 68,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 391,
+    "courseId": 12,
+    "studentId": 39,
+    "lessonId": 69,
+    "status": "absent",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 392,
+    "courseId": 12,
+    "studentId": 39,
+    "lessonId": 70,
+    "status": "late",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 393,
+    "courseId": 12,
+    "studentId": 13,
+    "lessonId": 67,
+    "status": "excused",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 394,
+    "courseId": 12,
+    "studentId": 13,
+    "lessonId": 68,
+    "status": "late",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 395,
+    "courseId": 12,
+    "studentId": 13,
+    "lessonId": 69,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 396,
+    "courseId": 12,
+    "studentId": 13,
+    "lessonId": 70,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 397,
+    "courseId": 12,
+    "studentId": 63,
+    "lessonId": 67,
+    "status": "excused",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 398,
+    "courseId": 12,
+    "studentId": 63,
+    "lessonId": 68,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 399,
+    "courseId": 12,
+    "studentId": 63,
+    "lessonId": 69,
+    "status": "excused",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 400,
+    "courseId": 12,
+    "studentId": 63,
+    "lessonId": 70,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 401,
+    "courseId": 12,
+    "studentId": 60,
+    "lessonId": 67,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 402,
+    "courseId": 12,
+    "studentId": 60,
+    "lessonId": 68,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 403,
+    "courseId": 12,
+    "studentId": 60,
+    "lessonId": 69,
+    "status": "excused",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 404,
+    "courseId": 12,
+    "studentId": 60,
+    "lessonId": 70,
+    "status": "late",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 405,
+    "courseId": 12,
+    "studentId": 52,
+    "lessonId": 67,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 406,
+    "courseId": 12,
+    "studentId": 52,
+    "lessonId": 68,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 407,
+    "courseId": 12,
+    "studentId": 52,
+    "lessonId": 69,
+    "status": "excused",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 408,
+    "courseId": 12,
+    "studentId": 52,
+    "lessonId": 70,
+    "status": "late",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 409,
+    "courseId": 12,
+    "studentId": 37,
+    "lessonId": 67,
+    "status": "absent",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 410,
+    "courseId": 12,
+    "studentId": 37,
+    "lessonId": 68,
+    "status": "excused",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 411,
+    "courseId": 12,
+    "studentId": 37,
+    "lessonId": 69,
+    "status": "absent",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 412,
+    "courseId": 12,
+    "studentId": 37,
+    "lessonId": 70,
+    "status": "absent",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 413,
+    "courseId": 12,
+    "studentId": 47,
+    "lessonId": 67,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 414,
+    "courseId": 12,
+    "studentId": 47,
+    "lessonId": 68,
+    "status": "excused",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 415,
+    "courseId": 12,
+    "studentId": 47,
+    "lessonId": 69,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 416,
+    "courseId": 12,
+    "studentId": 47,
+    "lessonId": 70,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 417,
+    "courseId": 12,
+    "studentId": 70,
+    "lessonId": 67,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 418,
+    "courseId": 12,
+    "studentId": 70,
+    "lessonId": 68,
+    "status": "absent",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 419,
+    "courseId": 12,
+    "studentId": 70,
+    "lessonId": 69,
+    "status": "absent",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 420,
+    "courseId": 12,
+    "studentId": 70,
+    "lessonId": 70,
+    "status": "absent",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 421,
+    "courseId": 12,
+    "studentId": 25,
+    "lessonId": 67,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 422,
+    "courseId": 12,
+    "studentId": 25,
+    "lessonId": 68,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 423,
+    "courseId": 12,
+    "studentId": 25,
+    "lessonId": 69,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 424,
+    "courseId": 12,
+    "studentId": 25,
+    "lessonId": 70,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 425,
+    "courseId": 12,
+    "studentId": 58,
+    "lessonId": 67,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 426,
+    "courseId": 12,
+    "studentId": 58,
+    "lessonId": 68,
+    "status": "excused",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 427,
+    "courseId": 12,
+    "studentId": 58,
+    "lessonId": 69,
+    "status": "absent",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 428,
+    "courseId": 12,
+    "studentId": 58,
+    "lessonId": 70,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 429,
+    "courseId": 12,
+    "studentId": 17,
+    "lessonId": 67,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 430,
+    "courseId": 12,
+    "studentId": 17,
+    "lessonId": 68,
+    "status": "excused",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 431,
+    "courseId": 12,
+    "studentId": 17,
+    "lessonId": 69,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 432,
+    "courseId": 12,
+    "studentId": 17,
+    "lessonId": 70,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 433,
+    "courseId": 12,
+    "studentId": 15,
+    "lessonId": 67,
+    "status": "excused",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 434,
+    "courseId": 12,
+    "studentId": 15,
+    "lessonId": 68,
+    "status": "excused",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 435,
+    "courseId": 12,
+    "studentId": 15,
+    "lessonId": 69,
+    "status": "absent",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 436,
+    "courseId": 12,
+    "studentId": 15,
+    "lessonId": 70,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 437,
+    "courseId": 12,
+    "studentId": 38,
+    "lessonId": 67,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 438,
+    "courseId": 12,
+    "studentId": 38,
+    "lessonId": 68,
+    "status": "absent",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 439,
+    "courseId": 12,
+    "studentId": 38,
+    "lessonId": 69,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 440,
+    "courseId": 12,
+    "studentId": 38,
+    "lessonId": 70,
+    "status": "excused",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 441,
+    "courseId": 13,
+    "studentId": 60,
+    "lessonId": 73,
+    "status": "excused",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 442,
+    "courseId": 13,
+    "studentId": 60,
+    "lessonId": 74,
+    "status": "excused",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 443,
+    "courseId": 13,
+    "studentId": 60,
+    "lessonId": 75,
+    "status": "excused",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 444,
+    "courseId": 13,
+    "studentId": 60,
+    "lessonId": 76,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 445,
+    "courseId": 13,
+    "studentId": 40,
+    "lessonId": 73,
+    "status": "absent",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 446,
+    "courseId": 13,
+    "studentId": 40,
+    "lessonId": 74,
+    "status": "late",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 447,
+    "courseId": 13,
+    "studentId": 40,
+    "lessonId": 75,
+    "status": "late",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 448,
+    "courseId": 13,
+    "studentId": 40,
+    "lessonId": 76,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 449,
+    "courseId": 13,
+    "studentId": 39,
+    "lessonId": 73,
+    "status": "excused",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 450,
+    "courseId": 13,
+    "studentId": 39,
+    "lessonId": 74,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 451,
+    "courseId": 13,
+    "studentId": 39,
+    "lessonId": 75,
+    "status": "late",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 452,
+    "courseId": 13,
+    "studentId": 39,
+    "lessonId": 76,
+    "status": "excused",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 453,
+    "courseId": 13,
+    "studentId": 47,
+    "lessonId": 73,
+    "status": "absent",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 454,
+    "courseId": 13,
+    "studentId": 47,
+    "lessonId": 74,
+    "status": "late",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 455,
+    "courseId": 13,
+    "studentId": 47,
+    "lessonId": 75,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 456,
+    "courseId": 13,
+    "studentId": 47,
+    "lessonId": 76,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 457,
+    "courseId": 13,
+    "studentId": 24,
+    "lessonId": 73,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 458,
+    "courseId": 13,
+    "studentId": 24,
+    "lessonId": 74,
+    "status": "late",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 459,
+    "courseId": 13,
+    "studentId": 24,
+    "lessonId": 75,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 460,
+    "courseId": 13,
+    "studentId": 24,
+    "lessonId": 76,
+    "status": "excused",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 461,
+    "courseId": 13,
+    "studentId": 17,
+    "lessonId": 73,
+    "status": "late",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 462,
+    "courseId": 13,
+    "studentId": 17,
+    "lessonId": 74,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 463,
+    "courseId": 13,
+    "studentId": 17,
+    "lessonId": 75,
+    "status": "absent",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 464,
+    "courseId": 13,
+    "studentId": 17,
+    "lessonId": 76,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 465,
+    "courseId": 13,
+    "studentId": 23,
+    "lessonId": 73,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 466,
+    "courseId": 13,
+    "studentId": 23,
+    "lessonId": 74,
+    "status": "late",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 467,
+    "courseId": 13,
+    "studentId": 23,
+    "lessonId": 75,
+    "status": "late",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 468,
+    "courseId": 13,
+    "studentId": 23,
+    "lessonId": 76,
+    "status": "late",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 469,
+    "courseId": 13,
+    "studentId": 67,
+    "lessonId": 73,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 470,
+    "courseId": 13,
+    "studentId": 67,
+    "lessonId": 74,
+    "status": "absent",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 471,
+    "courseId": 13,
+    "studentId": 67,
+    "lessonId": 75,
+    "status": "late",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 472,
+    "courseId": 13,
+    "studentId": 67,
+    "lessonId": 76,
+    "status": "absent",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 473,
+    "courseId": 13,
+    "studentId": 64,
+    "lessonId": 73,
+    "status": "absent",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 474,
+    "courseId": 13,
+    "studentId": 64,
+    "lessonId": 74,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 475,
+    "courseId": 13,
+    "studentId": 64,
+    "lessonId": 75,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 476,
+    "courseId": 13,
+    "studentId": 64,
+    "lessonId": 76,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 477,
+    "courseId": 13,
+    "studentId": 32,
+    "lessonId": 73,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 478,
+    "courseId": 13,
+    "studentId": 32,
+    "lessonId": 74,
+    "status": "excused",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 479,
+    "courseId": 13,
+    "studentId": 32,
+    "lessonId": 75,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 480,
+    "courseId": 13,
+    "studentId": 32,
+    "lessonId": 76,
+    "status": "excused",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 481,
+    "courseId": 13,
+    "studentId": 65,
+    "lessonId": 73,
+    "status": "excused",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 482,
+    "courseId": 13,
+    "studentId": 65,
+    "lessonId": 74,
+    "status": "late",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 483,
+    "courseId": 13,
+    "studentId": 65,
+    "lessonId": 75,
+    "status": "absent",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 484,
+    "courseId": 13,
+    "studentId": 65,
+    "lessonId": 76,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 485,
+    "courseId": 13,
+    "studentId": 35,
+    "lessonId": 73,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 486,
+    "courseId": 13,
+    "studentId": 35,
+    "lessonId": 74,
+    "status": "excused",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 487,
+    "courseId": 13,
+    "studentId": 35,
+    "lessonId": 75,
+    "status": "late",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 488,
+    "courseId": 13,
+    "studentId": 35,
+    "lessonId": 76,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 489,
+    "courseId": 14,
+    "studentId": 43,
+    "lessonId": 79,
+    "status": "absent",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 490,
+    "courseId": 14,
+    "studentId": 43,
+    "lessonId": 80,
+    "status": "excused",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 491,
+    "courseId": 14,
+    "studentId": 43,
+    "lessonId": 81,
+    "status": "excused",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 492,
+    "courseId": 14,
+    "studentId": 43,
+    "lessonId": 82,
+    "status": "excused",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 493,
+    "courseId": 14,
+    "studentId": 16,
+    "lessonId": 79,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 494,
+    "courseId": 14,
+    "studentId": 16,
+    "lessonId": 80,
+    "status": "absent",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 495,
+    "courseId": 14,
+    "studentId": 16,
+    "lessonId": 81,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 496,
+    "courseId": 14,
+    "studentId": 16,
+    "lessonId": 82,
+    "status": "absent",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 497,
+    "courseId": 14,
+    "studentId": 37,
+    "lessonId": 79,
+    "status": "late",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 498,
+    "courseId": 14,
+    "studentId": 37,
+    "lessonId": 80,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 499,
+    "courseId": 14,
+    "studentId": 37,
+    "lessonId": 81,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 500,
+    "courseId": 14,
+    "studentId": 37,
+    "lessonId": 82,
+    "status": "absent",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 501,
+    "courseId": 14,
+    "studentId": 64,
+    "lessonId": 79,
+    "status": "late",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 502,
+    "courseId": 14,
+    "studentId": 64,
+    "lessonId": 80,
+    "status": "late",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 503,
+    "courseId": 14,
+    "studentId": 64,
+    "lessonId": 81,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 504,
+    "courseId": 14,
+    "studentId": 64,
+    "lessonId": 82,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 505,
+    "courseId": 14,
+    "studentId": 27,
+    "lessonId": 79,
+    "status": "absent",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 506,
+    "courseId": 14,
+    "studentId": 27,
+    "lessonId": 80,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 507,
+    "courseId": 14,
+    "studentId": 27,
+    "lessonId": 81,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 508,
+    "courseId": 14,
+    "studentId": 27,
+    "lessonId": 82,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 509,
+    "courseId": 14,
+    "studentId": 18,
+    "lessonId": 79,
+    "status": "absent",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 510,
+    "courseId": 14,
+    "studentId": 18,
+    "lessonId": 80,
+    "status": "absent",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 511,
+    "courseId": 14,
+    "studentId": 18,
+    "lessonId": 81,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 512,
+    "courseId": 14,
+    "studentId": 18,
+    "lessonId": 82,
+    "status": "late",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 513,
+    "courseId": 14,
+    "studentId": 59,
+    "lessonId": 79,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 514,
+    "courseId": 14,
+    "studentId": 59,
+    "lessonId": 80,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 515,
+    "courseId": 14,
+    "studentId": 59,
+    "lessonId": 81,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 516,
+    "courseId": 14,
+    "studentId": 59,
+    "lessonId": 82,
+    "status": "late",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 517,
+    "courseId": 14,
+    "studentId": 65,
+    "lessonId": 79,
+    "status": "excused",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 518,
+    "courseId": 14,
+    "studentId": 65,
+    "lessonId": 80,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 519,
+    "courseId": 14,
+    "studentId": 65,
+    "lessonId": 81,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 520,
+    "courseId": 14,
+    "studentId": 65,
+    "lessonId": 82,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 521,
+    "courseId": 14,
+    "studentId": 55,
+    "lessonId": 79,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 522,
+    "courseId": 14,
+    "studentId": 55,
+    "lessonId": 80,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 523,
+    "courseId": 14,
+    "studentId": 55,
+    "lessonId": 81,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 524,
+    "courseId": 14,
+    "studentId": 55,
+    "lessonId": 82,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 525,
+    "courseId": 14,
+    "studentId": 17,
+    "lessonId": 79,
+    "status": "excused",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 526,
+    "courseId": 14,
+    "studentId": 17,
+    "lessonId": 80,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 527,
+    "courseId": 14,
+    "studentId": 17,
+    "lessonId": 81,
+    "status": "absent",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 528,
+    "courseId": 14,
+    "studentId": 17,
+    "lessonId": 82,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 529,
+    "courseId": 14,
+    "studentId": 14,
+    "lessonId": 79,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 530,
+    "courseId": 14,
+    "studentId": 14,
+    "lessonId": 80,
+    "status": "excused",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 531,
+    "courseId": 14,
+    "studentId": 14,
+    "lessonId": 81,
+    "status": "excused",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 532,
+    "courseId": 14,
+    "studentId": 14,
+    "lessonId": 82,
+    "status": "late",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 533,
+    "courseId": 15,
+    "studentId": 28,
+    "lessonId": 85,
+    "status": "excused",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 534,
+    "courseId": 15,
+    "studentId": 28,
+    "lessonId": 86,
+    "status": "absent",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 535,
+    "courseId": 15,
+    "studentId": 28,
+    "lessonId": 87,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 536,
+    "courseId": 15,
+    "studentId": 28,
+    "lessonId": 88,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 537,
+    "courseId": 15,
+    "studentId": 26,
+    "lessonId": 85,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 538,
+    "courseId": 15,
+    "studentId": 26,
+    "lessonId": 86,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 539,
+    "courseId": 15,
+    "studentId": 26,
+    "lessonId": 87,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 540,
+    "courseId": 15,
+    "studentId": 26,
+    "lessonId": 88,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 541,
+    "courseId": 15,
+    "studentId": 54,
+    "lessonId": 85,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 542,
+    "courseId": 15,
+    "studentId": 54,
+    "lessonId": 86,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 543,
+    "courseId": 15,
+    "studentId": 54,
+    "lessonId": 87,
+    "status": "absent",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 544,
+    "courseId": 15,
+    "studentId": 54,
+    "lessonId": 88,
+    "status": "excused",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 545,
+    "courseId": 15,
+    "studentId": 39,
+    "lessonId": 85,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 546,
+    "courseId": 15,
+    "studentId": 39,
+    "lessonId": 86,
+    "status": "late",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 547,
+    "courseId": 15,
+    "studentId": 39,
+    "lessonId": 87,
+    "status": "late",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 548,
+    "courseId": 15,
+    "studentId": 39,
+    "lessonId": 88,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 549,
+    "courseId": 15,
+    "studentId": 35,
+    "lessonId": 85,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 550,
+    "courseId": 15,
+    "studentId": 35,
+    "lessonId": 86,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 551,
+    "courseId": 15,
+    "studentId": 35,
+    "lessonId": 87,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 552,
+    "courseId": 15,
+    "studentId": 35,
+    "lessonId": 88,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 553,
+    "courseId": 15,
+    "studentId": 69,
+    "lessonId": 85,
+    "status": "excused",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 554,
+    "courseId": 15,
+    "studentId": 69,
+    "lessonId": 86,
+    "status": "late",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 555,
+    "courseId": 15,
+    "studentId": 69,
+    "lessonId": 87,
+    "status": "absent",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 556,
+    "courseId": 15,
+    "studentId": 69,
+    "lessonId": 88,
+    "status": "late",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 557,
+    "courseId": 15,
+    "studentId": 56,
+    "lessonId": 85,
+    "status": "absent",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 558,
+    "courseId": 15,
+    "studentId": 56,
+    "lessonId": 86,
+    "status": "late",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 559,
+    "courseId": 15,
+    "studentId": 56,
+    "lessonId": 87,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 560,
+    "courseId": 15,
+    "studentId": 56,
+    "lessonId": 88,
+    "status": "excused",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 561,
+    "courseId": 15,
+    "studentId": 33,
+    "lessonId": 85,
+    "status": "excused",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 562,
+    "courseId": 15,
+    "studentId": 33,
+    "lessonId": 86,
+    "status": "absent",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 563,
+    "courseId": 15,
+    "studentId": 33,
+    "lessonId": 87,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 564,
+    "courseId": 15,
+    "studentId": 33,
+    "lessonId": 88,
+    "status": "absent",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 565,
+    "courseId": 15,
+    "studentId": 38,
+    "lessonId": 85,
+    "status": "late",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 566,
+    "courseId": 15,
+    "studentId": 38,
+    "lessonId": 86,
+    "status": "excused",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 567,
+    "courseId": 15,
+    "studentId": 38,
+    "lessonId": 87,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 568,
+    "courseId": 15,
+    "studentId": 38,
+    "lessonId": 88,
+    "status": "absent",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 569,
+    "courseId": 15,
+    "studentId": 37,
+    "lessonId": 85,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 570,
+    "courseId": 15,
+    "studentId": 37,
+    "lessonId": 86,
+    "status": "late",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 571,
+    "courseId": 15,
+    "studentId": 37,
+    "lessonId": 87,
+    "status": "absent",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 572,
+    "courseId": 15,
+    "studentId": 37,
+    "lessonId": 88,
+    "status": "excused",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 573,
+    "courseId": 15,
+    "studentId": 30,
+    "lessonId": 85,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 574,
+    "courseId": 15,
+    "studentId": 30,
+    "lessonId": 86,
+    "status": "absent",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 575,
+    "courseId": 15,
+    "studentId": 30,
+    "lessonId": 87,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 576,
+    "courseId": 15,
+    "studentId": 30,
+    "lessonId": 88,
+    "status": "late",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 577,
+    "courseId": 15,
+    "studentId": 44,
+    "lessonId": 85,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 578,
+    "courseId": 15,
+    "studentId": 44,
+    "lessonId": 86,
+    "status": "excused",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 579,
+    "courseId": 15,
+    "studentId": 44,
+    "lessonId": 87,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 580,
+    "courseId": 15,
+    "studentId": 44,
+    "lessonId": 88,
+    "status": "excused",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 581,
+    "courseId": 16,
+    "studentId": 17,
+    "lessonId": 91,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 582,
+    "courseId": 16,
+    "studentId": 17,
+    "lessonId": 92,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 583,
+    "courseId": 16,
+    "studentId": 17,
+    "lessonId": 93,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 584,
+    "courseId": 16,
+    "studentId": 17,
+    "lessonId": 94,
+    "status": "absent",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 585,
+    "courseId": 16,
+    "studentId": 22,
+    "lessonId": 91,
+    "status": "late",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 586,
+    "courseId": 16,
+    "studentId": 22,
+    "lessonId": 92,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 587,
+    "courseId": 16,
+    "studentId": 22,
+    "lessonId": 93,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 588,
+    "courseId": 16,
+    "studentId": 22,
+    "lessonId": 94,
+    "status": "late",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 589,
+    "courseId": 16,
+    "studentId": 33,
+    "lessonId": 91,
+    "status": "absent",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 590,
+    "courseId": 16,
+    "studentId": 33,
+    "lessonId": 92,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 591,
+    "courseId": 16,
+    "studentId": 33,
+    "lessonId": 93,
+    "status": "absent",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 592,
+    "courseId": 16,
+    "studentId": 33,
+    "lessonId": 94,
+    "status": "excused",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 593,
+    "courseId": 16,
+    "studentId": 24,
+    "lessonId": 91,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 594,
+    "courseId": 16,
+    "studentId": 24,
+    "lessonId": 92,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 595,
+    "courseId": 16,
+    "studentId": 24,
+    "lessonId": 93,
+    "status": "late",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 596,
+    "courseId": 16,
+    "studentId": 24,
+    "lessonId": 94,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 597,
+    "courseId": 16,
+    "studentId": 59,
+    "lessonId": 91,
+    "status": "late",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 598,
+    "courseId": 16,
+    "studentId": 59,
+    "lessonId": 92,
+    "status": "excused",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 599,
+    "courseId": 16,
+    "studentId": 59,
+    "lessonId": 93,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 600,
+    "courseId": 16,
+    "studentId": 59,
+    "lessonId": 94,
+    "status": "excused",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 601,
+    "courseId": 16,
+    "studentId": 14,
+    "lessonId": 91,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 602,
+    "courseId": 16,
+    "studentId": 14,
+    "lessonId": 92,
+    "status": "late",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 603,
+    "courseId": 16,
+    "studentId": 14,
+    "lessonId": 93,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 604,
+    "courseId": 16,
+    "studentId": 14,
+    "lessonId": 94,
+    "status": "excused",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 605,
+    "courseId": 17,
+    "studentId": 64,
+    "lessonId": 97,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 606,
+    "courseId": 17,
+    "studentId": 64,
+    "lessonId": 98,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 607,
+    "courseId": 17,
+    "studentId": 64,
+    "lessonId": 99,
+    "status": "absent",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 608,
+    "courseId": 17,
+    "studentId": 64,
+    "lessonId": 100,
+    "status": "late",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 609,
+    "courseId": 17,
+    "studentId": 31,
+    "lessonId": 97,
+    "status": "excused",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 610,
+    "courseId": 17,
+    "studentId": 31,
+    "lessonId": 98,
+    "status": "late",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 611,
+    "courseId": 17,
+    "studentId": 31,
+    "lessonId": 99,
+    "status": "late",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 612,
+    "courseId": 17,
+    "studentId": 31,
+    "lessonId": 100,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 613,
+    "courseId": 17,
+    "studentId": 70,
+    "lessonId": 97,
+    "status": "excused",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 614,
+    "courseId": 17,
+    "studentId": 70,
+    "lessonId": 98,
+    "status": "excused",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 615,
+    "courseId": 17,
+    "studentId": 70,
+    "lessonId": 99,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 616,
+    "courseId": 17,
+    "studentId": 70,
+    "lessonId": 100,
+    "status": "absent",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 617,
+    "courseId": 17,
+    "studentId": 63,
+    "lessonId": 97,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 618,
+    "courseId": 17,
+    "studentId": 63,
+    "lessonId": 98,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 619,
+    "courseId": 17,
+    "studentId": 63,
+    "lessonId": 99,
+    "status": "absent",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 620,
+    "courseId": 17,
+    "studentId": 63,
+    "lessonId": 100,
+    "status": "late",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 621,
+    "courseId": 17,
+    "studentId": 17,
+    "lessonId": 97,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 622,
+    "courseId": 17,
+    "studentId": 17,
+    "lessonId": 98,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 623,
+    "courseId": 17,
+    "studentId": 17,
+    "lessonId": 99,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 624,
+    "courseId": 17,
+    "studentId": 17,
+    "lessonId": 100,
+    "status": "absent",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 625,
+    "courseId": 17,
+    "studentId": 57,
+    "lessonId": 97,
+    "status": "excused",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 626,
+    "courseId": 17,
+    "studentId": 57,
+    "lessonId": 98,
+    "status": "excused",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 627,
+    "courseId": 17,
+    "studentId": 57,
+    "lessonId": 99,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 628,
+    "courseId": 17,
+    "studentId": 57,
+    "lessonId": 100,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 629,
+    "courseId": 17,
+    "studentId": 42,
+    "lessonId": 97,
+    "status": "excused",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 630,
+    "courseId": 17,
+    "studentId": 42,
+    "lessonId": 98,
+    "status": "excused",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 631,
+    "courseId": 17,
+    "studentId": 42,
+    "lessonId": 99,
+    "status": "absent",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 632,
+    "courseId": 17,
+    "studentId": 42,
+    "lessonId": 100,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 633,
+    "courseId": 17,
+    "studentId": 35,
+    "lessonId": 97,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 634,
+    "courseId": 17,
+    "studentId": 35,
+    "lessonId": 98,
+    "status": "late",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 635,
+    "courseId": 17,
+    "studentId": 35,
+    "lessonId": 99,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 636,
+    "courseId": 17,
+    "studentId": 35,
+    "lessonId": 100,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 637,
+    "courseId": 17,
+    "studentId": 46,
+    "lessonId": 97,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 638,
+    "courseId": 17,
+    "studentId": 46,
+    "lessonId": 98,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 639,
+    "courseId": 17,
+    "studentId": 46,
+    "lessonId": 99,
+    "status": "excused",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 640,
+    "courseId": 17,
+    "studentId": 46,
+    "lessonId": 100,
+    "status": "absent",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 641,
+    "courseId": 17,
+    "studentId": 40,
+    "lessonId": 97,
+    "status": "late",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 642,
+    "courseId": 17,
+    "studentId": 40,
+    "lessonId": 98,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 643,
+    "courseId": 17,
+    "studentId": 40,
+    "lessonId": 99,
+    "status": "late",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 644,
+    "courseId": 17,
+    "studentId": 40,
+    "lessonId": 100,
+    "status": "excused",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 645,
+    "courseId": 17,
+    "studentId": 60,
+    "lessonId": 97,
+    "status": "excused",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 646,
+    "courseId": 17,
+    "studentId": 60,
+    "lessonId": 98,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 647,
+    "courseId": 17,
+    "studentId": 60,
+    "lessonId": 99,
+    "status": "late",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 648,
+    "courseId": 17,
+    "studentId": 60,
+    "lessonId": 100,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 649,
+    "courseId": 17,
+    "studentId": 62,
+    "lessonId": 97,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 650,
+    "courseId": 17,
+    "studentId": 62,
+    "lessonId": 98,
+    "status": "excused",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 651,
+    "courseId": 17,
+    "studentId": 62,
+    "lessonId": 99,
+    "status": "absent",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 652,
+    "courseId": 17,
+    "studentId": 62,
+    "lessonId": 100,
+    "status": "late",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 653,
+    "courseId": 18,
+    "studentId": 62,
+    "lessonId": 103,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 654,
+    "courseId": 18,
+    "studentId": 62,
+    "lessonId": 104,
+    "status": "late",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 655,
+    "courseId": 18,
+    "studentId": 62,
+    "lessonId": 105,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 656,
+    "courseId": 18,
+    "studentId": 62,
+    "lessonId": 106,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 657,
+    "courseId": 18,
+    "studentId": 28,
+    "lessonId": 103,
+    "status": "absent",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 658,
+    "courseId": 18,
+    "studentId": 28,
+    "lessonId": 104,
+    "status": "absent",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 659,
+    "courseId": 18,
+    "studentId": 28,
+    "lessonId": 105,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 660,
+    "courseId": 18,
+    "studentId": 28,
+    "lessonId": 106,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 661,
+    "courseId": 18,
+    "studentId": 39,
+    "lessonId": 103,
+    "status": "late",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 662,
+    "courseId": 18,
+    "studentId": 39,
+    "lessonId": 104,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 663,
+    "courseId": 18,
+    "studentId": 39,
+    "lessonId": 105,
+    "status": "absent",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 664,
+    "courseId": 18,
+    "studentId": 39,
+    "lessonId": 106,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 665,
+    "courseId": 18,
+    "studentId": 20,
+    "lessonId": 103,
+    "status": "absent",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 666,
+    "courseId": 18,
+    "studentId": 20,
+    "lessonId": 104,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 667,
+    "courseId": 18,
+    "studentId": 20,
+    "lessonId": 105,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 668,
+    "courseId": 18,
+    "studentId": 20,
+    "lessonId": 106,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 669,
+    "courseId": 18,
+    "studentId": 65,
+    "lessonId": 103,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 670,
+    "courseId": 18,
+    "studentId": 65,
+    "lessonId": 104,
+    "status": "late",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 671,
+    "courseId": 18,
+    "studentId": 65,
+    "lessonId": 105,
+    "status": "absent",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 672,
+    "courseId": 18,
+    "studentId": 65,
+    "lessonId": 106,
+    "status": "late",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 673,
+    "courseId": 18,
+    "studentId": 59,
+    "lessonId": 103,
+    "status": "absent",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 674,
+    "courseId": 18,
+    "studentId": 59,
+    "lessonId": 104,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 675,
+    "courseId": 18,
+    "studentId": 59,
+    "lessonId": 105,
+    "status": "absent",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 676,
+    "courseId": 18,
+    "studentId": 59,
+    "lessonId": 106,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 677,
+    "courseId": 18,
+    "studentId": 31,
+    "lessonId": 103,
+    "status": "excused",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 678,
+    "courseId": 18,
+    "studentId": 31,
+    "lessonId": 104,
+    "status": "excused",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 679,
+    "courseId": 18,
+    "studentId": 31,
+    "lessonId": 105,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 680,
+    "courseId": 18,
+    "studentId": 31,
+    "lessonId": 106,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 681,
+    "courseId": 18,
+    "studentId": 56,
+    "lessonId": 103,
+    "status": "absent",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 682,
+    "courseId": 18,
+    "studentId": 56,
+    "lessonId": 104,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 683,
+    "courseId": 18,
+    "studentId": 56,
+    "lessonId": 105,
+    "status": "absent",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 684,
+    "courseId": 18,
+    "studentId": 56,
+    "lessonId": 106,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 685,
+    "courseId": 18,
+    "studentId": 21,
+    "lessonId": 103,
+    "status": "excused",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 686,
+    "courseId": 18,
+    "studentId": 21,
+    "lessonId": 104,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 687,
+    "courseId": 18,
+    "studentId": 21,
+    "lessonId": 105,
+    "status": "excused",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 688,
+    "courseId": 18,
+    "studentId": 21,
+    "lessonId": 106,
+    "status": "excused",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 689,
+    "courseId": 18,
+    "studentId": 50,
+    "lessonId": 103,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 690,
+    "courseId": 18,
+    "studentId": 50,
+    "lessonId": 104,
+    "status": "late",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 691,
+    "courseId": 18,
+    "studentId": 50,
+    "lessonId": 105,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 692,
+    "courseId": 18,
+    "studentId": 50,
+    "lessonId": 106,
+    "status": "absent",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 693,
+    "courseId": 18,
+    "studentId": 32,
+    "lessonId": 103,
+    "status": "absent",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 694,
+    "courseId": 18,
+    "studentId": 32,
+    "lessonId": 104,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 695,
+    "courseId": 18,
+    "studentId": 32,
+    "lessonId": 105,
+    "status": "absent",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 696,
+    "courseId": 18,
+    "studentId": 32,
+    "lessonId": 106,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 697,
+    "courseId": 18,
+    "studentId": 35,
+    "lessonId": 103,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 698,
+    "courseId": 18,
+    "studentId": 35,
+    "lessonId": 104,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 699,
+    "courseId": 18,
+    "studentId": 35,
+    "lessonId": 105,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 700,
+    "courseId": 18,
+    "studentId": 35,
+    "lessonId": 106,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 701,
+    "courseId": 19,
+    "studentId": 48,
+    "lessonId": 109,
+    "status": "excused",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 702,
+    "courseId": 19,
+    "studentId": 48,
+    "lessonId": 110,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 703,
+    "courseId": 19,
+    "studentId": 48,
+    "lessonId": 111,
+    "status": "late",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 704,
+    "courseId": 19,
+    "studentId": 48,
+    "lessonId": 112,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 705,
+    "courseId": 19,
+    "studentId": 35,
+    "lessonId": 109,
+    "status": "excused",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 706,
+    "courseId": 19,
+    "studentId": 35,
+    "lessonId": 110,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 707,
+    "courseId": 19,
+    "studentId": 35,
+    "lessonId": 111,
+    "status": "absent",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 708,
+    "courseId": 19,
+    "studentId": 35,
+    "lessonId": 112,
+    "status": "late",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 709,
+    "courseId": 19,
+    "studentId": 59,
+    "lessonId": 109,
+    "status": "excused",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 710,
+    "courseId": 19,
+    "studentId": 59,
+    "lessonId": 110,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 711,
+    "courseId": 19,
+    "studentId": 59,
+    "lessonId": 111,
+    "status": "late",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 712,
+    "courseId": 19,
+    "studentId": 59,
+    "lessonId": 112,
+    "status": "absent",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 713,
+    "courseId": 19,
+    "studentId": 24,
+    "lessonId": 109,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 714,
+    "courseId": 19,
+    "studentId": 24,
+    "lessonId": 110,
+    "status": "excused",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 715,
+    "courseId": 19,
+    "studentId": 24,
+    "lessonId": 111,
+    "status": "absent",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 716,
+    "courseId": 19,
+    "studentId": 24,
+    "lessonId": 112,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 717,
+    "courseId": 19,
+    "studentId": 27,
+    "lessonId": 109,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 718,
+    "courseId": 19,
+    "studentId": 27,
+    "lessonId": 110,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 719,
+    "courseId": 19,
+    "studentId": 27,
+    "lessonId": 111,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 720,
+    "courseId": 19,
+    "studentId": 27,
+    "lessonId": 112,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 721,
+    "courseId": 19,
+    "studentId": 23,
+    "lessonId": 109,
+    "status": "absent",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 722,
+    "courseId": 19,
+    "studentId": 23,
+    "lessonId": 110,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 723,
+    "courseId": 19,
+    "studentId": 23,
+    "lessonId": 111,
+    "status": "absent",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 724,
+    "courseId": 19,
+    "studentId": 23,
+    "lessonId": 112,
+    "status": "absent",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 725,
+    "courseId": 19,
+    "studentId": 63,
+    "lessonId": 109,
+    "status": "absent",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 726,
+    "courseId": 19,
+    "studentId": 63,
+    "lessonId": 110,
+    "status": "late",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 727,
+    "courseId": 19,
+    "studentId": 63,
+    "lessonId": 111,
+    "status": "absent",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 728,
+    "courseId": 19,
+    "studentId": 63,
+    "lessonId": 112,
+    "status": "excused",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 729,
+    "courseId": 19,
+    "studentId": 21,
+    "lessonId": 109,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 730,
+    "courseId": 19,
+    "studentId": 21,
+    "lessonId": 110,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 731,
+    "courseId": 19,
+    "studentId": 21,
+    "lessonId": 111,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 732,
+    "courseId": 19,
+    "studentId": 21,
+    "lessonId": 112,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 733,
+    "courseId": 20,
+    "studentId": 44,
+    "lessonId": 115,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 734,
+    "courseId": 20,
+    "studentId": 44,
+    "lessonId": 116,
+    "status": "absent",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 735,
+    "courseId": 20,
+    "studentId": 44,
+    "lessonId": 117,
+    "status": "late",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 736,
+    "courseId": 20,
+    "studentId": 44,
+    "lessonId": 118,
+    "status": "late",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 737,
+    "courseId": 20,
+    "studentId": 67,
+    "lessonId": 115,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 738,
+    "courseId": 20,
+    "studentId": 67,
+    "lessonId": 116,
+    "status": "late",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 739,
+    "courseId": 20,
+    "studentId": 67,
+    "lessonId": 117,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 740,
+    "courseId": 20,
+    "studentId": 67,
+    "lessonId": 118,
+    "status": "absent",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 741,
+    "courseId": 20,
+    "studentId": 23,
+    "lessonId": 115,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 742,
+    "courseId": 20,
+    "studentId": 23,
+    "lessonId": 116,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 743,
+    "courseId": 20,
+    "studentId": 23,
+    "lessonId": 117,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 744,
+    "courseId": 20,
+    "studentId": 23,
+    "lessonId": 118,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 745,
+    "courseId": 20,
+    "studentId": 40,
+    "lessonId": 115,
+    "status": "late",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 746,
+    "courseId": 20,
+    "studentId": 40,
+    "lessonId": 116,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 747,
+    "courseId": 20,
+    "studentId": 40,
+    "lessonId": 117,
+    "status": "late",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 748,
+    "courseId": 20,
+    "studentId": 40,
+    "lessonId": 118,
+    "status": "excused",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 749,
+    "courseId": 20,
+    "studentId": 28,
+    "lessonId": 115,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 750,
+    "courseId": 20,
+    "studentId": 28,
+    "lessonId": 116,
+    "status": "late",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 751,
+    "courseId": 20,
+    "studentId": 28,
+    "lessonId": 117,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 752,
+    "courseId": 20,
+    "studentId": 28,
+    "lessonId": 118,
+    "status": "late",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 753,
+    "courseId": 20,
+    "studentId": 62,
+    "lessonId": 115,
+    "status": "absent",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 754,
+    "courseId": 20,
+    "studentId": 62,
+    "lessonId": 116,
+    "status": "late",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 755,
+    "courseId": 20,
+    "studentId": 62,
+    "lessonId": 117,
+    "status": "excused",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 756,
+    "courseId": 20,
+    "studentId": 62,
+    "lessonId": 118,
+    "status": "excused",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 757,
+    "courseId": 20,
+    "studentId": 54,
+    "lessonId": 115,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 758,
+    "courseId": 20,
+    "studentId": 54,
+    "lessonId": 116,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 759,
+    "courseId": 20,
+    "studentId": 54,
+    "lessonId": 117,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 760,
+    "courseId": 20,
+    "studentId": 54,
+    "lessonId": 118,
+    "status": "absent",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 761,
+    "courseId": 21,
+    "studentId": 25,
+    "lessonId": 121,
+    "status": "absent",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 762,
+    "courseId": 21,
+    "studentId": 25,
+    "lessonId": 122,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 763,
+    "courseId": 21,
+    "studentId": 25,
+    "lessonId": 123,
+    "status": "excused",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 764,
+    "courseId": 21,
+    "studentId": 25,
+    "lessonId": 124,
+    "status": "late",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 765,
+    "courseId": 21,
+    "studentId": 43,
+    "lessonId": 121,
+    "status": "excused",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 766,
+    "courseId": 21,
+    "studentId": 43,
+    "lessonId": 122,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 767,
+    "courseId": 21,
+    "studentId": 43,
+    "lessonId": 123,
+    "status": "late",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 768,
+    "courseId": 21,
+    "studentId": 43,
+    "lessonId": 124,
+    "status": "excused",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 769,
+    "courseId": 21,
+    "studentId": 47,
+    "lessonId": 121,
+    "status": "excused",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 770,
+    "courseId": 21,
+    "studentId": 47,
+    "lessonId": 122,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 771,
+    "courseId": 21,
+    "studentId": 47,
+    "lessonId": 123,
+    "status": "late",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 772,
+    "courseId": 21,
+    "studentId": 47,
+    "lessonId": 124,
+    "status": "absent",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 773,
+    "courseId": 21,
+    "studentId": 42,
+    "lessonId": 121,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 774,
+    "courseId": 21,
+    "studentId": 42,
+    "lessonId": 122,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 775,
+    "courseId": 21,
+    "studentId": 42,
+    "lessonId": 123,
+    "status": "excused",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 776,
+    "courseId": 21,
+    "studentId": 42,
+    "lessonId": 124,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 777,
+    "courseId": 21,
+    "studentId": 16,
+    "lessonId": 121,
+    "status": "late",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 778,
+    "courseId": 21,
+    "studentId": 16,
+    "lessonId": 122,
+    "status": "excused",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 779,
+    "courseId": 21,
+    "studentId": 16,
+    "lessonId": 123,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 780,
+    "courseId": 21,
+    "studentId": 16,
+    "lessonId": 124,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 781,
+    "courseId": 22,
+    "studentId": 38,
+    "lessonId": 127,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 782,
+    "courseId": 22,
+    "studentId": 38,
+    "lessonId": 128,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 783,
+    "courseId": 22,
+    "studentId": 38,
+    "lessonId": 129,
+    "status": "excused",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 784,
+    "courseId": 22,
+    "studentId": 38,
+    "lessonId": 130,
+    "status": "late",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 785,
+    "courseId": 22,
+    "studentId": 13,
+    "lessonId": 127,
+    "status": "excused",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 786,
+    "courseId": 22,
+    "studentId": 13,
+    "lessonId": 128,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 787,
+    "courseId": 22,
+    "studentId": 13,
+    "lessonId": 129,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 788,
+    "courseId": 22,
+    "studentId": 13,
+    "lessonId": 130,
+    "status": "absent",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 789,
+    "courseId": 22,
+    "studentId": 63,
+    "lessonId": 127,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 790,
+    "courseId": 22,
+    "studentId": 63,
+    "lessonId": 128,
+    "status": "absent",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 791,
+    "courseId": 22,
+    "studentId": 63,
+    "lessonId": 129,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 792,
+    "courseId": 22,
+    "studentId": 63,
+    "lessonId": 130,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 793,
+    "courseId": 22,
+    "studentId": 53,
+    "lessonId": 127,
+    "status": "late",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 794,
+    "courseId": 22,
+    "studentId": 53,
+    "lessonId": 128,
+    "status": "excused",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 795,
+    "courseId": 22,
+    "studentId": 53,
+    "lessonId": 129,
+    "status": "excused",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 796,
+    "courseId": 22,
+    "studentId": 53,
+    "lessonId": 130,
+    "status": "absent",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 797,
+    "courseId": 22,
+    "studentId": 37,
+    "lessonId": 127,
+    "status": "excused",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 798,
+    "courseId": 22,
+    "studentId": 37,
+    "lessonId": 128,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 799,
+    "courseId": 22,
+    "studentId": 37,
+    "lessonId": 129,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 800,
+    "courseId": 22,
+    "studentId": 37,
+    "lessonId": 130,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 801,
+    "courseId": 22,
+    "studentId": 58,
+    "lessonId": 127,
+    "status": "excused",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 802,
+    "courseId": 22,
+    "studentId": 58,
+    "lessonId": 128,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 803,
+    "courseId": 22,
+    "studentId": 58,
+    "lessonId": 129,
+    "status": "excused",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 804,
+    "courseId": 22,
+    "studentId": 58,
+    "lessonId": 130,
+    "status": "late",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 805,
+    "courseId": 22,
+    "studentId": 12,
+    "lessonId": 127,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 806,
+    "courseId": 22,
+    "studentId": 12,
+    "lessonId": 128,
+    "status": "late",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 807,
+    "courseId": 22,
+    "studentId": 12,
+    "lessonId": 129,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 808,
+    "courseId": 22,
+    "studentId": 12,
+    "lessonId": 130,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 809,
+    "courseId": 22,
+    "studentId": 39,
+    "lessonId": 127,
+    "status": "excused",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 810,
+    "courseId": 22,
+    "studentId": 39,
+    "lessonId": 128,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 811,
+    "courseId": 22,
+    "studentId": 39,
+    "lessonId": 129,
+    "status": "excused",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 812,
+    "courseId": 22,
+    "studentId": 39,
+    "lessonId": 130,
+    "status": "excused",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 813,
+    "courseId": 22,
+    "studentId": 22,
+    "lessonId": 127,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 814,
+    "courseId": 22,
+    "studentId": 22,
+    "lessonId": 128,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 815,
+    "courseId": 22,
+    "studentId": 22,
+    "lessonId": 129,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 816,
+    "courseId": 22,
+    "studentId": 22,
+    "lessonId": 130,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 817,
+    "courseId": 22,
+    "studentId": 19,
+    "lessonId": 127,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 818,
+    "courseId": 22,
+    "studentId": 19,
+    "lessonId": 128,
+    "status": "absent",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 819,
+    "courseId": 22,
+    "studentId": 19,
+    "lessonId": 129,
+    "status": "excused",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 820,
+    "courseId": 22,
+    "studentId": 19,
+    "lessonId": 130,
+    "status": "absent",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 821,
+    "courseId": 22,
+    "studentId": 68,
+    "lessonId": 127,
+    "status": "excused",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 822,
+    "courseId": 22,
+    "studentId": 68,
+    "lessonId": 128,
+    "status": "absent",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 823,
+    "courseId": 22,
+    "studentId": 68,
+    "lessonId": 129,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 824,
+    "courseId": 22,
+    "studentId": 68,
+    "lessonId": 130,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 825,
+    "courseId": 23,
+    "studentId": 66,
+    "lessonId": 133,
+    "status": "excused",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 826,
+    "courseId": 23,
+    "studentId": 66,
+    "lessonId": 134,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 827,
+    "courseId": 23,
+    "studentId": 66,
+    "lessonId": 135,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 828,
+    "courseId": 23,
+    "studentId": 66,
+    "lessonId": 136,
+    "status": "absent",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 829,
+    "courseId": 23,
+    "studentId": 51,
+    "lessonId": 133,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 830,
+    "courseId": 23,
+    "studentId": 51,
+    "lessonId": 134,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 831,
+    "courseId": 23,
+    "studentId": 51,
+    "lessonId": 135,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 832,
+    "courseId": 23,
+    "studentId": 51,
+    "lessonId": 136,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 833,
+    "courseId": 23,
+    "studentId": 37,
+    "lessonId": 133,
+    "status": "late",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 834,
+    "courseId": 23,
+    "studentId": 37,
+    "lessonId": 134,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 835,
+    "courseId": 23,
+    "studentId": 37,
+    "lessonId": 135,
+    "status": "absent",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 836,
+    "courseId": 23,
+    "studentId": 37,
+    "lessonId": 136,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 837,
+    "courseId": 23,
+    "studentId": 42,
+    "lessonId": 133,
+    "status": "excused",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 838,
+    "courseId": 23,
+    "studentId": 42,
+    "lessonId": 134,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 839,
+    "courseId": 23,
+    "studentId": 42,
+    "lessonId": 135,
+    "status": "late",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 840,
+    "courseId": 23,
+    "studentId": 42,
+    "lessonId": 136,
+    "status": "excused",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 841,
+    "courseId": 23,
+    "studentId": 23,
+    "lessonId": 133,
+    "status": "absent",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 842,
+    "courseId": 23,
+    "studentId": 23,
+    "lessonId": 134,
+    "status": "absent",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 843,
+    "courseId": 23,
+    "studentId": 23,
+    "lessonId": 135,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 844,
+    "courseId": 23,
+    "studentId": 23,
+    "lessonId": 136,
+    "status": "excused",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 845,
+    "courseId": 23,
+    "studentId": 48,
+    "lessonId": 133,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 846,
+    "courseId": 23,
+    "studentId": 48,
+    "lessonId": 134,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 847,
+    "courseId": 23,
+    "studentId": 48,
+    "lessonId": 135,
+    "status": "excused",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 848,
+    "courseId": 23,
+    "studentId": 48,
+    "lessonId": 136,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 849,
+    "courseId": 23,
+    "studentId": 25,
+    "lessonId": 133,
+    "status": "late",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 850,
+    "courseId": 23,
+    "studentId": 25,
+    "lessonId": 134,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 851,
+    "courseId": 23,
+    "studentId": 25,
+    "lessonId": 135,
+    "status": "excused",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 852,
+    "courseId": 23,
+    "studentId": 25,
+    "lessonId": 136,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 853,
+    "courseId": 24,
+    "studentId": 31,
+    "lessonId": 139,
+    "status": "excused",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 854,
+    "courseId": 24,
+    "studentId": 31,
+    "lessonId": 140,
+    "status": "excused",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 855,
+    "courseId": 24,
+    "studentId": 31,
+    "lessonId": 141,
+    "status": "excused",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 856,
+    "courseId": 24,
+    "studentId": 31,
+    "lessonId": 142,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 857,
+    "courseId": 24,
+    "studentId": 49,
+    "lessonId": 139,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 858,
+    "courseId": 24,
+    "studentId": 49,
+    "lessonId": 140,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 859,
+    "courseId": 24,
+    "studentId": 49,
+    "lessonId": 141,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 860,
+    "courseId": 24,
+    "studentId": 49,
+    "lessonId": 142,
+    "status": "absent",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 861,
+    "courseId": 24,
+    "studentId": 39,
+    "lessonId": 139,
+    "status": "excused",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 862,
+    "courseId": 24,
+    "studentId": 39,
+    "lessonId": 140,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 863,
+    "courseId": 24,
+    "studentId": 39,
+    "lessonId": 141,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 864,
+    "courseId": 24,
+    "studentId": 39,
+    "lessonId": 142,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 865,
+    "courseId": 24,
+    "studentId": 36,
+    "lessonId": 139,
+    "status": "late",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 866,
+    "courseId": 24,
+    "studentId": 36,
+    "lessonId": 140,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 867,
+    "courseId": 24,
+    "studentId": 36,
+    "lessonId": 141,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 868,
+    "courseId": 24,
+    "studentId": 36,
+    "lessonId": 142,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 869,
+    "courseId": 24,
+    "studentId": 35,
+    "lessonId": 139,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 870,
+    "courseId": 24,
+    "studentId": 35,
+    "lessonId": 140,
+    "status": "late",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 871,
+    "courseId": 24,
+    "studentId": 35,
+    "lessonId": 141,
+    "status": "late",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 872,
+    "courseId": 24,
+    "studentId": 35,
+    "lessonId": 142,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 873,
+    "courseId": 24,
+    "studentId": 64,
+    "lessonId": 139,
+    "status": "excused",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 874,
+    "courseId": 24,
+    "studentId": 64,
+    "lessonId": 140,
+    "status": "excused",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 875,
+    "courseId": 24,
+    "studentId": 64,
+    "lessonId": 141,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 876,
+    "courseId": 24,
+    "studentId": 64,
+    "lessonId": 142,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 877,
+    "courseId": 24,
+    "studentId": 23,
+    "lessonId": 139,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 878,
+    "courseId": 24,
+    "studentId": 23,
+    "lessonId": 140,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 879,
+    "courseId": 24,
+    "studentId": 23,
+    "lessonId": 141,
+    "status": "late",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 880,
+    "courseId": 24,
+    "studentId": 23,
+    "lessonId": 142,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 881,
+    "courseId": 24,
+    "studentId": 43,
+    "lessonId": 139,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 882,
+    "courseId": 24,
+    "studentId": 43,
+    "lessonId": 140,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 883,
+    "courseId": 24,
+    "studentId": 43,
+    "lessonId": 141,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 884,
+    "courseId": 24,
+    "studentId": 43,
+    "lessonId": 142,
+    "status": "absent",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 885,
+    "courseId": 24,
+    "studentId": 62,
+    "lessonId": 139,
+    "status": "absent",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 886,
+    "courseId": 24,
+    "studentId": 62,
+    "lessonId": 140,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 887,
+    "courseId": 24,
+    "studentId": 62,
+    "lessonId": 141,
+    "status": "late",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 888,
+    "courseId": 24,
+    "studentId": 62,
+    "lessonId": 142,
+    "status": "late",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 889,
+    "courseId": 24,
+    "studentId": 58,
+    "lessonId": 139,
+    "status": "excused",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 890,
+    "courseId": 24,
+    "studentId": 58,
+    "lessonId": 140,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 891,
+    "courseId": 24,
+    "studentId": 58,
+    "lessonId": 141,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 892,
+    "courseId": 24,
+    "studentId": 58,
+    "lessonId": 142,
+    "status": "excused",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 893,
+    "courseId": 24,
+    "studentId": 56,
+    "lessonId": 139,
+    "status": "absent",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 894,
+    "courseId": 24,
+    "studentId": 56,
+    "lessonId": 140,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 895,
+    "courseId": 24,
+    "studentId": 56,
+    "lessonId": 141,
+    "status": "absent",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 896,
+    "courseId": 24,
+    "studentId": 56,
+    "lessonId": 142,
+    "status": "absent",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 897,
+    "courseId": 25,
+    "studentId": 16,
+    "lessonId": 145,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 898,
+    "courseId": 25,
+    "studentId": 16,
+    "lessonId": 146,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 899,
+    "courseId": 25,
+    "studentId": 16,
+    "lessonId": 147,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 900,
+    "courseId": 25,
+    "studentId": 16,
+    "lessonId": 148,
+    "status": "absent",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 901,
+    "courseId": 25,
+    "studentId": 51,
+    "lessonId": 145,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 902,
+    "courseId": 25,
+    "studentId": 51,
+    "lessonId": 146,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 903,
+    "courseId": 25,
+    "studentId": 51,
+    "lessonId": 147,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 904,
+    "courseId": 25,
+    "studentId": 51,
+    "lessonId": 148,
+    "status": "excused",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 905,
+    "courseId": 25,
+    "studentId": 60,
+    "lessonId": 145,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 906,
+    "courseId": 25,
+    "studentId": 60,
+    "lessonId": 146,
+    "status": "late",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 907,
+    "courseId": 25,
+    "studentId": 60,
+    "lessonId": 147,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 908,
+    "courseId": 25,
+    "studentId": 60,
+    "lessonId": 148,
+    "status": "late",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 909,
+    "courseId": 25,
+    "studentId": 28,
+    "lessonId": 145,
+    "status": "late",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 910,
+    "courseId": 25,
+    "studentId": 28,
+    "lessonId": 146,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 911,
+    "courseId": 25,
+    "studentId": 28,
+    "lessonId": 147,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 912,
+    "courseId": 25,
+    "studentId": 28,
+    "lessonId": 148,
+    "status": "late",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 913,
+    "courseId": 25,
+    "studentId": 22,
+    "lessonId": 145,
+    "status": "excused",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 914,
+    "courseId": 25,
+    "studentId": 22,
+    "lessonId": 146,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 915,
+    "courseId": 25,
+    "studentId": 22,
+    "lessonId": 147,
+    "status": "absent",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 916,
+    "courseId": 25,
+    "studentId": 22,
+    "lessonId": 148,
+    "status": "late",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 917,
+    "courseId": 25,
+    "studentId": 32,
+    "lessonId": 145,
+    "status": "absent",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 918,
+    "courseId": 25,
+    "studentId": 32,
+    "lessonId": 146,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 919,
+    "courseId": 25,
+    "studentId": 32,
+    "lessonId": 147,
+    "status": "late",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 920,
+    "courseId": 25,
+    "studentId": 32,
+    "lessonId": 148,
+    "status": "late",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 921,
+    "courseId": 25,
+    "studentId": 68,
+    "lessonId": 145,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 922,
+    "courseId": 25,
+    "studentId": 68,
+    "lessonId": 146,
+    "status": "late",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 923,
+    "courseId": 25,
+    "studentId": 68,
+    "lessonId": 147,
+    "status": "absent",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 924,
+    "courseId": 25,
+    "studentId": 68,
+    "lessonId": 148,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 925,
+    "courseId": 25,
+    "studentId": 29,
+    "lessonId": 145,
+    "status": "late",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 926,
+    "courseId": 25,
+    "studentId": 29,
+    "lessonId": 146,
+    "status": "late",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 927,
+    "courseId": 25,
+    "studentId": 29,
+    "lessonId": 147,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 928,
+    "courseId": 25,
+    "studentId": 29,
+    "lessonId": 148,
+    "status": "excused",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 929,
+    "courseId": 25,
+    "studentId": 41,
+    "lessonId": 145,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 930,
+    "courseId": 25,
+    "studentId": 41,
+    "lessonId": 146,
+    "status": "late",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 931,
+    "courseId": 25,
+    "studentId": 41,
+    "lessonId": 147,
+    "status": "excused",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 932,
+    "courseId": 25,
+    "studentId": 41,
+    "lessonId": 148,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 933,
+    "courseId": 25,
+    "studentId": 66,
+    "lessonId": 145,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 934,
+    "courseId": 25,
+    "studentId": 66,
+    "lessonId": 146,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 935,
+    "courseId": 25,
+    "studentId": 66,
+    "lessonId": 147,
+    "status": "late",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 936,
+    "courseId": 25,
+    "studentId": 66,
+    "lessonId": 148,
+    "status": "absent",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 937,
+    "courseId": 25,
+    "studentId": 44,
+    "lessonId": 145,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 938,
+    "courseId": 25,
+    "studentId": 44,
+    "lessonId": 146,
+    "status": "absent",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 939,
+    "courseId": 25,
+    "studentId": 44,
+    "lessonId": 147,
+    "status": "excused",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 940,
+    "courseId": 25,
+    "studentId": 44,
+    "lessonId": 148,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 941,
+    "courseId": 26,
+    "studentId": 28,
+    "lessonId": 151,
+    "status": "absent",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 942,
+    "courseId": 26,
+    "studentId": 28,
+    "lessonId": 152,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 943,
+    "courseId": 26,
+    "studentId": 28,
+    "lessonId": 153,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 944,
+    "courseId": 26,
+    "studentId": 28,
+    "lessonId": 154,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 945,
+    "courseId": 26,
+    "studentId": 46,
+    "lessonId": 151,
+    "status": "late",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 946,
+    "courseId": 26,
+    "studentId": 46,
+    "lessonId": 152,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 947,
+    "courseId": 26,
+    "studentId": 46,
+    "lessonId": 153,
+    "status": "absent",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 948,
+    "courseId": 26,
+    "studentId": 46,
+    "lessonId": 154,
+    "status": "absent",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 949,
+    "courseId": 26,
+    "studentId": 52,
+    "lessonId": 151,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 950,
+    "courseId": 26,
+    "studentId": 52,
+    "lessonId": 152,
+    "status": "absent",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 951,
+    "courseId": 26,
+    "studentId": 52,
+    "lessonId": 153,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 952,
+    "courseId": 26,
+    "studentId": 52,
+    "lessonId": 154,
+    "status": "excused",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 953,
+    "courseId": 26,
+    "studentId": 37,
+    "lessonId": 151,
+    "status": "excused",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 954,
+    "courseId": 26,
+    "studentId": 37,
+    "lessonId": 152,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 955,
+    "courseId": 26,
+    "studentId": 37,
+    "lessonId": 153,
+    "status": "excused",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 956,
+    "courseId": 26,
+    "studentId": 37,
+    "lessonId": 154,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 957,
+    "courseId": 26,
+    "studentId": 71,
+    "lessonId": 151,
+    "status": "late",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 958,
+    "courseId": 26,
+    "studentId": 71,
+    "lessonId": 152,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 959,
+    "courseId": 26,
+    "studentId": 71,
+    "lessonId": 153,
+    "status": "late",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 960,
+    "courseId": 26,
+    "studentId": 71,
+    "lessonId": 154,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 961,
+    "courseId": 27,
+    "studentId": 26,
+    "lessonId": 157,
+    "status": "excused",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 962,
+    "courseId": 27,
+    "studentId": 26,
+    "lessonId": 158,
+    "status": "late",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 963,
+    "courseId": 27,
+    "studentId": 26,
+    "lessonId": 159,
+    "status": "late",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 964,
+    "courseId": 27,
+    "studentId": 26,
+    "lessonId": 160,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 965,
+    "courseId": 27,
+    "studentId": 51,
+    "lessonId": 157,
+    "status": "excused",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 966,
+    "courseId": 27,
+    "studentId": 51,
+    "lessonId": 158,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 967,
+    "courseId": 27,
+    "studentId": 51,
+    "lessonId": 159,
+    "status": "excused",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 968,
+    "courseId": 27,
+    "studentId": 51,
+    "lessonId": 160,
+    "status": "present",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 969,
+    "courseId": 27,
+    "studentId": 52,
+    "lessonId": 157,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 970,
+    "courseId": 27,
+    "studentId": 52,
+    "lessonId": 158,
+    "status": "excused",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 971,
+    "courseId": 27,
+    "studentId": 52,
+    "lessonId": 159,
+    "status": "excused",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 972,
+    "courseId": 27,
+    "studentId": 52,
+    "lessonId": 160,
+    "status": "late",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 973,
+    "courseId": 27,
+    "studentId": 39,
+    "lessonId": 157,
+    "status": "late",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 974,
+    "courseId": 27,
+    "studentId": 39,
+    "lessonId": 158,
+    "status": "absent",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 975,
+    "courseId": 27,
+    "studentId": 39,
+    "lessonId": 159,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 976,
+    "courseId": 27,
+    "studentId": 39,
+    "lessonId": 160,
+    "status": "excused",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 977,
+    "courseId": 27,
+    "studentId": 38,
+    "lessonId": 157,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 978,
+    "courseId": 27,
+    "studentId": 38,
+    "lessonId": 158,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 979,
+    "courseId": 27,
+    "studentId": 38,
+    "lessonId": 159,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 980,
+    "courseId": 27,
+    "studentId": 38,
+    "lessonId": 160,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 981,
+    "courseId": 27,
+    "studentId": 44,
+    "lessonId": 157,
+    "status": "absent",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 982,
+    "courseId": 27,
+    "studentId": 44,
+    "lessonId": 158,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 983,
+    "courseId": 27,
+    "studentId": 44,
+    "lessonId": 159,
+    "status": "excused",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 984,
+    "courseId": 27,
+    "studentId": 44,
+    "lessonId": 160,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 985,
+    "courseId": 27,
+    "studentId": 35,
+    "lessonId": 157,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 986,
+    "courseId": 27,
+    "studentId": 35,
+    "lessonId": 158,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 987,
+    "courseId": 27,
+    "studentId": 35,
+    "lessonId": 159,
+    "status": "absent",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 988,
+    "courseId": 27,
+    "studentId": 35,
+    "lessonId": 160,
+    "status": "absent",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 989,
+    "courseId": 27,
+    "studentId": 15,
+    "lessonId": 157,
+    "status": "excused",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 990,
+    "courseId": 27,
+    "studentId": 15,
+    "lessonId": 158,
+    "status": "excused",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 991,
+    "courseId": 27,
+    "studentId": 15,
+    "lessonId": 159,
+    "status": "absent",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 992,
+    "courseId": 27,
+    "studentId": 15,
+    "lessonId": 160,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 993,
+    "courseId": 27,
+    "studentId": 20,
+    "lessonId": 157,
+    "status": "late",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 994,
+    "courseId": 27,
+    "studentId": 20,
+    "lessonId": 158,
+    "status": "present",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 995,
+    "courseId": 27,
+    "studentId": 20,
+    "lessonId": 159,
+    "status": "excused",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 996,
+    "courseId": 27,
+    "studentId": 20,
+    "lessonId": 160,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 997,
+    "courseId": 27,
+    "studentId": 67,
+    "lessonId": 157,
+    "status": "absent",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 998,
+    "courseId": 27,
+    "studentId": 67,
+    "lessonId": 158,
+    "status": "absent",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 999,
+    "courseId": 27,
+    "studentId": 67,
+    "lessonId": 159,
+    "status": "excused",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 1000,
+    "courseId": 27,
+    "studentId": 67,
+    "lessonId": 160,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 1001,
+    "courseId": 28,
+    "studentId": 37,
+    "lessonId": 163,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 1002,
+    "courseId": 28,
+    "studentId": 37,
+    "lessonId": 164,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 1003,
+    "courseId": 28,
+    "studentId": 37,
+    "lessonId": 165,
+    "status": "absent",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 1004,
+    "courseId": 28,
+    "studentId": 37,
+    "lessonId": 166,
+    "status": "late",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 1005,
+    "courseId": 28,
+    "studentId": 63,
+    "lessonId": 163,
+    "status": "excused",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 1006,
+    "courseId": 28,
+    "studentId": 63,
+    "lessonId": 164,
+    "status": "absent",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 1007,
+    "courseId": 28,
+    "studentId": 63,
+    "lessonId": 165,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 1008,
+    "courseId": 28,
+    "studentId": 63,
+    "lessonId": 166,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 1009,
+    "courseId": 28,
+    "studentId": 15,
+    "lessonId": 163,
+    "status": "absent",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 1010,
+    "courseId": 28,
+    "studentId": 15,
+    "lessonId": 164,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 1011,
+    "courseId": 28,
+    "studentId": 15,
+    "lessonId": 165,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 1012,
+    "courseId": 28,
+    "studentId": 15,
+    "lessonId": 166,
+    "status": "present",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 1013,
+    "courseId": 28,
+    "studentId": 53,
+    "lessonId": 163,
+    "status": "absent",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 1014,
+    "courseId": 28,
+    "studentId": 53,
+    "lessonId": 164,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 1015,
+    "courseId": 28,
+    "studentId": 53,
+    "lessonId": 165,
+    "status": "excused",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 1016,
+    "courseId": 28,
+    "studentId": 53,
+    "lessonId": 166,
+    "status": "excused",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 1017,
+    "courseId": 28,
+    "studentId": 50,
+    "lessonId": 163,
+    "status": "present",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 1018,
+    "courseId": 28,
+    "studentId": 50,
+    "lessonId": 164,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 1019,
+    "courseId": 28,
+    "studentId": 50,
+    "lessonId": 165,
+    "status": "absent",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 1020,
+    "courseId": 28,
+    "studentId": 50,
+    "lessonId": 166,
+    "status": "absent",
+    "attendedAt": "2026-06-01"
+  },
+  {
+    "id": 1021,
+    "courseId": 28,
+    "studentId": 66,
+    "lessonId": 163,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 1022,
+    "courseId": 28,
+    "studentId": 66,
+    "lessonId": 164,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 1023,
+    "courseId": 28,
+    "studentId": 66,
+    "lessonId": 165,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 1024,
+    "courseId": 28,
+    "studentId": 66,
+    "lessonId": 166,
+    "status": "late",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 1025,
+    "courseId": 28,
+    "studentId": 62,
+    "lessonId": 163,
+    "status": "absent",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 1026,
+    "courseId": 28,
+    "studentId": 62,
+    "lessonId": 164,
+    "status": "late",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 1027,
+    "courseId": 28,
+    "studentId": 62,
+    "lessonId": 165,
+    "status": "late",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 1028,
+    "courseId": 28,
+    "studentId": 62,
+    "lessonId": 166,
+    "status": "late",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 1029,
+    "courseId": 29,
+    "studentId": 16,
+    "lessonId": 169,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 1030,
+    "courseId": 29,
+    "studentId": 16,
+    "lessonId": 170,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 1031,
+    "courseId": 29,
+    "studentId": 16,
+    "lessonId": 171,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 1032,
+    "courseId": 29,
+    "studentId": 16,
+    "lessonId": 172,
+    "status": "excused",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 1033,
+    "courseId": 29,
+    "studentId": 31,
+    "lessonId": 169,
+    "status": "late",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 1034,
+    "courseId": 29,
+    "studentId": 31,
+    "lessonId": 170,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 1035,
+    "courseId": 29,
+    "studentId": 31,
+    "lessonId": 171,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 1036,
+    "courseId": 29,
+    "studentId": 31,
+    "lessonId": 172,
+    "status": "present",
+    "attendedAt": "2026-06-15"
+  },
+  {
+    "id": 1037,
+    "courseId": 29,
+    "studentId": 52,
+    "lessonId": 169,
+    "status": "absent",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 1038,
+    "courseId": 29,
+    "studentId": 52,
+    "lessonId": 170,
+    "status": "absent",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 1039,
+    "courseId": 29,
+    "studentId": 52,
+    "lessonId": 171,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 1040,
+    "courseId": 29,
+    "studentId": 52,
+    "lessonId": 172,
+    "status": "excused",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 1041,
+    "courseId": 29,
+    "studentId": 58,
+    "lessonId": 169,
+    "status": "late",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 1042,
+    "courseId": 29,
+    "studentId": 58,
+    "lessonId": 170,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 1043,
+    "courseId": 29,
+    "studentId": 58,
+    "lessonId": 171,
+    "status": "late",
+    "attendedAt": "2026-06-13"
+  },
+  {
+    "id": 1044,
+    "courseId": 29,
+    "studentId": 58,
+    "lessonId": 172,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 1045,
+    "courseId": 29,
+    "studentId": 62,
+    "lessonId": 169,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 1046,
+    "courseId": 29,
+    "studentId": 62,
+    "lessonId": 170,
+    "status": "present",
+    "attendedAt": "2026-06-16"
+  },
+  {
+    "id": 1047,
+    "courseId": 29,
+    "studentId": 62,
+    "lessonId": 171,
+    "status": "absent",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 1048,
+    "courseId": 29,
+    "studentId": 62,
+    "lessonId": 172,
+    "status": "present",
+    "attendedAt": "2026-06-08"
+  },
+  {
+    "id": 1049,
+    "courseId": 29,
+    "studentId": 46,
+    "lessonId": 169,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 1050,
+    "courseId": 29,
+    "studentId": 46,
+    "lessonId": 170,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 1051,
+    "courseId": 29,
+    "studentId": 46,
+    "lessonId": 171,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 1052,
+    "courseId": 29,
+    "studentId": 46,
+    "lessonId": 172,
+    "status": "excused",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 1053,
+    "courseId": 29,
+    "studentId": 36,
+    "lessonId": 169,
+    "status": "late",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 1054,
+    "courseId": 29,
+    "studentId": 36,
+    "lessonId": 170,
+    "status": "late",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 1055,
+    "courseId": 29,
+    "studentId": 36,
+    "lessonId": 171,
+    "status": "absent",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 1056,
+    "courseId": 29,
+    "studentId": 36,
+    "lessonId": 172,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 1057,
+    "courseId": 29,
+    "studentId": 39,
+    "lessonId": 169,
+    "status": "present",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 1058,
+    "courseId": 29,
+    "studentId": 39,
+    "lessonId": 170,
+    "status": "present",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 1059,
+    "courseId": 29,
+    "studentId": 39,
+    "lessonId": 171,
+    "status": "absent",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 1060,
+    "courseId": 29,
+    "studentId": 39,
+    "lessonId": 172,
+    "status": "absent",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 1061,
+    "courseId": 29,
+    "studentId": 41,
+    "lessonId": 169,
+    "status": "excused",
+    "attendedAt": "2026-06-05"
+  },
+  {
+    "id": 1062,
+    "courseId": 29,
+    "studentId": 41,
+    "lessonId": 170,
+    "status": "excused",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 1063,
+    "courseId": 29,
+    "studentId": 41,
+    "lessonId": 171,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 1064,
+    "courseId": 29,
+    "studentId": 41,
+    "lessonId": 172,
+    "status": "excused",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 1065,
+    "courseId": 29,
+    "studentId": 17,
+    "lessonId": 169,
+    "status": "late",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 1066,
+    "courseId": 29,
+    "studentId": 17,
+    "lessonId": 170,
+    "status": "excused",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 1067,
+    "courseId": 29,
+    "studentId": 17,
+    "lessonId": 171,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 1068,
+    "courseId": 29,
+    "studentId": 17,
+    "lessonId": 172,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 1069,
+    "courseId": 29,
+    "studentId": 53,
+    "lessonId": 169,
+    "status": "present",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 1070,
+    "courseId": 29,
+    "studentId": 53,
+    "lessonId": 170,
+    "status": "present",
+    "attendedAt": "2026-06-11"
+  },
+  {
+    "id": 1071,
+    "courseId": 29,
+    "studentId": 53,
+    "lessonId": 171,
+    "status": "present",
+    "attendedAt": "2026-06-14"
+  },
+  {
+    "id": 1072,
+    "courseId": 29,
+    "studentId": 53,
+    "lessonId": 172,
+    "status": "late",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 1073,
+    "courseId": 30,
+    "studentId": 24,
+    "lessonId": 175,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 1074,
+    "courseId": 30,
+    "studentId": 24,
+    "lessonId": 176,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 1075,
+    "courseId": 30,
+    "studentId": 24,
+    "lessonId": 177,
+    "status": "present",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 1076,
+    "courseId": 30,
+    "studentId": 24,
+    "lessonId": 178,
+    "status": "late",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 1077,
+    "courseId": 30,
+    "studentId": 68,
+    "lessonId": 175,
+    "status": "absent",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 1078,
+    "courseId": 30,
+    "studentId": 68,
+    "lessonId": 176,
+    "status": "late",
+    "attendedAt": "2026-06-17"
+  },
+  {
+    "id": 1079,
+    "courseId": 30,
+    "studentId": 68,
+    "lessonId": 177,
+    "status": "late",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 1080,
+    "courseId": 30,
+    "studentId": 68,
+    "lessonId": 178,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 1081,
+    "courseId": 30,
+    "studentId": 36,
+    "lessonId": 175,
+    "status": "late",
+    "attendedAt": "2026-06-02"
+  },
+  {
+    "id": 1082,
+    "courseId": 30,
+    "studentId": 36,
+    "lessonId": 176,
+    "status": "excused",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 1083,
+    "courseId": 30,
+    "studentId": 36,
+    "lessonId": 177,
+    "status": "present",
+    "attendedAt": "2026-06-18"
+  },
+  {
+    "id": 1084,
+    "courseId": 30,
+    "studentId": 36,
+    "lessonId": 178,
+    "status": "late",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 1085,
+    "courseId": 30,
+    "studentId": 33,
+    "lessonId": 175,
+    "status": "present",
+    "attendedAt": "2026-06-20"
+  },
+  {
+    "id": 1086,
+    "courseId": 30,
+    "studentId": 33,
+    "lessonId": 176,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 1087,
+    "courseId": 30,
+    "studentId": 33,
+    "lessonId": 177,
+    "status": "present",
+    "attendedAt": "2026-06-12"
+  },
+  {
+    "id": 1088,
+    "courseId": 30,
+    "studentId": 33,
+    "lessonId": 178,
+    "status": "present",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 1089,
+    "courseId": 30,
+    "studentId": 69,
+    "lessonId": 175,
+    "status": "late",
+    "attendedAt": "2026-06-03"
+  },
+  {
+    "id": 1090,
+    "courseId": 30,
+    "studentId": 69,
+    "lessonId": 176,
+    "status": "excused",
+    "attendedAt": "2026-06-06"
+  },
+  {
+    "id": 1091,
+    "courseId": 30,
+    "studentId": 69,
+    "lessonId": 177,
+    "status": "excused",
+    "attendedAt": "2026-06-10"
+  },
+  {
+    "id": 1092,
+    "courseId": 30,
+    "studentId": 69,
+    "lessonId": 178,
+    "status": "present",
+    "attendedAt": "2026-06-09"
+  },
+  {
+    "id": 1093,
+    "courseId": 30,
+    "studentId": 46,
+    "lessonId": 175,
+    "status": "absent",
+    "attendedAt": "2026-06-04"
+  },
+  {
+    "id": 1094,
+    "courseId": 30,
+    "studentId": 46,
+    "lessonId": 176,
+    "status": "present",
+    "attendedAt": "2026-06-19"
+  },
+  {
+    "id": 1095,
+    "courseId": 30,
+    "studentId": 46,
+    "lessonId": 177,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  },
+  {
+    "id": 1096,
+    "courseId": 30,
+    "studentId": 46,
+    "lessonId": 178,
+    "status": "present",
+    "attendedAt": "2026-06-07"
+  }
+]

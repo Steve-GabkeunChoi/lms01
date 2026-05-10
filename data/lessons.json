@@ -1,0 +1,1622 @@
+[
+  {
+    "id": 1,
+    "courseId": 1,
+    "title": "1차시 핵심 코드 작성",
+    "contentType": "document",
+    "duration": 40,
+    "order": 1,
+    "status": "draft"
+  },
+  {
+    "id": 2,
+    "courseId": 1,
+    "title": "2차시 개념 이해",
+    "contentType": "quiz",
+    "duration": 20,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 3,
+    "courseId": 1,
+    "title": "3차시 실습 환경 구성",
+    "contentType": "document",
+    "duration": 20,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 4,
+    "courseId": 1,
+    "title": "4차시 개념 이해",
+    "contentType": "video",
+    "duration": 30,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 5,
+    "courseId": 1,
+    "title": "5차시 개념 이해",
+    "contentType": "document",
+    "duration": 20,
+    "order": 5,
+    "status": "draft"
+  },
+  {
+    "id": 6,
+    "courseId": 1,
+    "title": "6차시 실습 환경 구성",
+    "contentType": "practice",
+    "duration": 30,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 7,
+    "courseId": 2,
+    "title": "1차시 데이터 처리",
+    "contentType": "practice",
+    "duration": 20,
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "id": 8,
+    "courseId": 2,
+    "title": "2차시 핵심 코드 작성",
+    "contentType": "practice",
+    "duration": 20,
+    "order": 2,
+    "status": "draft"
+  },
+  {
+    "id": 9,
+    "courseId": 2,
+    "title": "3차시 핵심 코드 작성",
+    "contentType": "practice",
+    "duration": 40,
+    "order": 3,
+    "status": "draft"
+  },
+  {
+    "id": 10,
+    "courseId": 2,
+    "title": "4차시 데이터 처리",
+    "contentType": "practice",
+    "duration": 40,
+    "order": 4,
+    "status": "draft"
+  },
+  {
+    "id": 11,
+    "courseId": 2,
+    "title": "5차시 개념 이해",
+    "contentType": "quiz",
+    "duration": 20,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 12,
+    "courseId": 2,
+    "title": "6차시 화면 구현",
+    "contentType": "video",
+    "duration": 30,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 13,
+    "courseId": 3,
+    "title": "1차시 종합 실습",
+    "contentType": "video",
+    "duration": 40,
+    "order": 1,
+    "status": "draft"
+  },
+  {
+    "id": 14,
+    "courseId": 3,
+    "title": "2차시 실습 환경 구성",
+    "contentType": "video",
+    "duration": 40,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 15,
+    "courseId": 3,
+    "title": "3차시 실습 환경 구성",
+    "contentType": "quiz",
+    "duration": 20,
+    "order": 3,
+    "status": "draft"
+  },
+  {
+    "id": 16,
+    "courseId": 3,
+    "title": "4차시 실습 환경 구성",
+    "contentType": "practice",
+    "duration": 20,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 17,
+    "courseId": 3,
+    "title": "5차시 핵심 코드 작성",
+    "contentType": "quiz",
+    "duration": 20,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 18,
+    "courseId": 3,
+    "title": "6차시 종합 실습",
+    "contentType": "document",
+    "duration": 35,
+    "order": 6,
+    "status": "draft"
+  },
+  {
+    "id": 19,
+    "courseId": 4,
+    "title": "1차시 핵심 코드 작성",
+    "contentType": "link",
+    "duration": 30,
+    "order": 1,
+    "status": "draft"
+  },
+  {
+    "id": 20,
+    "courseId": 4,
+    "title": "2차시 실습 환경 구성",
+    "contentType": "practice",
+    "duration": 25,
+    "order": 2,
+    "status": "draft"
+  },
+  {
+    "id": 21,
+    "courseId": 4,
+    "title": "3차시 실습 환경 구성",
+    "contentType": "quiz",
+    "duration": 25,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 22,
+    "courseId": 4,
+    "title": "4차시 종합 실습",
+    "contentType": "video",
+    "duration": 35,
+    "order": 4,
+    "status": "draft"
+  },
+  {
+    "id": 23,
+    "courseId": 4,
+    "title": "5차시 화면 구현",
+    "contentType": "video",
+    "duration": 30,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 24,
+    "courseId": 4,
+    "title": "6차시 개념 이해",
+    "contentType": "quiz",
+    "duration": 35,
+    "order": 6,
+    "status": "draft"
+  },
+  {
+    "id": 25,
+    "courseId": 5,
+    "title": "1차시 개념 이해",
+    "contentType": "quiz",
+    "duration": 20,
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "id": 26,
+    "courseId": 5,
+    "title": "2차시 실습 환경 구성",
+    "contentType": "practice",
+    "duration": 30,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 27,
+    "courseId": 5,
+    "title": "3차시 화면 구현",
+    "contentType": "link",
+    "duration": 25,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 28,
+    "courseId": 5,
+    "title": "4차시 종합 실습",
+    "contentType": "document",
+    "duration": 35,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 29,
+    "courseId": 5,
+    "title": "5차시 화면 구현",
+    "contentType": "link",
+    "duration": 40,
+    "order": 5,
+    "status": "draft"
+  },
+  {
+    "id": 30,
+    "courseId": 5,
+    "title": "6차시 개념 이해",
+    "contentType": "practice",
+    "duration": 40,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 31,
+    "courseId": 6,
+    "title": "1차시 화면 구현",
+    "contentType": "document",
+    "duration": 35,
+    "order": 1,
+    "status": "draft"
+  },
+  {
+    "id": 32,
+    "courseId": 6,
+    "title": "2차시 화면 구현",
+    "contentType": "practice",
+    "duration": 25,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 33,
+    "courseId": 6,
+    "title": "3차시 데이터 처리",
+    "contentType": "practice",
+    "duration": 40,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 34,
+    "courseId": 6,
+    "title": "4차시 실습 환경 구성",
+    "contentType": "practice",
+    "duration": 35,
+    "order": 4,
+    "status": "draft"
+  },
+  {
+    "id": 35,
+    "courseId": 6,
+    "title": "5차시 종합 실습",
+    "contentType": "document",
+    "duration": 40,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 36,
+    "courseId": 6,
+    "title": "6차시 핵심 코드 작성",
+    "contentType": "practice",
+    "duration": 40,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 37,
+    "courseId": 7,
+    "title": "1차시 종합 실습",
+    "contentType": "document",
+    "duration": 25,
+    "order": 1,
+    "status": "draft"
+  },
+  {
+    "id": 38,
+    "courseId": 7,
+    "title": "2차시 핵심 코드 작성",
+    "contentType": "link",
+    "duration": 40,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 39,
+    "courseId": 7,
+    "title": "3차시 실습 환경 구성",
+    "contentType": "document",
+    "duration": 30,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 40,
+    "courseId": 7,
+    "title": "4차시 핵심 코드 작성",
+    "contentType": "video",
+    "duration": 25,
+    "order": 4,
+    "status": "draft"
+  },
+  {
+    "id": 41,
+    "courseId": 7,
+    "title": "5차시 개념 이해",
+    "contentType": "document",
+    "duration": 35,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 42,
+    "courseId": 7,
+    "title": "6차시 실습 환경 구성",
+    "contentType": "practice",
+    "duration": 30,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 43,
+    "courseId": 8,
+    "title": "1차시 핵심 코드 작성",
+    "contentType": "document",
+    "duration": 20,
+    "order": 1,
+    "status": "draft"
+  },
+  {
+    "id": 44,
+    "courseId": 8,
+    "title": "2차시 개념 이해",
+    "contentType": "practice",
+    "duration": 25,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 45,
+    "courseId": 8,
+    "title": "3차시 데이터 처리",
+    "contentType": "video",
+    "duration": 20,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 46,
+    "courseId": 8,
+    "title": "4차시 데이터 처리",
+    "contentType": "document",
+    "duration": 40,
+    "order": 4,
+    "status": "draft"
+  },
+  {
+    "id": 47,
+    "courseId": 8,
+    "title": "5차시 핵심 코드 작성",
+    "contentType": "quiz",
+    "duration": 20,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 48,
+    "courseId": 8,
+    "title": "6차시 핵심 코드 작성",
+    "contentType": "link",
+    "duration": 35,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 49,
+    "courseId": 9,
+    "title": "1차시 종합 실습",
+    "contentType": "document",
+    "duration": 35,
+    "order": 1,
+    "status": "draft"
+  },
+  {
+    "id": 50,
+    "courseId": 9,
+    "title": "2차시 화면 구현",
+    "contentType": "link",
+    "duration": 35,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 51,
+    "courseId": 9,
+    "title": "3차시 종합 실습",
+    "contentType": "link",
+    "duration": 25,
+    "order": 3,
+    "status": "draft"
+  },
+  {
+    "id": 52,
+    "courseId": 9,
+    "title": "4차시 실습 환경 구성",
+    "contentType": "video",
+    "duration": 35,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 53,
+    "courseId": 9,
+    "title": "5차시 핵심 코드 작성",
+    "contentType": "practice",
+    "duration": 20,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 54,
+    "courseId": 9,
+    "title": "6차시 실습 환경 구성",
+    "contentType": "quiz",
+    "duration": 25,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 55,
+    "courseId": 10,
+    "title": "1차시 데이터 처리",
+    "contentType": "quiz",
+    "duration": 35,
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "id": 56,
+    "courseId": 10,
+    "title": "2차시 화면 구현",
+    "contentType": "quiz",
+    "duration": 40,
+    "order": 2,
+    "status": "draft"
+  },
+  {
+    "id": 57,
+    "courseId": 10,
+    "title": "3차시 종합 실습",
+    "contentType": "document",
+    "duration": 30,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 58,
+    "courseId": 10,
+    "title": "4차시 데이터 처리",
+    "contentType": "quiz",
+    "duration": 20,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 59,
+    "courseId": 10,
+    "title": "5차시 핵심 코드 작성",
+    "contentType": "link",
+    "duration": 25,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 60,
+    "courseId": 10,
+    "title": "6차시 종합 실습",
+    "contentType": "document",
+    "duration": 40,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 61,
+    "courseId": 11,
+    "title": "1차시 개념 이해",
+    "contentType": "link",
+    "duration": 35,
+    "order": 1,
+    "status": "draft"
+  },
+  {
+    "id": 62,
+    "courseId": 11,
+    "title": "2차시 실습 환경 구성",
+    "contentType": "quiz",
+    "duration": 40,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 63,
+    "courseId": 11,
+    "title": "3차시 종합 실습",
+    "contentType": "practice",
+    "duration": 40,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 64,
+    "courseId": 11,
+    "title": "4차시 데이터 처리",
+    "contentType": "quiz",
+    "duration": 25,
+    "order": 4,
+    "status": "draft"
+  },
+  {
+    "id": 65,
+    "courseId": 11,
+    "title": "5차시 실습 환경 구성",
+    "contentType": "quiz",
+    "duration": 40,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 66,
+    "courseId": 11,
+    "title": "6차시 종합 실습",
+    "contentType": "link",
+    "duration": 30,
+    "order": 6,
+    "status": "draft"
+  },
+  {
+    "id": 67,
+    "courseId": 12,
+    "title": "1차시 개념 이해",
+    "contentType": "practice",
+    "duration": 30,
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "id": 68,
+    "courseId": 12,
+    "title": "2차시 데이터 처리",
+    "contentType": "video",
+    "duration": 20,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 69,
+    "courseId": 12,
+    "title": "3차시 데이터 처리",
+    "contentType": "quiz",
+    "duration": 30,
+    "order": 3,
+    "status": "draft"
+  },
+  {
+    "id": 70,
+    "courseId": 12,
+    "title": "4차시 핵심 코드 작성",
+    "contentType": "video",
+    "duration": 25,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 71,
+    "courseId": 12,
+    "title": "5차시 종합 실습",
+    "contentType": "quiz",
+    "duration": 40,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 72,
+    "courseId": 12,
+    "title": "6차시 데이터 처리",
+    "contentType": "quiz",
+    "duration": 25,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 73,
+    "courseId": 13,
+    "title": "1차시 실습 환경 구성",
+    "contentType": "video",
+    "duration": 25,
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "id": 74,
+    "courseId": 13,
+    "title": "2차시 종합 실습",
+    "contentType": "link",
+    "duration": 25,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 75,
+    "courseId": 13,
+    "title": "3차시 핵심 코드 작성",
+    "contentType": "quiz",
+    "duration": 35,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 76,
+    "courseId": 13,
+    "title": "4차시 화면 구현",
+    "contentType": "document",
+    "duration": 35,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 77,
+    "courseId": 13,
+    "title": "5차시 실습 환경 구성",
+    "contentType": "practice",
+    "duration": 35,
+    "order": 5,
+    "status": "draft"
+  },
+  {
+    "id": 78,
+    "courseId": 13,
+    "title": "6차시 핵심 코드 작성",
+    "contentType": "quiz",
+    "duration": 25,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 79,
+    "courseId": 14,
+    "title": "1차시 개념 이해",
+    "contentType": "practice",
+    "duration": 30,
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "id": 80,
+    "courseId": 14,
+    "title": "2차시 종합 실습",
+    "contentType": "practice",
+    "duration": 30,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 81,
+    "courseId": 14,
+    "title": "3차시 데이터 처리",
+    "contentType": "quiz",
+    "duration": 40,
+    "order": 3,
+    "status": "draft"
+  },
+  {
+    "id": 82,
+    "courseId": 14,
+    "title": "4차시 개념 이해",
+    "contentType": "practice",
+    "duration": 25,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 83,
+    "courseId": 14,
+    "title": "5차시 데이터 처리",
+    "contentType": "video",
+    "duration": 20,
+    "order": 5,
+    "status": "draft"
+  },
+  {
+    "id": 84,
+    "courseId": 14,
+    "title": "6차시 핵심 코드 작성",
+    "contentType": "document",
+    "duration": 40,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 85,
+    "courseId": 15,
+    "title": "1차시 종합 실습",
+    "contentType": "link",
+    "duration": 20,
+    "order": 1,
+    "status": "draft"
+  },
+  {
+    "id": 86,
+    "courseId": 15,
+    "title": "2차시 개념 이해",
+    "contentType": "document",
+    "duration": 20,
+    "order": 2,
+    "status": "draft"
+  },
+  {
+    "id": 87,
+    "courseId": 15,
+    "title": "3차시 핵심 코드 작성",
+    "contentType": "practice",
+    "duration": 40,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 88,
+    "courseId": 15,
+    "title": "4차시 화면 구현",
+    "contentType": "document",
+    "duration": 25,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 89,
+    "courseId": 15,
+    "title": "5차시 데이터 처리",
+    "contentType": "practice",
+    "duration": 25,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 90,
+    "courseId": 15,
+    "title": "6차시 데이터 처리",
+    "contentType": "link",
+    "duration": 25,
+    "order": 6,
+    "status": "draft"
+  },
+  {
+    "id": 91,
+    "courseId": 16,
+    "title": "1차시 종합 실습",
+    "contentType": "link",
+    "duration": 20,
+    "order": 1,
+    "status": "draft"
+  },
+  {
+    "id": 92,
+    "courseId": 16,
+    "title": "2차시 화면 구현",
+    "contentType": "practice",
+    "duration": 25,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 93,
+    "courseId": 16,
+    "title": "3차시 종합 실습",
+    "contentType": "document",
+    "duration": 40,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 94,
+    "courseId": 16,
+    "title": "4차시 종합 실습",
+    "contentType": "quiz",
+    "duration": 20,
+    "order": 4,
+    "status": "draft"
+  },
+  {
+    "id": 95,
+    "courseId": 16,
+    "title": "5차시 개념 이해",
+    "contentType": "practice",
+    "duration": 35,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 96,
+    "courseId": 16,
+    "title": "6차시 실습 환경 구성",
+    "contentType": "quiz",
+    "duration": 35,
+    "order": 6,
+    "status": "draft"
+  },
+  {
+    "id": 97,
+    "courseId": 17,
+    "title": "1차시 개념 이해",
+    "contentType": "quiz",
+    "duration": 35,
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "id": 98,
+    "courseId": 17,
+    "title": "2차시 종합 실습",
+    "contentType": "quiz",
+    "duration": 25,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 99,
+    "courseId": 17,
+    "title": "3차시 실습 환경 구성",
+    "contentType": "link",
+    "duration": 40,
+    "order": 3,
+    "status": "draft"
+  },
+  {
+    "id": 100,
+    "courseId": 17,
+    "title": "4차시 개념 이해",
+    "contentType": "document",
+    "duration": 30,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 101,
+    "courseId": 17,
+    "title": "5차시 종합 실습",
+    "contentType": "link",
+    "duration": 35,
+    "order": 5,
+    "status": "draft"
+  },
+  {
+    "id": 102,
+    "courseId": 17,
+    "title": "6차시 핵심 코드 작성",
+    "contentType": "quiz",
+    "duration": 30,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 103,
+    "courseId": 18,
+    "title": "1차시 데이터 처리",
+    "contentType": "video",
+    "duration": 25,
+    "order": 1,
+    "status": "draft"
+  },
+  {
+    "id": 104,
+    "courseId": 18,
+    "title": "2차시 핵심 코드 작성",
+    "contentType": "video",
+    "duration": 20,
+    "order": 2,
+    "status": "draft"
+  },
+  {
+    "id": 105,
+    "courseId": 18,
+    "title": "3차시 개념 이해",
+    "contentType": "practice",
+    "duration": 20,
+    "order": 3,
+    "status": "draft"
+  },
+  {
+    "id": 106,
+    "courseId": 18,
+    "title": "4차시 데이터 처리",
+    "contentType": "quiz",
+    "duration": 25,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 107,
+    "courseId": 18,
+    "title": "5차시 실습 환경 구성",
+    "contentType": "quiz",
+    "duration": 25,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 108,
+    "courseId": 18,
+    "title": "6차시 개념 이해",
+    "contentType": "practice",
+    "duration": 30,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 109,
+    "courseId": 19,
+    "title": "1차시 화면 구현",
+    "contentType": "link",
+    "duration": 25,
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "id": 110,
+    "courseId": 19,
+    "title": "2차시 데이터 처리",
+    "contentType": "practice",
+    "duration": 35,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 111,
+    "courseId": 19,
+    "title": "3차시 화면 구현",
+    "contentType": "video",
+    "duration": 30,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 112,
+    "courseId": 19,
+    "title": "4차시 핵심 코드 작성",
+    "contentType": "quiz",
+    "duration": 35,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 113,
+    "courseId": 19,
+    "title": "5차시 화면 구현",
+    "contentType": "practice",
+    "duration": 40,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 114,
+    "courseId": 19,
+    "title": "6차시 실습 환경 구성",
+    "contentType": "quiz",
+    "duration": 20,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 115,
+    "courseId": 20,
+    "title": "1차시 실습 환경 구성",
+    "contentType": "practice",
+    "duration": 30,
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "id": 116,
+    "courseId": 20,
+    "title": "2차시 화면 구현",
+    "contentType": "video",
+    "duration": 20,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 117,
+    "courseId": 20,
+    "title": "3차시 종합 실습",
+    "contentType": "link",
+    "duration": 35,
+    "order": 3,
+    "status": "draft"
+  },
+  {
+    "id": 118,
+    "courseId": 20,
+    "title": "4차시 화면 구현",
+    "contentType": "video",
+    "duration": 35,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 119,
+    "courseId": 20,
+    "title": "5차시 개념 이해",
+    "contentType": "video",
+    "duration": 20,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 120,
+    "courseId": 20,
+    "title": "6차시 데이터 처리",
+    "contentType": "link",
+    "duration": 20,
+    "order": 6,
+    "status": "draft"
+  },
+  {
+    "id": 121,
+    "courseId": 21,
+    "title": "1차시 화면 구현",
+    "contentType": "link",
+    "duration": 35,
+    "order": 1,
+    "status": "draft"
+  },
+  {
+    "id": 122,
+    "courseId": 21,
+    "title": "2차시 실습 환경 구성",
+    "contentType": "link",
+    "duration": 20,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 123,
+    "courseId": 21,
+    "title": "3차시 개념 이해",
+    "contentType": "quiz",
+    "duration": 25,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 124,
+    "courseId": 21,
+    "title": "4차시 종합 실습",
+    "contentType": "document",
+    "duration": 20,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 125,
+    "courseId": 21,
+    "title": "5차시 개념 이해",
+    "contentType": "video",
+    "duration": 30,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 126,
+    "courseId": 21,
+    "title": "6차시 핵심 코드 작성",
+    "contentType": "link",
+    "duration": 30,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 127,
+    "courseId": 22,
+    "title": "1차시 실습 환경 구성",
+    "contentType": "quiz",
+    "duration": 20,
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "id": 128,
+    "courseId": 22,
+    "title": "2차시 개념 이해",
+    "contentType": "quiz",
+    "duration": 40,
+    "order": 2,
+    "status": "draft"
+  },
+  {
+    "id": 129,
+    "courseId": 22,
+    "title": "3차시 화면 구현",
+    "contentType": "video",
+    "duration": 35,
+    "order": 3,
+    "status": "draft"
+  },
+  {
+    "id": 130,
+    "courseId": 22,
+    "title": "4차시 화면 구현",
+    "contentType": "video",
+    "duration": 20,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 131,
+    "courseId": 22,
+    "title": "5차시 화면 구현",
+    "contentType": "quiz",
+    "duration": 35,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 132,
+    "courseId": 22,
+    "title": "6차시 개념 이해",
+    "contentType": "quiz",
+    "duration": 40,
+    "order": 6,
+    "status": "draft"
+  },
+  {
+    "id": 133,
+    "courseId": 23,
+    "title": "1차시 종합 실습",
+    "contentType": "document",
+    "duration": 35,
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "id": 134,
+    "courseId": 23,
+    "title": "2차시 화면 구현",
+    "contentType": "video",
+    "duration": 20,
+    "order": 2,
+    "status": "draft"
+  },
+  {
+    "id": 135,
+    "courseId": 23,
+    "title": "3차시 데이터 처리",
+    "contentType": "document",
+    "duration": 25,
+    "order": 3,
+    "status": "draft"
+  },
+  {
+    "id": 136,
+    "courseId": 23,
+    "title": "4차시 개념 이해",
+    "contentType": "quiz",
+    "duration": 20,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 137,
+    "courseId": 23,
+    "title": "5차시 종합 실습",
+    "contentType": "video",
+    "duration": 20,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 138,
+    "courseId": 23,
+    "title": "6차시 개념 이해",
+    "contentType": "document",
+    "duration": 35,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 139,
+    "courseId": 24,
+    "title": "1차시 핵심 코드 작성",
+    "contentType": "link",
+    "duration": 25,
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "id": 140,
+    "courseId": 24,
+    "title": "2차시 종합 실습",
+    "contentType": "document",
+    "duration": 20,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 141,
+    "courseId": 24,
+    "title": "3차시 종합 실습",
+    "contentType": "document",
+    "duration": 20,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 142,
+    "courseId": 24,
+    "title": "4차시 종합 실습",
+    "contentType": "link",
+    "duration": 35,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 143,
+    "courseId": 24,
+    "title": "5차시 종합 실습",
+    "contentType": "practice",
+    "duration": 20,
+    "order": 5,
+    "status": "draft"
+  },
+  {
+    "id": 144,
+    "courseId": 24,
+    "title": "6차시 개념 이해",
+    "contentType": "video",
+    "duration": 20,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 145,
+    "courseId": 25,
+    "title": "1차시 종합 실습",
+    "contentType": "link",
+    "duration": 20,
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "id": 146,
+    "courseId": 25,
+    "title": "2차시 핵심 코드 작성",
+    "contentType": "practice",
+    "duration": 40,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 147,
+    "courseId": 25,
+    "title": "3차시 데이터 처리",
+    "contentType": "link",
+    "duration": 20,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 148,
+    "courseId": 25,
+    "title": "4차시 핵심 코드 작성",
+    "contentType": "link",
+    "duration": 35,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 149,
+    "courseId": 25,
+    "title": "5차시 종합 실습",
+    "contentType": "document",
+    "duration": 25,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 150,
+    "courseId": 25,
+    "title": "6차시 핵심 코드 작성",
+    "contentType": "document",
+    "duration": 35,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 151,
+    "courseId": 26,
+    "title": "1차시 데이터 처리",
+    "contentType": "quiz",
+    "duration": 30,
+    "order": 1,
+    "status": "draft"
+  },
+  {
+    "id": 152,
+    "courseId": 26,
+    "title": "2차시 핵심 코드 작성",
+    "contentType": "practice",
+    "duration": 30,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 153,
+    "courseId": 26,
+    "title": "3차시 화면 구현",
+    "contentType": "link",
+    "duration": 30,
+    "order": 3,
+    "status": "draft"
+  },
+  {
+    "id": 154,
+    "courseId": 26,
+    "title": "4차시 종합 실습",
+    "contentType": "video",
+    "duration": 25,
+    "order": 4,
+    "status": "draft"
+  },
+  {
+    "id": 155,
+    "courseId": 26,
+    "title": "5차시 핵심 코드 작성",
+    "contentType": "link",
+    "duration": 35,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 156,
+    "courseId": 26,
+    "title": "6차시 데이터 처리",
+    "contentType": "quiz",
+    "duration": 35,
+    "order": 6,
+    "status": "draft"
+  },
+  {
+    "id": 157,
+    "courseId": 27,
+    "title": "1차시 실습 환경 구성",
+    "contentType": "quiz",
+    "duration": 30,
+    "order": 1,
+    "status": "draft"
+  },
+  {
+    "id": 158,
+    "courseId": 27,
+    "title": "2차시 개념 이해",
+    "contentType": "practice",
+    "duration": 30,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 159,
+    "courseId": 27,
+    "title": "3차시 데이터 처리",
+    "contentType": "document",
+    "duration": 40,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 160,
+    "courseId": 27,
+    "title": "4차시 핵심 코드 작성",
+    "contentType": "document",
+    "duration": 40,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 161,
+    "courseId": 27,
+    "title": "5차시 핵심 코드 작성",
+    "contentType": "link",
+    "duration": 35,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 162,
+    "courseId": 27,
+    "title": "6차시 화면 구현",
+    "contentType": "video",
+    "duration": 40,
+    "order": 6,
+    "status": "draft"
+  },
+  {
+    "id": 163,
+    "courseId": 28,
+    "title": "1차시 데이터 처리",
+    "contentType": "quiz",
+    "duration": 25,
+    "order": 1,
+    "status": "draft"
+  },
+  {
+    "id": 164,
+    "courseId": 28,
+    "title": "2차시 실습 환경 구성",
+    "contentType": "practice",
+    "duration": 40,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 165,
+    "courseId": 28,
+    "title": "3차시 종합 실습",
+    "contentType": "quiz",
+    "duration": 35,
+    "order": 3,
+    "status": "draft"
+  },
+  {
+    "id": 166,
+    "courseId": 28,
+    "title": "4차시 실습 환경 구성",
+    "contentType": "practice",
+    "duration": 40,
+    "order": 4,
+    "status": "published"
+  },
+  {
+    "id": 167,
+    "courseId": 28,
+    "title": "5차시 데이터 처리",
+    "contentType": "quiz",
+    "duration": 40,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 168,
+    "courseId": 28,
+    "title": "6차시 화면 구현",
+    "contentType": "practice",
+    "duration": 20,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 169,
+    "courseId": 29,
+    "title": "1차시 데이터 처리",
+    "contentType": "link",
+    "duration": 40,
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "id": 170,
+    "courseId": 29,
+    "title": "2차시 화면 구현",
+    "contentType": "practice",
+    "duration": 35,
+    "order": 2,
+    "status": "draft"
+  },
+  {
+    "id": 171,
+    "courseId": 29,
+    "title": "3차시 화면 구현",
+    "contentType": "document",
+    "duration": 25,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 172,
+    "courseId": 29,
+    "title": "4차시 실습 환경 구성",
+    "contentType": "video",
+    "duration": 25,
+    "order": 4,
+    "status": "draft"
+  },
+  {
+    "id": 173,
+    "courseId": 29,
+    "title": "5차시 핵심 코드 작성",
+    "contentType": "practice",
+    "duration": 40,
+    "order": 5,
+    "status": "draft"
+  },
+  {
+    "id": 174,
+    "courseId": 29,
+    "title": "6차시 핵심 코드 작성",
+    "contentType": "quiz",
+    "duration": 40,
+    "order": 6,
+    "status": "published"
+  },
+  {
+    "id": 175,
+    "courseId": 30,
+    "title": "1차시 실습 환경 구성",
+    "contentType": "video",
+    "duration": 35,
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "id": 176,
+    "courseId": 30,
+    "title": "2차시 개념 이해",
+    "contentType": "practice",
+    "duration": 35,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "id": 177,
+    "courseId": 30,
+    "title": "3차시 실습 환경 구성",
+    "contentType": "practice",
+    "duration": 40,
+    "order": 3,
+    "status": "published"
+  },
+  {
+    "id": 178,
+    "courseId": 30,
+    "title": "4차시 핵심 코드 작성",
+    "contentType": "practice",
+    "duration": 40,
+    "order": 4,
+    "status": "draft"
+  },
+  {
+    "id": 179,
+    "courseId": 30,
+    "title": "5차시 개념 이해",
+    "contentType": "video",
+    "duration": 20,
+    "order": 5,
+    "status": "published"
+  },
+  {
+    "id": 180,
+    "courseId": 30,
+    "title": "6차시 화면 구현",
+    "contentType": "quiz",
+    "duration": 40,
+    "order": 6,
+    "status": "draft"
+  }
+]

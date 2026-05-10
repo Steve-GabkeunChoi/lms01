@@ -1,0 +1,2762 @@
+[
+  {
+    "id": 1,
+    "courseId": 1,
+    "studentId": 20,
+    "assignmentScore": 65,
+    "attendanceScore": 76,
+    "examScore": 71,
+    "finalScore": 70,
+    "grade": "C"
+  },
+  {
+    "id": 2,
+    "courseId": 1,
+    "studentId": 68,
+    "assignmentScore": 65,
+    "attendanceScore": 76,
+    "examScore": 86,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 3,
+    "courseId": 1,
+    "studentId": 40,
+    "assignmentScore": 71,
+    "attendanceScore": 76,
+    "examScore": 55,
+    "finalScore": 66,
+    "grade": "F"
+  },
+  {
+    "id": 4,
+    "courseId": 1,
+    "studentId": 12,
+    "assignmentScore": 79,
+    "attendanceScore": 89,
+    "examScore": 69,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 5,
+    "courseId": 1,
+    "studentId": 57,
+    "assignmentScore": 83,
+    "attendanceScore": 75,
+    "examScore": 81,
+    "finalScore": 80,
+    "grade": "B"
+  },
+  {
+    "id": 6,
+    "courseId": 1,
+    "studentId": 71,
+    "assignmentScore": 67,
+    "attendanceScore": 74,
+    "examScore": 55,
+    "finalScore": 64,
+    "grade": "F"
+  },
+  {
+    "id": 7,
+    "courseId": 2,
+    "studentId": 65,
+    "assignmentScore": 67,
+    "attendanceScore": 81,
+    "examScore": 61,
+    "finalScore": 68,
+    "grade": "F"
+  },
+  {
+    "id": 8,
+    "courseId": 2,
+    "studentId": 40,
+    "assignmentScore": 88,
+    "attendanceScore": 91,
+    "examScore": 56,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 9,
+    "courseId": 2,
+    "studentId": 38,
+    "assignmentScore": 74,
+    "attendanceScore": 73,
+    "examScore": 77,
+    "finalScore": 75,
+    "grade": "C+"
+  },
+  {
+    "id": 10,
+    "courseId": 2,
+    "studentId": 19,
+    "assignmentScore": 62,
+    "attendanceScore": 80,
+    "examScore": 79,
+    "finalScore": 73,
+    "grade": "C"
+  },
+  {
+    "id": 11,
+    "courseId": 2,
+    "studentId": 37,
+    "assignmentScore": 86,
+    "attendanceScore": 94,
+    "examScore": 80,
+    "finalScore": 86,
+    "grade": "B+"
+  },
+  {
+    "id": 12,
+    "courseId": 2,
+    "studentId": 70,
+    "assignmentScore": 74,
+    "attendanceScore": 79,
+    "examScore": 81,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 13,
+    "courseId": 2,
+    "studentId": 16,
+    "assignmentScore": 64,
+    "attendanceScore": 99,
+    "examScore": 87,
+    "finalScore": 82,
+    "grade": "B"
+  },
+  {
+    "id": 14,
+    "courseId": 2,
+    "studentId": 54,
+    "assignmentScore": 88,
+    "attendanceScore": 87,
+    "examScore": 92,
+    "finalScore": 89,
+    "grade": "B+"
+  },
+  {
+    "id": 15,
+    "courseId": 2,
+    "studentId": 27,
+    "assignmentScore": 93,
+    "attendanceScore": 90,
+    "examScore": 72,
+    "finalScore": 84,
+    "grade": "B"
+  },
+  {
+    "id": 16,
+    "courseId": 2,
+    "studentId": 39,
+    "assignmentScore": 71,
+    "attendanceScore": 86,
+    "examScore": 81,
+    "finalScore": 79,
+    "grade": "C+"
+  },
+  {
+    "id": 17,
+    "courseId": 2,
+    "studentId": 63,
+    "assignmentScore": 73,
+    "attendanceScore": 63,
+    "examScore": 90,
+    "finalScore": 77,
+    "grade": "C+"
+  },
+  {
+    "id": 18,
+    "courseId": 3,
+    "studentId": 17,
+    "assignmentScore": 73,
+    "attendanceScore": 89,
+    "examScore": 91,
+    "finalScore": 84,
+    "grade": "B"
+  },
+  {
+    "id": 19,
+    "courseId": 3,
+    "studentId": 35,
+    "assignmentScore": 75,
+    "attendanceScore": 95,
+    "examScore": 87,
+    "finalScore": 85,
+    "grade": "B+"
+  },
+  {
+    "id": 20,
+    "courseId": 3,
+    "studentId": 13,
+    "assignmentScore": 67,
+    "attendanceScore": 65,
+    "examScore": 98,
+    "finalScore": 79,
+    "grade": "C+"
+  },
+  {
+    "id": 21,
+    "courseId": 3,
+    "studentId": 33,
+    "assignmentScore": 83,
+    "attendanceScore": 87,
+    "examScore": 55,
+    "finalScore": 73,
+    "grade": "C"
+  },
+  {
+    "id": 22,
+    "courseId": 3,
+    "studentId": 47,
+    "assignmentScore": 60,
+    "attendanceScore": 76,
+    "examScore": 95,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 23,
+    "courseId": 3,
+    "studentId": 41,
+    "assignmentScore": 91,
+    "attendanceScore": 100,
+    "examScore": 65,
+    "finalScore": 83,
+    "grade": "B"
+  },
+  {
+    "id": 24,
+    "courseId": 3,
+    "studentId": 40,
+    "assignmentScore": 72,
+    "attendanceScore": 90,
+    "examScore": 63,
+    "finalScore": 73,
+    "grade": "C"
+  },
+  {
+    "id": 25,
+    "courseId": 3,
+    "studentId": 67,
+    "assignmentScore": 79,
+    "attendanceScore": 87,
+    "examScore": 100,
+    "finalScore": 89,
+    "grade": "B+"
+  },
+  {
+    "id": 26,
+    "courseId": 3,
+    "studentId": 36,
+    "assignmentScore": 100,
+    "attendanceScore": 73,
+    "examScore": 64,
+    "finalScore": 79,
+    "grade": "C+"
+  },
+  {
+    "id": 27,
+    "courseId": 3,
+    "studentId": 66,
+    "assignmentScore": 85,
+    "attendanceScore": 60,
+    "examScore": 97,
+    "finalScore": 84,
+    "grade": "B"
+  },
+  {
+    "id": 28,
+    "courseId": 3,
+    "studentId": 45,
+    "assignmentScore": 78,
+    "attendanceScore": 61,
+    "examScore": 79,
+    "finalScore": 74,
+    "grade": "C"
+  },
+  {
+    "id": 29,
+    "courseId": 3,
+    "studentId": 16,
+    "assignmentScore": 88,
+    "attendanceScore": 80,
+    "examScore": 88,
+    "finalScore": 86,
+    "grade": "B+"
+  },
+  {
+    "id": 30,
+    "courseId": 4,
+    "studentId": 16,
+    "assignmentScore": 98,
+    "attendanceScore": 74,
+    "examScore": 76,
+    "finalScore": 83,
+    "grade": "B"
+  },
+  {
+    "id": 31,
+    "courseId": 4,
+    "studentId": 28,
+    "assignmentScore": 64,
+    "attendanceScore": 68,
+    "examScore": 58,
+    "finalScore": 63,
+    "grade": "F"
+  },
+  {
+    "id": 32,
+    "courseId": 4,
+    "studentId": 19,
+    "assignmentScore": 65,
+    "attendanceScore": 78,
+    "examScore": 57,
+    "finalScore": 65,
+    "grade": "F"
+  },
+  {
+    "id": 33,
+    "courseId": 4,
+    "studentId": 41,
+    "assignmentScore": 78,
+    "attendanceScore": 79,
+    "examScore": 89,
+    "finalScore": 83,
+    "grade": "B"
+  },
+  {
+    "id": 34,
+    "courseId": 4,
+    "studentId": 12,
+    "assignmentScore": 70,
+    "attendanceScore": 67,
+    "examScore": 60,
+    "finalScore": 65,
+    "grade": "F"
+  },
+  {
+    "id": 35,
+    "courseId": 4,
+    "studentId": 33,
+    "assignmentScore": 64,
+    "attendanceScore": 79,
+    "examScore": 56,
+    "finalScore": 65,
+    "grade": "F"
+  },
+  {
+    "id": 36,
+    "courseId": 4,
+    "studentId": 47,
+    "assignmentScore": 83,
+    "attendanceScore": 71,
+    "examScore": 94,
+    "finalScore": 84,
+    "grade": "B"
+  },
+  {
+    "id": 37,
+    "courseId": 4,
+    "studentId": 38,
+    "assignmentScore": 85,
+    "attendanceScore": 100,
+    "examScore": 87,
+    "finalScore": 90,
+    "grade": "A"
+  },
+  {
+    "id": 38,
+    "courseId": 4,
+    "studentId": 45,
+    "assignmentScore": 86,
+    "attendanceScore": 67,
+    "examScore": 62,
+    "finalScore": 72,
+    "grade": "C"
+  },
+  {
+    "id": 39,
+    "courseId": 5,
+    "studentId": 40,
+    "assignmentScore": 93,
+    "attendanceScore": 89,
+    "examScore": 74,
+    "finalScore": 84,
+    "grade": "B"
+  },
+  {
+    "id": 40,
+    "courseId": 5,
+    "studentId": 54,
+    "assignmentScore": 91,
+    "attendanceScore": 88,
+    "examScore": 79,
+    "finalScore": 85,
+    "grade": "B+"
+  },
+  {
+    "id": 41,
+    "courseId": 5,
+    "studentId": 64,
+    "assignmentScore": 66,
+    "attendanceScore": 87,
+    "examScore": 69,
+    "finalScore": 72,
+    "grade": "C"
+  },
+  {
+    "id": 42,
+    "courseId": 5,
+    "studentId": 39,
+    "assignmentScore": 84,
+    "attendanceScore": 72,
+    "examScore": 75,
+    "finalScore": 77,
+    "grade": "C+"
+  },
+  {
+    "id": 43,
+    "courseId": 5,
+    "studentId": 43,
+    "assignmentScore": 90,
+    "attendanceScore": 84,
+    "examScore": 80,
+    "finalScore": 84,
+    "grade": "B"
+  },
+  {
+    "id": 44,
+    "courseId": 5,
+    "studentId": 46,
+    "assignmentScore": 93,
+    "attendanceScore": 95,
+    "examScore": 72,
+    "finalScore": 85,
+    "grade": "B+"
+  },
+  {
+    "id": 45,
+    "courseId": 5,
+    "studentId": 37,
+    "assignmentScore": 67,
+    "attendanceScore": 97,
+    "examScore": 57,
+    "finalScore": 70,
+    "grade": "C"
+  },
+  {
+    "id": 46,
+    "courseId": 5,
+    "studentId": 44,
+    "assignmentScore": 88,
+    "attendanceScore": 76,
+    "examScore": 67,
+    "finalScore": 77,
+    "grade": "C+"
+  },
+  {
+    "id": 47,
+    "courseId": 5,
+    "studentId": 31,
+    "assignmentScore": 69,
+    "attendanceScore": 88,
+    "examScore": 79,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 48,
+    "courseId": 5,
+    "studentId": 56,
+    "assignmentScore": 99,
+    "attendanceScore": 77,
+    "examScore": 78,
+    "finalScore": 85,
+    "grade": "B+"
+  },
+  {
+    "id": 49,
+    "courseId": 5,
+    "studentId": 25,
+    "assignmentScore": 69,
+    "attendanceScore": 98,
+    "examScore": 88,
+    "finalScore": 84,
+    "grade": "B"
+  },
+  {
+    "id": 50,
+    "courseId": 5,
+    "studentId": 26,
+    "assignmentScore": 70,
+    "attendanceScore": 87,
+    "examScore": 64,
+    "finalScore": 72,
+    "grade": "C"
+  },
+  {
+    "id": 51,
+    "courseId": 5,
+    "studentId": 33,
+    "assignmentScore": 77,
+    "attendanceScore": 75,
+    "examScore": 62,
+    "finalScore": 70,
+    "grade": "C"
+  },
+  {
+    "id": 52,
+    "courseId": 5,
+    "studentId": 52,
+    "assignmentScore": 95,
+    "attendanceScore": 61,
+    "examScore": 81,
+    "finalScore": 81,
+    "grade": "B"
+  },
+  {
+    "id": 53,
+    "courseId": 5,
+    "studentId": 20,
+    "assignmentScore": 65,
+    "attendanceScore": 62,
+    "examScore": 94,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 54,
+    "courseId": 5,
+    "studentId": 61,
+    "assignmentScore": 88,
+    "attendanceScore": 79,
+    "examScore": 92,
+    "finalScore": 87,
+    "grade": "B+"
+  },
+  {
+    "id": 55,
+    "courseId": 6,
+    "studentId": 53,
+    "assignmentScore": 88,
+    "attendanceScore": 64,
+    "examScore": 61,
+    "finalScore": 71,
+    "grade": "C"
+  },
+  {
+    "id": 56,
+    "courseId": 6,
+    "studentId": 24,
+    "assignmentScore": 66,
+    "attendanceScore": 85,
+    "examScore": 74,
+    "finalScore": 74,
+    "grade": "C"
+  },
+  {
+    "id": 57,
+    "courseId": 6,
+    "studentId": 71,
+    "assignmentScore": 92,
+    "attendanceScore": 61,
+    "examScore": 79,
+    "finalScore": 79,
+    "grade": "C+"
+  },
+  {
+    "id": 58,
+    "courseId": 6,
+    "studentId": 12,
+    "assignmentScore": 83,
+    "attendanceScore": 68,
+    "examScore": 85,
+    "finalScore": 80,
+    "grade": "B"
+  },
+  {
+    "id": 59,
+    "courseId": 6,
+    "studentId": 17,
+    "assignmentScore": 65,
+    "attendanceScore": 61,
+    "examScore": 56,
+    "finalScore": 60,
+    "grade": "F"
+  },
+  {
+    "id": 60,
+    "courseId": 6,
+    "studentId": 28,
+    "assignmentScore": 69,
+    "attendanceScore": 92,
+    "examScore": 69,
+    "finalScore": 75,
+    "grade": "C+"
+  },
+  {
+    "id": 61,
+    "courseId": 6,
+    "studentId": 21,
+    "assignmentScore": 100,
+    "attendanceScore": 65,
+    "examScore": 60,
+    "finalScore": 75,
+    "grade": "C+"
+  },
+  {
+    "id": 62,
+    "courseId": 6,
+    "studentId": 49,
+    "assignmentScore": 95,
+    "attendanceScore": 72,
+    "examScore": 93,
+    "finalScore": 88,
+    "grade": "B+"
+  },
+  {
+    "id": 63,
+    "courseId": 7,
+    "studentId": 64,
+    "assignmentScore": 93,
+    "attendanceScore": 64,
+    "examScore": 63,
+    "finalScore": 74,
+    "grade": "C"
+  },
+  {
+    "id": 64,
+    "courseId": 7,
+    "studentId": 49,
+    "assignmentScore": 78,
+    "attendanceScore": 86,
+    "examScore": 83,
+    "finalScore": 82,
+    "grade": "B"
+  },
+  {
+    "id": 65,
+    "courseId": 7,
+    "studentId": 63,
+    "assignmentScore": 76,
+    "attendanceScore": 97,
+    "examScore": 70,
+    "finalScore": 79,
+    "grade": "C+"
+  },
+  {
+    "id": 66,
+    "courseId": 7,
+    "studentId": 57,
+    "assignmentScore": 80,
+    "attendanceScore": 63,
+    "examScore": 91,
+    "finalScore": 80,
+    "grade": "B"
+  },
+  {
+    "id": 67,
+    "courseId": 7,
+    "studentId": 70,
+    "assignmentScore": 66,
+    "attendanceScore": 94,
+    "examScore": 97,
+    "finalScore": 85,
+    "grade": "B+"
+  },
+  {
+    "id": 68,
+    "courseId": 8,
+    "studentId": 52,
+    "assignmentScore": 86,
+    "attendanceScore": 79,
+    "examScore": 93,
+    "finalScore": 87,
+    "grade": "B+"
+  },
+  {
+    "id": 69,
+    "courseId": 8,
+    "studentId": 28,
+    "assignmentScore": 63,
+    "attendanceScore": 67,
+    "examScore": 61,
+    "finalScore": 63,
+    "grade": "F"
+  },
+  {
+    "id": 70,
+    "courseId": 9,
+    "studentId": 58,
+    "assignmentScore": 87,
+    "attendanceScore": 64,
+    "examScore": 91,
+    "finalScore": 83,
+    "grade": "B"
+  },
+  {
+    "id": 71,
+    "courseId": 9,
+    "studentId": 25,
+    "assignmentScore": 73,
+    "attendanceScore": 97,
+    "examScore": 72,
+    "finalScore": 79,
+    "grade": "C+"
+  },
+  {
+    "id": 72,
+    "courseId": 9,
+    "studentId": 26,
+    "assignmentScore": 91,
+    "attendanceScore": 78,
+    "examScore": 66,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 73,
+    "courseId": 9,
+    "studentId": 43,
+    "assignmentScore": 96,
+    "attendanceScore": 87,
+    "examScore": 56,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 74,
+    "courseId": 9,
+    "studentId": 16,
+    "assignmentScore": 78,
+    "attendanceScore": 89,
+    "examScore": 92,
+    "finalScore": 86,
+    "grade": "B+"
+  },
+  {
+    "id": 75,
+    "courseId": 9,
+    "studentId": 42,
+    "assignmentScore": 80,
+    "attendanceScore": 79,
+    "examScore": 90,
+    "finalScore": 84,
+    "grade": "B"
+  },
+  {
+    "id": 76,
+    "courseId": 9,
+    "studentId": 30,
+    "assignmentScore": 77,
+    "attendanceScore": 100,
+    "examScore": 96,
+    "finalScore": 90,
+    "grade": "A"
+  },
+  {
+    "id": 77,
+    "courseId": 9,
+    "studentId": 14,
+    "assignmentScore": 92,
+    "attendanceScore": 65,
+    "examScore": 61,
+    "finalScore": 73,
+    "grade": "C"
+  },
+  {
+    "id": 78,
+    "courseId": 10,
+    "studentId": 47,
+    "assignmentScore": 93,
+    "attendanceScore": 91,
+    "examScore": 76,
+    "finalScore": 86,
+    "grade": "B+"
+  },
+  {
+    "id": 79,
+    "courseId": 10,
+    "studentId": 24,
+    "assignmentScore": 74,
+    "attendanceScore": 83,
+    "examScore": 62,
+    "finalScore": 71,
+    "grade": "C"
+  },
+  {
+    "id": 80,
+    "courseId": 10,
+    "studentId": 13,
+    "assignmentScore": 80,
+    "attendanceScore": 92,
+    "examScore": 87,
+    "finalScore": 86,
+    "grade": "B+"
+  },
+  {
+    "id": 81,
+    "courseId": 11,
+    "studentId": 26,
+    "assignmentScore": 78,
+    "attendanceScore": 79,
+    "examScore": 78,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 82,
+    "courseId": 11,
+    "studentId": 43,
+    "assignmentScore": 75,
+    "attendanceScore": 86,
+    "examScore": 87,
+    "finalScore": 83,
+    "grade": "B"
+  },
+  {
+    "id": 83,
+    "courseId": 11,
+    "studentId": 69,
+    "assignmentScore": 77,
+    "attendanceScore": 98,
+    "examScore": 93,
+    "finalScore": 89,
+    "grade": "B+"
+  },
+  {
+    "id": 84,
+    "courseId": 11,
+    "studentId": 68,
+    "assignmentScore": 75,
+    "attendanceScore": 87,
+    "examScore": 84,
+    "finalScore": 82,
+    "grade": "B"
+  },
+  {
+    "id": 85,
+    "courseId": 11,
+    "studentId": 70,
+    "assignmentScore": 76,
+    "attendanceScore": 99,
+    "examScore": 68,
+    "finalScore": 79,
+    "grade": "C+"
+  },
+  {
+    "id": 86,
+    "courseId": 11,
+    "studentId": 37,
+    "assignmentScore": 68,
+    "attendanceScore": 95,
+    "examScore": 96,
+    "finalScore": 86,
+    "grade": "B+"
+  },
+  {
+    "id": 87,
+    "courseId": 11,
+    "studentId": 22,
+    "assignmentScore": 68,
+    "attendanceScore": 95,
+    "examScore": 55,
+    "finalScore": 70,
+    "grade": "C"
+  },
+  {
+    "id": 88,
+    "courseId": 11,
+    "studentId": 12,
+    "assignmentScore": 65,
+    "attendanceScore": 76,
+    "examScore": 100,
+    "finalScore": 82,
+    "grade": "B"
+  },
+  {
+    "id": 89,
+    "courseId": 11,
+    "studentId": 67,
+    "assignmentScore": 71,
+    "attendanceScore": 83,
+    "examScore": 71,
+    "finalScore": 74,
+    "grade": "C"
+  },
+  {
+    "id": 90,
+    "courseId": 11,
+    "studentId": 40,
+    "assignmentScore": 99,
+    "attendanceScore": 72,
+    "examScore": 80,
+    "finalScore": 85,
+    "grade": "B+"
+  },
+  {
+    "id": 91,
+    "courseId": 11,
+    "studentId": 66,
+    "assignmentScore": 89,
+    "attendanceScore": 71,
+    "examScore": 100,
+    "finalScore": 89,
+    "grade": "B+"
+  },
+  {
+    "id": 92,
+    "courseId": 11,
+    "studentId": 38,
+    "assignmentScore": 66,
+    "attendanceScore": 79,
+    "examScore": 97,
+    "finalScore": 82,
+    "grade": "B"
+  },
+  {
+    "id": 93,
+    "courseId": 11,
+    "studentId": 34,
+    "assignmentScore": 66,
+    "attendanceScore": 71,
+    "examScore": 85,
+    "finalScore": 75,
+    "grade": "C+"
+  },
+  {
+    "id": 94,
+    "courseId": 11,
+    "studentId": 36,
+    "assignmentScore": 93,
+    "attendanceScore": 86,
+    "examScore": 57,
+    "finalScore": 77,
+    "grade": "C+"
+  },
+  {
+    "id": 95,
+    "courseId": 12,
+    "studentId": 24,
+    "assignmentScore": 72,
+    "attendanceScore": 85,
+    "examScore": 80,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 96,
+    "courseId": 12,
+    "studentId": 61,
+    "assignmentScore": 87,
+    "attendanceScore": 72,
+    "examScore": 78,
+    "finalScore": 80,
+    "grade": "B"
+  },
+  {
+    "id": 97,
+    "courseId": 12,
+    "studentId": 35,
+    "assignmentScore": 95,
+    "attendanceScore": 78,
+    "examScore": 80,
+    "finalScore": 85,
+    "grade": "B+"
+  },
+  {
+    "id": 98,
+    "courseId": 12,
+    "studentId": 39,
+    "assignmentScore": 96,
+    "attendanceScore": 85,
+    "examScore": 87,
+    "finalScore": 90,
+    "grade": "A"
+  },
+  {
+    "id": 99,
+    "courseId": 12,
+    "studentId": 13,
+    "assignmentScore": 85,
+    "attendanceScore": 72,
+    "examScore": 79,
+    "finalScore": 79,
+    "grade": "C+"
+  },
+  {
+    "id": 100,
+    "courseId": 12,
+    "studentId": 63,
+    "assignmentScore": 69,
+    "attendanceScore": 92,
+    "examScore": 76,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 101,
+    "courseId": 12,
+    "studentId": 60,
+    "assignmentScore": 95,
+    "attendanceScore": 89,
+    "examScore": 57,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 102,
+    "courseId": 12,
+    "studentId": 52,
+    "assignmentScore": 65,
+    "attendanceScore": 75,
+    "examScore": 98,
+    "finalScore": 81,
+    "grade": "B"
+  },
+  {
+    "id": 103,
+    "courseId": 12,
+    "studentId": 37,
+    "assignmentScore": 64,
+    "attendanceScore": 95,
+    "examScore": 66,
+    "finalScore": 73,
+    "grade": "C"
+  },
+  {
+    "id": 104,
+    "courseId": 12,
+    "studentId": 47,
+    "assignmentScore": 83,
+    "attendanceScore": 77,
+    "examScore": 84,
+    "finalScore": 82,
+    "grade": "B"
+  },
+  {
+    "id": 105,
+    "courseId": 12,
+    "studentId": 70,
+    "assignmentScore": 90,
+    "attendanceScore": 81,
+    "examScore": 74,
+    "finalScore": 81,
+    "grade": "B"
+  },
+  {
+    "id": 106,
+    "courseId": 12,
+    "studentId": 25,
+    "assignmentScore": 98,
+    "attendanceScore": 83,
+    "examScore": 66,
+    "finalScore": 81,
+    "grade": "B"
+  },
+  {
+    "id": 107,
+    "courseId": 12,
+    "studentId": 58,
+    "assignmentScore": 94,
+    "attendanceScore": 71,
+    "examScore": 65,
+    "finalScore": 77,
+    "grade": "C+"
+  },
+  {
+    "id": 108,
+    "courseId": 12,
+    "studentId": 17,
+    "assignmentScore": 65,
+    "attendanceScore": 69,
+    "examScore": 91,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 109,
+    "courseId": 12,
+    "studentId": 15,
+    "assignmentScore": 93,
+    "attendanceScore": 73,
+    "examScore": 85,
+    "finalScore": 85,
+    "grade": "B+"
+  },
+  {
+    "id": 110,
+    "courseId": 12,
+    "studentId": 38,
+    "assignmentScore": 81,
+    "attendanceScore": 66,
+    "examScore": 88,
+    "finalScore": 80,
+    "grade": "B"
+  },
+  {
+    "id": 111,
+    "courseId": 13,
+    "studentId": 60,
+    "assignmentScore": 69,
+    "attendanceScore": 69,
+    "examScore": 100,
+    "finalScore": 81,
+    "grade": "B"
+  },
+  {
+    "id": 112,
+    "courseId": 13,
+    "studentId": 40,
+    "assignmentScore": 95,
+    "attendanceScore": 74,
+    "examScore": 76,
+    "finalScore": 82,
+    "grade": "B"
+  },
+  {
+    "id": 113,
+    "courseId": 13,
+    "studentId": 39,
+    "assignmentScore": 78,
+    "attendanceScore": 79,
+    "examScore": 60,
+    "finalScore": 71,
+    "grade": "C"
+  },
+  {
+    "id": 114,
+    "courseId": 13,
+    "studentId": 47,
+    "assignmentScore": 77,
+    "attendanceScore": 73,
+    "examScore": 80,
+    "finalScore": 77,
+    "grade": "C+"
+  },
+  {
+    "id": 115,
+    "courseId": 13,
+    "studentId": 24,
+    "assignmentScore": 60,
+    "attendanceScore": 87,
+    "examScore": 69,
+    "finalScore": 70,
+    "grade": "C"
+  },
+  {
+    "id": 116,
+    "courseId": 13,
+    "studentId": 17,
+    "assignmentScore": 84,
+    "attendanceScore": 89,
+    "examScore": 55,
+    "finalScore": 74,
+    "grade": "C"
+  },
+  {
+    "id": 117,
+    "courseId": 13,
+    "studentId": 23,
+    "assignmentScore": 88,
+    "attendanceScore": 100,
+    "examScore": 79,
+    "finalScore": 87,
+    "grade": "B+"
+  },
+  {
+    "id": 118,
+    "courseId": 13,
+    "studentId": 67,
+    "assignmentScore": 60,
+    "attendanceScore": 66,
+    "examScore": 69,
+    "finalScore": 65,
+    "grade": "F"
+  },
+  {
+    "id": 119,
+    "courseId": 13,
+    "studentId": 64,
+    "assignmentScore": 85,
+    "attendanceScore": 76,
+    "examScore": 70,
+    "finalScore": 77,
+    "grade": "C+"
+  },
+  {
+    "id": 120,
+    "courseId": 13,
+    "studentId": 32,
+    "assignmentScore": 61,
+    "attendanceScore": 97,
+    "examScore": 61,
+    "finalScore": 70,
+    "grade": "C"
+  },
+  {
+    "id": 121,
+    "courseId": 13,
+    "studentId": 65,
+    "assignmentScore": 89,
+    "attendanceScore": 86,
+    "examScore": 92,
+    "finalScore": 89,
+    "grade": "B+"
+  },
+  {
+    "id": 122,
+    "courseId": 13,
+    "studentId": 35,
+    "assignmentScore": 92,
+    "attendanceScore": 65,
+    "examScore": 70,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 123,
+    "courseId": 14,
+    "studentId": 43,
+    "assignmentScore": 88,
+    "attendanceScore": 78,
+    "examScore": 68,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 124,
+    "courseId": 14,
+    "studentId": 16,
+    "assignmentScore": 63,
+    "attendanceScore": 83,
+    "examScore": 91,
+    "finalScore": 79,
+    "grade": "C+"
+  },
+  {
+    "id": 125,
+    "courseId": 14,
+    "studentId": 37,
+    "assignmentScore": 62,
+    "attendanceScore": 67,
+    "examScore": 92,
+    "finalScore": 75,
+    "grade": "C+"
+  },
+  {
+    "id": 126,
+    "courseId": 14,
+    "studentId": 64,
+    "assignmentScore": 61,
+    "attendanceScore": 100,
+    "examScore": 100,
+    "finalScore": 86,
+    "grade": "B+"
+  },
+  {
+    "id": 127,
+    "courseId": 14,
+    "studentId": 27,
+    "assignmentScore": 97,
+    "attendanceScore": 91,
+    "examScore": 90,
+    "finalScore": 93,
+    "grade": "A"
+  },
+  {
+    "id": 128,
+    "courseId": 14,
+    "studentId": 18,
+    "assignmentScore": 69,
+    "attendanceScore": 85,
+    "examScore": 64,
+    "finalScore": 71,
+    "grade": "C"
+  },
+  {
+    "id": 129,
+    "courseId": 14,
+    "studentId": 59,
+    "assignmentScore": 94,
+    "attendanceScore": 89,
+    "examScore": 72,
+    "finalScore": 84,
+    "grade": "B"
+  },
+  {
+    "id": 130,
+    "courseId": 14,
+    "studentId": 65,
+    "assignmentScore": 82,
+    "attendanceScore": 85,
+    "examScore": 65,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 131,
+    "courseId": 14,
+    "studentId": 55,
+    "assignmentScore": 72,
+    "attendanceScore": 65,
+    "examScore": 100,
+    "finalScore": 81,
+    "grade": "B"
+  },
+  {
+    "id": 132,
+    "courseId": 14,
+    "studentId": 17,
+    "assignmentScore": 96,
+    "attendanceScore": 100,
+    "examScore": 76,
+    "finalScore": 89,
+    "grade": "B+"
+  },
+  {
+    "id": 133,
+    "courseId": 14,
+    "studentId": 14,
+    "assignmentScore": 98,
+    "attendanceScore": 87,
+    "examScore": 67,
+    "finalScore": 83,
+    "grade": "B"
+  },
+  {
+    "id": 134,
+    "courseId": 15,
+    "studentId": 28,
+    "assignmentScore": 78,
+    "attendanceScore": 96,
+    "examScore": 98,
+    "finalScore": 90,
+    "grade": "A"
+  },
+  {
+    "id": 135,
+    "courseId": 15,
+    "studentId": 26,
+    "assignmentScore": 80,
+    "attendanceScore": 63,
+    "examScore": 87,
+    "finalScore": 79,
+    "grade": "C+"
+  },
+  {
+    "id": 136,
+    "courseId": 15,
+    "studentId": 54,
+    "assignmentScore": 83,
+    "attendanceScore": 92,
+    "examScore": 61,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 137,
+    "courseId": 15,
+    "studentId": 39,
+    "assignmentScore": 62,
+    "attendanceScore": 81,
+    "examScore": 71,
+    "finalScore": 70,
+    "grade": "C"
+  },
+  {
+    "id": 138,
+    "courseId": 15,
+    "studentId": 35,
+    "assignmentScore": 76,
+    "attendanceScore": 77,
+    "examScore": 82,
+    "finalScore": 79,
+    "grade": "C+"
+  },
+  {
+    "id": 139,
+    "courseId": 15,
+    "studentId": 69,
+    "assignmentScore": 93,
+    "attendanceScore": 88,
+    "examScore": 83,
+    "finalScore": 88,
+    "grade": "B+"
+  },
+  {
+    "id": 140,
+    "courseId": 15,
+    "studentId": 56,
+    "assignmentScore": 89,
+    "attendanceScore": 89,
+    "examScore": 91,
+    "finalScore": 90,
+    "grade": "A"
+  },
+  {
+    "id": 141,
+    "courseId": 15,
+    "studentId": 33,
+    "assignmentScore": 80,
+    "attendanceScore": 67,
+    "examScore": 99,
+    "finalScore": 84,
+    "grade": "B"
+  },
+  {
+    "id": 142,
+    "courseId": 15,
+    "studentId": 38,
+    "assignmentScore": 99,
+    "attendanceScore": 71,
+    "examScore": 62,
+    "finalScore": 77,
+    "grade": "C+"
+  },
+  {
+    "id": 143,
+    "courseId": 15,
+    "studentId": 37,
+    "assignmentScore": 75,
+    "attendanceScore": 68,
+    "examScore": 68,
+    "finalScore": 70,
+    "grade": "C"
+  },
+  {
+    "id": 144,
+    "courseId": 15,
+    "studentId": 30,
+    "assignmentScore": 68,
+    "attendanceScore": 73,
+    "examScore": 86,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 145,
+    "courseId": 15,
+    "studentId": 44,
+    "assignmentScore": 81,
+    "attendanceScore": 72,
+    "examScore": 76,
+    "finalScore": 77,
+    "grade": "C+"
+  },
+  {
+    "id": 146,
+    "courseId": 16,
+    "studentId": 17,
+    "assignmentScore": 88,
+    "attendanceScore": 90,
+    "examScore": 57,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 147,
+    "courseId": 16,
+    "studentId": 22,
+    "assignmentScore": 100,
+    "attendanceScore": 71,
+    "examScore": 58,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 148,
+    "courseId": 16,
+    "studentId": 33,
+    "assignmentScore": 71,
+    "attendanceScore": 88,
+    "examScore": 59,
+    "finalScore": 70,
+    "grade": "C"
+  },
+  {
+    "id": 149,
+    "courseId": 16,
+    "studentId": 24,
+    "assignmentScore": 64,
+    "attendanceScore": 88,
+    "examScore": 56,
+    "finalScore": 67,
+    "grade": "F"
+  },
+  {
+    "id": 150,
+    "courseId": 16,
+    "studentId": 59,
+    "assignmentScore": 61,
+    "attendanceScore": 90,
+    "examScore": 81,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 151,
+    "courseId": 16,
+    "studentId": 14,
+    "assignmentScore": 92,
+    "attendanceScore": 65,
+    "examScore": 81,
+    "finalScore": 81,
+    "grade": "B"
+  },
+  {
+    "id": 152,
+    "courseId": 17,
+    "studentId": 64,
+    "assignmentScore": 74,
+    "attendanceScore": 68,
+    "examScore": 58,
+    "finalScore": 66,
+    "grade": "F"
+  },
+  {
+    "id": 153,
+    "courseId": 17,
+    "studentId": 31,
+    "assignmentScore": 97,
+    "attendanceScore": 86,
+    "examScore": 70,
+    "finalScore": 83,
+    "grade": "B"
+  },
+  {
+    "id": 154,
+    "courseId": 17,
+    "studentId": 70,
+    "assignmentScore": 81,
+    "attendanceScore": 79,
+    "examScore": 95,
+    "finalScore": 86,
+    "grade": "B+"
+  },
+  {
+    "id": 155,
+    "courseId": 17,
+    "studentId": 63,
+    "assignmentScore": 91,
+    "attendanceScore": 86,
+    "examScore": 80,
+    "finalScore": 85,
+    "grade": "B+"
+  },
+  {
+    "id": 156,
+    "courseId": 17,
+    "studentId": 17,
+    "assignmentScore": 63,
+    "attendanceScore": 92,
+    "examScore": 55,
+    "finalScore": 67,
+    "grade": "F"
+  },
+  {
+    "id": 157,
+    "courseId": 17,
+    "studentId": 57,
+    "assignmentScore": 80,
+    "attendanceScore": 62,
+    "examScore": 93,
+    "finalScore": 81,
+    "grade": "B"
+  },
+  {
+    "id": 158,
+    "courseId": 17,
+    "studentId": 42,
+    "assignmentScore": 87,
+    "attendanceScore": 72,
+    "examScore": 69,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 159,
+    "courseId": 17,
+    "studentId": 35,
+    "assignmentScore": 81,
+    "attendanceScore": 60,
+    "examScore": 56,
+    "finalScore": 66,
+    "grade": "F"
+  },
+  {
+    "id": 160,
+    "courseId": 17,
+    "studentId": 46,
+    "assignmentScore": 66,
+    "attendanceScore": 63,
+    "examScore": 82,
+    "finalScore": 72,
+    "grade": "C"
+  },
+  {
+    "id": 161,
+    "courseId": 17,
+    "studentId": 40,
+    "assignmentScore": 91,
+    "attendanceScore": 91,
+    "examScore": 78,
+    "finalScore": 86,
+    "grade": "B+"
+  },
+  {
+    "id": 162,
+    "courseId": 17,
+    "studentId": 60,
+    "assignmentScore": 66,
+    "attendanceScore": 97,
+    "examScore": 79,
+    "finalScore": 79,
+    "grade": "C+"
+  },
+  {
+    "id": 163,
+    "courseId": 17,
+    "studentId": 62,
+    "assignmentScore": 97,
+    "attendanceScore": 80,
+    "examScore": 55,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 164,
+    "courseId": 18,
+    "studentId": 62,
+    "assignmentScore": 84,
+    "attendanceScore": 100,
+    "examScore": 71,
+    "finalScore": 83,
+    "grade": "B"
+  },
+  {
+    "id": 165,
+    "courseId": 18,
+    "studentId": 28,
+    "assignmentScore": 86,
+    "attendanceScore": 99,
+    "examScore": 59,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 166,
+    "courseId": 18,
+    "studentId": 39,
+    "assignmentScore": 91,
+    "attendanceScore": 94,
+    "examScore": 88,
+    "finalScore": 91,
+    "grade": "A"
+  },
+  {
+    "id": 167,
+    "courseId": 18,
+    "studentId": 20,
+    "assignmentScore": 84,
+    "attendanceScore": 66,
+    "examScore": 86,
+    "finalScore": 80,
+    "grade": "B"
+  },
+  {
+    "id": 168,
+    "courseId": 18,
+    "studentId": 65,
+    "assignmentScore": 66,
+    "attendanceScore": 85,
+    "examScore": 97,
+    "finalScore": 83,
+    "grade": "B"
+  },
+  {
+    "id": 169,
+    "courseId": 18,
+    "studentId": 59,
+    "assignmentScore": 66,
+    "attendanceScore": 91,
+    "examScore": 82,
+    "finalScore": 79,
+    "grade": "C+"
+  },
+  {
+    "id": 170,
+    "courseId": 18,
+    "studentId": 31,
+    "assignmentScore": 92,
+    "attendanceScore": 98,
+    "examScore": 56,
+    "finalScore": 79,
+    "grade": "C+"
+  },
+  {
+    "id": 171,
+    "courseId": 18,
+    "studentId": 56,
+    "assignmentScore": 67,
+    "attendanceScore": 98,
+    "examScore": 85,
+    "finalScore": 82,
+    "grade": "B"
+  },
+  {
+    "id": 172,
+    "courseId": 18,
+    "studentId": 21,
+    "assignmentScore": 79,
+    "attendanceScore": 62,
+    "examScore": 93,
+    "finalScore": 80,
+    "grade": "B"
+  },
+  {
+    "id": 173,
+    "courseId": 18,
+    "studentId": 50,
+    "assignmentScore": 86,
+    "attendanceScore": 98,
+    "examScore": 72,
+    "finalScore": 83,
+    "grade": "B"
+  },
+  {
+    "id": 174,
+    "courseId": 18,
+    "studentId": 32,
+    "assignmentScore": 60,
+    "attendanceScore": 90,
+    "examScore": 70,
+    "finalScore": 72,
+    "grade": "C"
+  },
+  {
+    "id": 175,
+    "courseId": 18,
+    "studentId": 35,
+    "assignmentScore": 82,
+    "attendanceScore": 96,
+    "examScore": 84,
+    "finalScore": 86,
+    "grade": "B+"
+  },
+  {
+    "id": 176,
+    "courseId": 19,
+    "studentId": 48,
+    "assignmentScore": 84,
+    "attendanceScore": 66,
+    "examScore": 73,
+    "finalScore": 75,
+    "grade": "C+"
+  },
+  {
+    "id": 177,
+    "courseId": 19,
+    "studentId": 35,
+    "assignmentScore": 100,
+    "attendanceScore": 98,
+    "examScore": 94,
+    "finalScore": 97,
+    "grade": "A+"
+  },
+  {
+    "id": 178,
+    "courseId": 19,
+    "studentId": 59,
+    "assignmentScore": 63,
+    "attendanceScore": 81,
+    "examScore": 74,
+    "finalScore": 72,
+    "grade": "C"
+  },
+  {
+    "id": 179,
+    "courseId": 19,
+    "studentId": 24,
+    "assignmentScore": 94,
+    "attendanceScore": 75,
+    "examScore": 91,
+    "finalScore": 88,
+    "grade": "B+"
+  },
+  {
+    "id": 180,
+    "courseId": 19,
+    "studentId": 27,
+    "assignmentScore": 85,
+    "attendanceScore": 96,
+    "examScore": 97,
+    "finalScore": 93,
+    "grade": "A"
+  },
+  {
+    "id": 181,
+    "courseId": 19,
+    "studentId": 23,
+    "assignmentScore": 61,
+    "attendanceScore": 87,
+    "examScore": 84,
+    "finalScore": 77,
+    "grade": "C+"
+  },
+  {
+    "id": 182,
+    "courseId": 19,
+    "studentId": 63,
+    "assignmentScore": 95,
+    "attendanceScore": 100,
+    "examScore": 92,
+    "finalScore": 95,
+    "grade": "A+"
+  },
+  {
+    "id": 183,
+    "courseId": 19,
+    "studentId": 21,
+    "assignmentScore": 69,
+    "attendanceScore": 99,
+    "examScore": 85,
+    "finalScore": 83,
+    "grade": "B"
+  },
+  {
+    "id": 184,
+    "courseId": 20,
+    "studentId": 44,
+    "assignmentScore": 79,
+    "attendanceScore": 100,
+    "examScore": 89,
+    "finalScore": 88,
+    "grade": "B+"
+  },
+  {
+    "id": 185,
+    "courseId": 20,
+    "studentId": 67,
+    "assignmentScore": 62,
+    "attendanceScore": 78,
+    "examScore": 97,
+    "finalScore": 80,
+    "grade": "B"
+  },
+  {
+    "id": 186,
+    "courseId": 20,
+    "studentId": 23,
+    "assignmentScore": 60,
+    "attendanceScore": 69,
+    "examScore": 75,
+    "finalScore": 68,
+    "grade": "F"
+  },
+  {
+    "id": 187,
+    "courseId": 20,
+    "studentId": 40,
+    "assignmentScore": 63,
+    "attendanceScore": 75,
+    "examScore": 56,
+    "finalScore": 63,
+    "grade": "F"
+  },
+  {
+    "id": 188,
+    "courseId": 20,
+    "studentId": 28,
+    "assignmentScore": 70,
+    "attendanceScore": 76,
+    "examScore": 70,
+    "finalScore": 72,
+    "grade": "C"
+  },
+  {
+    "id": 189,
+    "courseId": 20,
+    "studentId": 62,
+    "assignmentScore": 84,
+    "attendanceScore": 74,
+    "examScore": 100,
+    "finalScore": 88,
+    "grade": "B+"
+  },
+  {
+    "id": 190,
+    "courseId": 20,
+    "studentId": 54,
+    "assignmentScore": 93,
+    "attendanceScore": 98,
+    "examScore": 75,
+    "finalScore": 87,
+    "grade": "B+"
+  },
+  {
+    "id": 191,
+    "courseId": 21,
+    "studentId": 25,
+    "assignmentScore": 99,
+    "attendanceScore": 97,
+    "examScore": 64,
+    "finalScore": 84,
+    "grade": "B"
+  },
+  {
+    "id": 192,
+    "courseId": 21,
+    "studentId": 43,
+    "assignmentScore": 66,
+    "attendanceScore": 75,
+    "examScore": 83,
+    "finalScore": 75,
+    "grade": "C+"
+  },
+  {
+    "id": 193,
+    "courseId": 21,
+    "studentId": 47,
+    "assignmentScore": 93,
+    "attendanceScore": 84,
+    "examScore": 77,
+    "finalScore": 84,
+    "grade": "B"
+  },
+  {
+    "id": 194,
+    "courseId": 21,
+    "studentId": 42,
+    "assignmentScore": 69,
+    "attendanceScore": 88,
+    "examScore": 66,
+    "finalScore": 73,
+    "grade": "C"
+  },
+  {
+    "id": 195,
+    "courseId": 21,
+    "studentId": 16,
+    "assignmentScore": 95,
+    "attendanceScore": 78,
+    "examScore": 78,
+    "finalScore": 84,
+    "grade": "B"
+  },
+  {
+    "id": 196,
+    "courseId": 22,
+    "studentId": 38,
+    "assignmentScore": 61,
+    "attendanceScore": 93,
+    "examScore": 72,
+    "finalScore": 73,
+    "grade": "C"
+  },
+  {
+    "id": 197,
+    "courseId": 22,
+    "studentId": 13,
+    "assignmentScore": 91,
+    "attendanceScore": 63,
+    "examScore": 62,
+    "finalScore": 72,
+    "grade": "C"
+  },
+  {
+    "id": 198,
+    "courseId": 22,
+    "studentId": 63,
+    "assignmentScore": 70,
+    "attendanceScore": 60,
+    "examScore": 80,
+    "finalScore": 72,
+    "grade": "C"
+  },
+  {
+    "id": 199,
+    "courseId": 22,
+    "studentId": 53,
+    "assignmentScore": 95,
+    "attendanceScore": 64,
+    "examScore": 75,
+    "finalScore": 79,
+    "grade": "C+"
+  },
+  {
+    "id": 200,
+    "courseId": 22,
+    "studentId": 37,
+    "assignmentScore": 81,
+    "attendanceScore": 64,
+    "examScore": 64,
+    "finalScore": 70,
+    "grade": "C"
+  },
+  {
+    "id": 201,
+    "courseId": 22,
+    "studentId": 58,
+    "assignmentScore": 84,
+    "attendanceScore": 68,
+    "examScore": 74,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 202,
+    "courseId": 22,
+    "studentId": 12,
+    "assignmentScore": 94,
+    "attendanceScore": 62,
+    "examScore": 92,
+    "finalScore": 85,
+    "grade": "B+"
+  },
+  {
+    "id": 203,
+    "courseId": 22,
+    "studentId": 39,
+    "assignmentScore": 67,
+    "attendanceScore": 89,
+    "examScore": 87,
+    "finalScore": 80,
+    "grade": "B"
+  },
+  {
+    "id": 204,
+    "courseId": 22,
+    "studentId": 22,
+    "assignmentScore": 69,
+    "attendanceScore": 91,
+    "examScore": 62,
+    "finalScore": 72,
+    "grade": "C"
+  },
+  {
+    "id": 205,
+    "courseId": 22,
+    "studentId": 19,
+    "assignmentScore": 73,
+    "attendanceScore": 69,
+    "examScore": 74,
+    "finalScore": 72,
+    "grade": "C"
+  },
+  {
+    "id": 206,
+    "courseId": 22,
+    "studentId": 68,
+    "assignmentScore": 74,
+    "attendanceScore": 60,
+    "examScore": 58,
+    "finalScore": 64,
+    "grade": "F"
+  },
+  {
+    "id": 207,
+    "courseId": 23,
+    "studentId": 66,
+    "assignmentScore": 76,
+    "attendanceScore": 66,
+    "examScore": 66,
+    "finalScore": 70,
+    "grade": "C"
+  },
+  {
+    "id": 208,
+    "courseId": 23,
+    "studentId": 51,
+    "assignmentScore": 88,
+    "attendanceScore": 100,
+    "examScore": 88,
+    "finalScore": 91,
+    "grade": "A"
+  },
+  {
+    "id": 209,
+    "courseId": 23,
+    "studentId": 37,
+    "assignmentScore": 80,
+    "attendanceScore": 68,
+    "examScore": 66,
+    "finalScore": 71,
+    "grade": "C"
+  },
+  {
+    "id": 210,
+    "courseId": 23,
+    "studentId": 42,
+    "assignmentScore": 80,
+    "attendanceScore": 85,
+    "examScore": 98,
+    "finalScore": 88,
+    "grade": "B+"
+  },
+  {
+    "id": 211,
+    "courseId": 23,
+    "studentId": 23,
+    "assignmentScore": 69,
+    "attendanceScore": 96,
+    "examScore": 83,
+    "finalScore": 81,
+    "grade": "B"
+  },
+  {
+    "id": 212,
+    "courseId": 23,
+    "studentId": 48,
+    "assignmentScore": 77,
+    "attendanceScore": 76,
+    "examScore": 93,
+    "finalScore": 83,
+    "grade": "B"
+  },
+  {
+    "id": 213,
+    "courseId": 23,
+    "studentId": 25,
+    "assignmentScore": 94,
+    "attendanceScore": 71,
+    "examScore": 63,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 214,
+    "courseId": 24,
+    "studentId": 31,
+    "assignmentScore": 99,
+    "attendanceScore": 83,
+    "examScore": 64,
+    "finalScore": 81,
+    "grade": "B"
+  },
+  {
+    "id": 215,
+    "courseId": 24,
+    "studentId": 49,
+    "assignmentScore": 75,
+    "attendanceScore": 61,
+    "examScore": 98,
+    "finalScore": 81,
+    "grade": "B"
+  },
+  {
+    "id": 216,
+    "courseId": 24,
+    "studentId": 39,
+    "assignmentScore": 67,
+    "attendanceScore": 72,
+    "examScore": 74,
+    "finalScore": 71,
+    "grade": "C"
+  },
+  {
+    "id": 217,
+    "courseId": 24,
+    "studentId": 36,
+    "assignmentScore": 60,
+    "attendanceScore": 79,
+    "examScore": 75,
+    "finalScore": 71,
+    "grade": "C"
+  },
+  {
+    "id": 218,
+    "courseId": 24,
+    "studentId": 35,
+    "assignmentScore": 66,
+    "attendanceScore": 78,
+    "examScore": 98,
+    "finalScore": 82,
+    "grade": "B"
+  },
+  {
+    "id": 219,
+    "courseId": 24,
+    "studentId": 64,
+    "assignmentScore": 89,
+    "attendanceScore": 94,
+    "examScore": 65,
+    "finalScore": 81,
+    "grade": "B"
+  },
+  {
+    "id": 220,
+    "courseId": 24,
+    "studentId": 23,
+    "assignmentScore": 88,
+    "attendanceScore": 66,
+    "examScore": 60,
+    "finalScore": 71,
+    "grade": "C"
+  },
+  {
+    "id": 221,
+    "courseId": 24,
+    "studentId": 43,
+    "assignmentScore": 82,
+    "attendanceScore": 85,
+    "examScore": 66,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 222,
+    "courseId": 24,
+    "studentId": 62,
+    "assignmentScore": 70,
+    "attendanceScore": 73,
+    "examScore": 59,
+    "finalScore": 66,
+    "grade": "F"
+  },
+  {
+    "id": 223,
+    "courseId": 24,
+    "studentId": 58,
+    "assignmentScore": 60,
+    "attendanceScore": 65,
+    "examScore": 97,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 224,
+    "courseId": 24,
+    "studentId": 56,
+    "assignmentScore": 85,
+    "attendanceScore": 65,
+    "examScore": 63,
+    "finalScore": 71,
+    "grade": "C"
+  },
+  {
+    "id": 225,
+    "courseId": 25,
+    "studentId": 16,
+    "assignmentScore": 75,
+    "attendanceScore": 89,
+    "examScore": 97,
+    "finalScore": 87,
+    "grade": "B+"
+  },
+  {
+    "id": 226,
+    "courseId": 25,
+    "studentId": 51,
+    "assignmentScore": 63,
+    "attendanceScore": 86,
+    "examScore": 95,
+    "finalScore": 82,
+    "grade": "B"
+  },
+  {
+    "id": 227,
+    "courseId": 25,
+    "studentId": 60,
+    "assignmentScore": 88,
+    "attendanceScore": 67,
+    "examScore": 56,
+    "finalScore": 70,
+    "grade": "C"
+  },
+  {
+    "id": 228,
+    "courseId": 25,
+    "studentId": 28,
+    "assignmentScore": 85,
+    "attendanceScore": 81,
+    "examScore": 67,
+    "finalScore": 77,
+    "grade": "C+"
+  },
+  {
+    "id": 229,
+    "courseId": 25,
+    "studentId": 22,
+    "assignmentScore": 75,
+    "attendanceScore": 97,
+    "examScore": 82,
+    "finalScore": 83,
+    "grade": "B"
+  },
+  {
+    "id": 230,
+    "courseId": 25,
+    "studentId": 32,
+    "assignmentScore": 82,
+    "attendanceScore": 89,
+    "examScore": 89,
+    "finalScore": 87,
+    "grade": "B+"
+  },
+  {
+    "id": 231,
+    "courseId": 25,
+    "studentId": 68,
+    "assignmentScore": 83,
+    "attendanceScore": 68,
+    "examScore": 79,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 232,
+    "courseId": 25,
+    "studentId": 29,
+    "assignmentScore": 64,
+    "attendanceScore": 78,
+    "examScore": 81,
+    "finalScore": 74,
+    "grade": "C"
+  },
+  {
+    "id": 233,
+    "courseId": 25,
+    "studentId": 41,
+    "assignmentScore": 78,
+    "attendanceScore": 78,
+    "examScore": 62,
+    "finalScore": 72,
+    "grade": "C"
+  },
+  {
+    "id": 234,
+    "courseId": 25,
+    "studentId": 66,
+    "assignmentScore": 73,
+    "attendanceScore": 87,
+    "examScore": 75,
+    "finalScore": 77,
+    "grade": "C+"
+  },
+  {
+    "id": 235,
+    "courseId": 25,
+    "studentId": 44,
+    "assignmentScore": 88,
+    "attendanceScore": 78,
+    "examScore": 67,
+    "finalScore": 77,
+    "grade": "C+"
+  },
+  {
+    "id": 236,
+    "courseId": 26,
+    "studentId": 28,
+    "assignmentScore": 100,
+    "attendanceScore": 90,
+    "examScore": 74,
+    "finalScore": 87,
+    "grade": "B+"
+  },
+  {
+    "id": 237,
+    "courseId": 26,
+    "studentId": 46,
+    "assignmentScore": 84,
+    "attendanceScore": 99,
+    "examScore": 60,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 238,
+    "courseId": 26,
+    "studentId": 52,
+    "assignmentScore": 67,
+    "attendanceScore": 88,
+    "examScore": 59,
+    "finalScore": 69,
+    "grade": "F"
+  },
+  {
+    "id": 239,
+    "courseId": 26,
+    "studentId": 37,
+    "assignmentScore": 96,
+    "attendanceScore": 88,
+    "examScore": 82,
+    "finalScore": 88,
+    "grade": "B+"
+  },
+  {
+    "id": 240,
+    "courseId": 26,
+    "studentId": 71,
+    "assignmentScore": 76,
+    "attendanceScore": 91,
+    "examScore": 71,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 241,
+    "courseId": 27,
+    "studentId": 26,
+    "assignmentScore": 85,
+    "attendanceScore": 66,
+    "examScore": 69,
+    "finalScore": 74,
+    "grade": "C"
+  },
+  {
+    "id": 242,
+    "courseId": 27,
+    "studentId": 51,
+    "assignmentScore": 92,
+    "attendanceScore": 70,
+    "examScore": 87,
+    "finalScore": 84,
+    "grade": "B"
+  },
+  {
+    "id": 243,
+    "courseId": 27,
+    "studentId": 52,
+    "assignmentScore": 87,
+    "attendanceScore": 72,
+    "examScore": 55,
+    "finalScore": 70,
+    "grade": "C"
+  },
+  {
+    "id": 244,
+    "courseId": 27,
+    "studentId": 39,
+    "assignmentScore": 90,
+    "attendanceScore": 84,
+    "examScore": 76,
+    "finalScore": 83,
+    "grade": "B"
+  },
+  {
+    "id": 245,
+    "courseId": 27,
+    "studentId": 38,
+    "assignmentScore": 84,
+    "attendanceScore": 67,
+    "examScore": 90,
+    "finalScore": 82,
+    "grade": "B"
+  },
+  {
+    "id": 246,
+    "courseId": 27,
+    "studentId": 44,
+    "assignmentScore": 100,
+    "attendanceScore": 65,
+    "examScore": 80,
+    "finalScore": 83,
+    "grade": "B"
+  },
+  {
+    "id": 247,
+    "courseId": 27,
+    "studentId": 35,
+    "assignmentScore": 69,
+    "attendanceScore": 79,
+    "examScore": 81,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 248,
+    "courseId": 27,
+    "studentId": 15,
+    "assignmentScore": 92,
+    "attendanceScore": 68,
+    "examScore": 73,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 249,
+    "courseId": 27,
+    "studentId": 20,
+    "assignmentScore": 80,
+    "attendanceScore": 88,
+    "examScore": 84,
+    "finalScore": 84,
+    "grade": "B"
+  },
+  {
+    "id": 250,
+    "courseId": 27,
+    "studentId": 67,
+    "assignmentScore": 78,
+    "attendanceScore": 97,
+    "examScore": 85,
+    "finalScore": 86,
+    "grade": "B+"
+  },
+  {
+    "id": 251,
+    "courseId": 28,
+    "studentId": 37,
+    "assignmentScore": 99,
+    "attendanceScore": 99,
+    "examScore": 63,
+    "finalScore": 85,
+    "grade": "B+"
+  },
+  {
+    "id": 252,
+    "courseId": 28,
+    "studentId": 63,
+    "assignmentScore": 71,
+    "attendanceScore": 76,
+    "examScore": 95,
+    "finalScore": 82,
+    "grade": "B"
+  },
+  {
+    "id": 253,
+    "courseId": 28,
+    "studentId": 15,
+    "assignmentScore": 92,
+    "attendanceScore": 61,
+    "examScore": 81,
+    "finalScore": 80,
+    "grade": "B"
+  },
+  {
+    "id": 254,
+    "courseId": 28,
+    "studentId": 53,
+    "assignmentScore": 61,
+    "attendanceScore": 77,
+    "examScore": 89,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 255,
+    "courseId": 28,
+    "studentId": 50,
+    "assignmentScore": 91,
+    "attendanceScore": 83,
+    "examScore": 68,
+    "finalScore": 80,
+    "grade": "B"
+  },
+  {
+    "id": 256,
+    "courseId": 28,
+    "studentId": 66,
+    "assignmentScore": 87,
+    "attendanceScore": 61,
+    "examScore": 84,
+    "finalScore": 79,
+    "grade": "C+"
+  },
+  {
+    "id": 257,
+    "courseId": 28,
+    "studentId": 62,
+    "assignmentScore": 86,
+    "attendanceScore": 72,
+    "examScore": 99,
+    "finalScore": 88,
+    "grade": "B+"
+  },
+  {
+    "id": 258,
+    "courseId": 29,
+    "studentId": 16,
+    "assignmentScore": 65,
+    "attendanceScore": 65,
+    "examScore": 95,
+    "finalScore": 77,
+    "grade": "C+"
+  },
+  {
+    "id": 259,
+    "courseId": 29,
+    "studentId": 31,
+    "assignmentScore": 74,
+    "attendanceScore": 79,
+    "examScore": 79,
+    "finalScore": 77,
+    "grade": "C+"
+  },
+  {
+    "id": 260,
+    "courseId": 29,
+    "studentId": 52,
+    "assignmentScore": 72,
+    "attendanceScore": 86,
+    "examScore": 78,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 261,
+    "courseId": 29,
+    "studentId": 58,
+    "assignmentScore": 96,
+    "attendanceScore": 89,
+    "examScore": 95,
+    "finalScore": 94,
+    "grade": "A"
+  },
+  {
+    "id": 262,
+    "courseId": 29,
+    "studentId": 62,
+    "assignmentScore": 87,
+    "attendanceScore": 83,
+    "examScore": 79,
+    "finalScore": 83,
+    "grade": "B"
+  },
+  {
+    "id": 263,
+    "courseId": 29,
+    "studentId": 46,
+    "assignmentScore": 66,
+    "attendanceScore": 74,
+    "examScore": 59,
+    "finalScore": 65,
+    "grade": "F"
+  },
+  {
+    "id": 264,
+    "courseId": 29,
+    "studentId": 36,
+    "assignmentScore": 79,
+    "attendanceScore": 93,
+    "examScore": 62,
+    "finalScore": 76,
+    "grade": "C+"
+  },
+  {
+    "id": 265,
+    "courseId": 29,
+    "studentId": 39,
+    "assignmentScore": 97,
+    "attendanceScore": 88,
+    "examScore": 81,
+    "finalScore": 88,
+    "grade": "B+"
+  },
+  {
+    "id": 266,
+    "courseId": 29,
+    "studentId": 41,
+    "assignmentScore": 82,
+    "attendanceScore": 96,
+    "examScore": 81,
+    "finalScore": 85,
+    "grade": "B+"
+  },
+  {
+    "id": 267,
+    "courseId": 29,
+    "studentId": 17,
+    "assignmentScore": 100,
+    "attendanceScore": 70,
+    "examScore": 70,
+    "finalScore": 80,
+    "grade": "B"
+  },
+  {
+    "id": 268,
+    "courseId": 29,
+    "studentId": 53,
+    "assignmentScore": 100,
+    "attendanceScore": 97,
+    "examScore": 87,
+    "finalScore": 94,
+    "grade": "A"
+  },
+  {
+    "id": 269,
+    "courseId": 30,
+    "studentId": 24,
+    "assignmentScore": 94,
+    "attendanceScore": 87,
+    "examScore": 76,
+    "finalScore": 85,
+    "grade": "B+"
+  },
+  {
+    "id": 270,
+    "courseId": 30,
+    "studentId": 68,
+    "assignmentScore": 76,
+    "attendanceScore": 84,
+    "examScore": 75,
+    "finalScore": 78,
+    "grade": "C+"
+  },
+  {
+    "id": 271,
+    "courseId": 30,
+    "studentId": 36,
+    "assignmentScore": 91,
+    "attendanceScore": 88,
+    "examScore": 57,
+    "finalScore": 77,
+    "grade": "C+"
+  },
+  {
+    "id": 272,
+    "courseId": 30,
+    "studentId": 33,
+    "assignmentScore": 91,
+    "attendanceScore": 96,
+    "examScore": 87,
+    "finalScore": 91,
+    "grade": "A"
+  },
+  {
+    "id": 273,
+    "courseId": 30,
+    "studentId": 69,
+    "assignmentScore": 73,
+    "attendanceScore": 63,
+    "examScore": 65,
+    "finalScore": 67,
+    "grade": "F"
+  },
+  {
+    "id": 274,
+    "courseId": 30,
+    "studentId": 46,
+    "assignmentScore": 63,
+    "attendanceScore": 82,
+    "examScore": 74,
+    "finalScore": 72,
+    "grade": "C"
+  },
+  {
+    "id": 275,
+    "courseId": 2,
+    "studentId": 12,
+    "assignmentScore": 85,
+    "attendanceScore": 90,
+    "examScore": 88,
+    "finalScore": 88,
+    "grade": "B+"
+  },
+  {
+    "id": 276,
+    "courseId": 3,
+    "studentId": 12,
+    "assignmentScore": 85,
+    "attendanceScore": 90,
+    "examScore": 88,
+    "finalScore": 88,
+    "grade": "B+"
+  }
+]

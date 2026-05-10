@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "courseId": 1,
+    "title": "JavaScript DOM 실습 1 과제 1",
+    "dueDate": "2026-06-16",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 2,
+    "courseId": 1,
+    "title": "JavaScript DOM 실습 1 과제 2",
+    "dueDate": "2026-06-18",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 3,
+    "courseId": 1,
+    "title": "JavaScript DOM 실습 1 과제 3",
+    "dueDate": "2026-06-13",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 4,
+    "courseId": 2,
+    "title": "React Query 상태관리 실습 2 과제 1",
+    "dueDate": "2026-06-28",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 5,
+    "courseId": 2,
+    "title": "React Query 상태관리 실습 2 과제 2",
+    "dueDate": "2026-06-14",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 6,
+    "courseId": 2,
+    "title": "React Query 상태관리 실습 2 과제 3",
+    "dueDate": "2026-06-11",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 7,
+    "courseId": 3,
+    "title": "GitHub Pages 정적 배포 3 과제 1",
+    "dueDate": "2026-06-16",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 8,
+    "courseId": 3,
+    "title": "GitHub Pages 정적 배포 3 과제 2",
+    "dueDate": "2026-06-22",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 9,
+    "courseId": 3,
+    "title": "GitHub Pages 정적 배포 3 과제 3",
+    "dueDate": "2026-06-10",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 10,
+    "courseId": 4,
+    "title": "AI Agent 기초 4 과제 1",
+    "dueDate": "2026-06-11",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 11,
+    "courseId": 4,
+    "title": "AI Agent 기초 4 과제 2",
+    "dueDate": "2026-06-21",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 12,
+    "courseId": 4,
+    "title": "AI Agent 기초 4 과제 3",
+    "dueDate": "2026-06-24",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 13,
+    "courseId": 5,
+    "title": "Next.js 금융 플랫폼 구축 5 과제 1",
+    "dueDate": "2026-06-12",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 14,
+    "courseId": 5,
+    "title": "Next.js 금융 플랫폼 구축 5 과제 2",
+    "dueDate": "2026-06-22",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 15,
+    "courseId": 5,
+    "title": "Next.js 금융 플랫폼 구축 5 과제 3",
+    "dueDate": "2026-06-12",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 16,
+    "courseId": 6,
+    "title": "MariaDB 실무 SQL 6 과제 1",
+    "dueDate": "2026-06-20",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 17,
+    "courseId": 6,
+    "title": "MariaDB 실무 SQL 6 과제 2",
+    "dueDate": "2026-06-17",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 18,
+    "courseId": 6,
+    "title": "MariaDB 실무 SQL 6 과제 3",
+    "dueDate": "2026-06-12",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 19,
+    "courseId": 7,
+    "title": "React Query 상태관리 실습 7 과제 1",
+    "dueDate": "2026-06-26",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 20,
+    "courseId": 7,
+    "title": "React Query 상태관리 실습 7 과제 2",
+    "dueDate": "2026-06-15",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 21,
+    "courseId": 7,
+    "title": "React Query 상태관리 실습 7 과제 3",
+    "dueDate": "2026-06-15",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 22,
+    "courseId": 8,
+    "title": "MariaDB 실무 SQL 8 과제 1",
+    "dueDate": "2026-06-17",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 23,
+    "courseId": 8,
+    "title": "MariaDB 실무 SQL 8 과제 2",
+    "dueDate": "2026-06-17",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 24,
+    "courseId": 8,
+    "title": "MariaDB 실무 SQL 8 과제 3",
+    "dueDate": "2026-06-11",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 25,
+    "courseId": 9,
+    "title": "MariaDB 실무 SQL 9 과제 1",
+    "dueDate": "2026-06-21",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 26,
+    "courseId": 9,
+    "title": "MariaDB 실무 SQL 9 과제 2",
+    "dueDate": "2026-06-27",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 27,
+    "courseId": 9,
+    "title": "MariaDB 실무 SQL 9 과제 3",
+    "dueDate": "2026-06-11",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 28,
+    "courseId": 10,
+    "title": "클라우드 배포 실무 10 과제 1",
+    "dueDate": "2026-06-26",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 29,
+    "courseId": 10,
+    "title": "클라우드 배포 실무 10 과제 2",
+    "dueDate": "2026-06-25",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 30,
+    "courseId": 10,
+    "title": "클라우드 배포 실무 10 과제 3",
+    "dueDate": "2026-06-13",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 31,
+    "courseId": 11,
+    "title": "MariaDB 실무 SQL 11 과제 1",
+    "dueDate": "2026-06-20",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 32,
+    "courseId": 11,
+    "title": "MariaDB 실무 SQL 11 과제 2",
+    "dueDate": "2026-06-16",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 33,
+    "courseId": 11,
+    "title": "MariaDB 실무 SQL 11 과제 3",
+    "dueDate": "2026-06-19",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 34,
+    "courseId": 12,
+    "title": "GitHub Pages 정적 배포 12 과제 1",
+    "dueDate": "2026-06-28",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 35,
+    "courseId": 12,
+    "title": "GitHub Pages 정적 배포 12 과제 2",
+    "dueDate": "2026-06-13",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 36,
+    "courseId": 12,
+    "title": "GitHub Pages 정적 배포 12 과제 3",
+    "dueDate": "2026-06-20",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 37,
+    "courseId": 13,
+    "title": "클라우드 배포 실무 13 과제 1",
+    "dueDate": "2026-06-18",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 38,
+    "courseId": 13,
+    "title": "클라우드 배포 실무 13 과제 2",
+    "dueDate": "2026-06-13",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 39,
+    "courseId": 13,
+    "title": "클라우드 배포 실무 13 과제 3",
+    "dueDate": "2026-06-25",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 40,
+    "courseId": 14,
+    "title": "Python 데이터 분석 14 과제 1",
+    "dueDate": "2026-06-15",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 41,
+    "courseId": 14,
+    "title": "Python 데이터 분석 14 과제 2",
+    "dueDate": "2026-06-17",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 42,
+    "courseId": 14,
+    "title": "Python 데이터 분석 14 과제 3",
+    "dueDate": "2026-06-10",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 43,
+    "courseId": 15,
+    "title": "클라우드 배포 실무 15 과제 1",
+    "dueDate": "2026-06-16",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 44,
+    "courseId": 15,
+    "title": "클라우드 배포 실무 15 과제 2",
+    "dueDate": "2026-06-15",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 45,
+    "courseId": 15,
+    "title": "클라우드 배포 실무 15 과제 3",
+    "dueDate": "2026-06-12",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 46,
+    "courseId": 16,
+    "title": "MariaDB 실무 SQL 16 과제 1",
+    "dueDate": "2026-06-21",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 47,
+    "courseId": 16,
+    "title": "MariaDB 실무 SQL 16 과제 2",
+    "dueDate": "2026-06-14",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 48,
+    "courseId": 16,
+    "title": "MariaDB 실무 SQL 16 과제 3",
+    "dueDate": "2026-06-13",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 49,
+    "courseId": 17,
+    "title": "GitHub Pages 정적 배포 17 과제 1",
+    "dueDate": "2026-06-10",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 50,
+    "courseId": 17,
+    "title": "GitHub Pages 정적 배포 17 과제 2",
+    "dueDate": "2026-06-12",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 51,
+    "courseId": 17,
+    "title": "GitHub Pages 정적 배포 17 과제 3",
+    "dueDate": "2026-06-20",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 52,
+    "courseId": 18,
+    "title": "Python 데이터 분석 18 과제 1",
+    "dueDate": "2026-06-17",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 53,
+    "courseId": 18,
+    "title": "Python 데이터 분석 18 과제 2",
+    "dueDate": "2026-06-13",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 54,
+    "courseId": 18,
+    "title": "Python 데이터 분석 18 과제 3",
+    "dueDate": "2026-06-21",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 55,
+    "courseId": 19,
+    "title": "GitHub Pages 정적 배포 19 과제 1",
+    "dueDate": "2026-06-20",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 56,
+    "courseId": 19,
+    "title": "GitHub Pages 정적 배포 19 과제 2",
+    "dueDate": "2026-06-11",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 57,
+    "courseId": 19,
+    "title": "GitHub Pages 정적 배포 19 과제 3",
+    "dueDate": "2026-06-24",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 58,
+    "courseId": 20,
+    "title": "GitHub Pages 정적 배포 20 과제 1",
+    "dueDate": "2026-06-14",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 59,
+    "courseId": 20,
+    "title": "GitHub Pages 정적 배포 20 과제 2",
+    "dueDate": "2026-06-14",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 60,
+    "courseId": 20,
+    "title": "GitHub Pages 정적 배포 20 과제 3",
+    "dueDate": "2026-06-23",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 61,
+    "courseId": 21,
+    "title": "Python 데이터 분석 21 과제 1",
+    "dueDate": "2026-06-17",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 62,
+    "courseId": 21,
+    "title": "Python 데이터 분석 21 과제 2",
+    "dueDate": "2026-06-10",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 63,
+    "courseId": 21,
+    "title": "Python 데이터 분석 21 과제 3",
+    "dueDate": "2026-06-28",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 64,
+    "courseId": 22,
+    "title": "React Query 상태관리 실습 22 과제 1",
+    "dueDate": "2026-06-20",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 65,
+    "courseId": 22,
+    "title": "React Query 상태관리 실습 22 과제 2",
+    "dueDate": "2026-06-18",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 66,
+    "courseId": 22,
+    "title": "React Query 상태관리 실습 22 과제 3",
+    "dueDate": "2026-06-13",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 67,
+    "courseId": 23,
+    "title": "React Query 상태관리 실습 23 과제 1",
+    "dueDate": "2026-06-24",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 68,
+    "courseId": 23,
+    "title": "React Query 상태관리 실습 23 과제 2",
+    "dueDate": "2026-06-13",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 69,
+    "courseId": 23,
+    "title": "React Query 상태관리 실습 23 과제 3",
+    "dueDate": "2026-06-26",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 70,
+    "courseId": 24,
+    "title": "Next.js 금융 플랫폼 구축 24 과제 1",
+    "dueDate": "2026-06-16",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 71,
+    "courseId": 24,
+    "title": "Next.js 금융 플랫폼 구축 24 과제 2",
+    "dueDate": "2026-06-25",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 72,
+    "courseId": 24,
+    "title": "Next.js 금융 플랫폼 구축 24 과제 3",
+    "dueDate": "2026-06-13",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 73,
+    "courseId": 25,
+    "title": "AI Agent 기초 25 과제 1",
+    "dueDate": "2026-06-16",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 74,
+    "courseId": 25,
+    "title": "AI Agent 기초 25 과제 2",
+    "dueDate": "2026-06-23",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 75,
+    "courseId": 25,
+    "title": "AI Agent 기초 25 과제 3",
+    "dueDate": "2026-06-17",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 76,
+    "courseId": 26,
+    "title": "클라우드 배포 실무 26 과제 1",
+    "dueDate": "2026-06-13",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 77,
+    "courseId": 26,
+    "title": "클라우드 배포 실무 26 과제 2",
+    "dueDate": "2026-06-19",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 78,
+    "courseId": 26,
+    "title": "클라우드 배포 실무 26 과제 3",
+    "dueDate": "2026-06-15",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 79,
+    "courseId": 27,
+    "title": "클라우드 배포 실무 27 과제 1",
+    "dueDate": "2026-06-19",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 80,
+    "courseId": 27,
+    "title": "클라우드 배포 실무 27 과제 2",
+    "dueDate": "2026-06-10",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 81,
+    "courseId": 27,
+    "title": "클라우드 배포 실무 27 과제 3",
+    "dueDate": "2026-06-26",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 82,
+    "courseId": 28,
+    "title": "Python 데이터 분석 28 과제 1",
+    "dueDate": "2026-06-26",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 83,
+    "courseId": 28,
+    "title": "Python 데이터 분석 28 과제 2",
+    "dueDate": "2026-06-24",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 84,
+    "courseId": 28,
+    "title": "Python 데이터 분석 28 과제 3",
+    "dueDate": "2026-06-26",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 85,
+    "courseId": 29,
+    "title": "클라우드 배포 실무 29 과제 1",
+    "dueDate": "2026-06-15",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 86,
+    "courseId": 29,
+    "title": "클라우드 배포 실무 29 과제 2",
+    "dueDate": "2026-06-23",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 87,
+    "courseId": 29,
+    "title": "클라우드 배포 실무 29 과제 3",
+    "dueDate": "2026-06-23",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 88,
+    "courseId": 30,
+    "title": "HTML/CSS UI 설계 30 과제 1",
+    "dueDate": "2026-06-18",
+    "score": 100,
+    "status": "closed"
+  },
+  {
+    "id": 89,
+    "courseId": 30,
+    "title": "HTML/CSS UI 설계 30 과제 2",
+    "dueDate": "2026-06-15",
+    "score": 100,
+    "status": "open"
+  },
+  {
+    "id": 90,
+    "courseId": 30,
+    "title": "HTML/CSS UI 설계 30 과제 3",
+    "dueDate": "2026-06-15",
+    "score": 100,
+    "status": "closed"
+  }
+]
